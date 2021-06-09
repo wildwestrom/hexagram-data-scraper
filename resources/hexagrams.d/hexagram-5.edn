@@ -1,0 +1,226 @@
+{:binary "111010",
+ :line-1
+ {:confucius-legge
+  "He makes no movement to encounter rashly the difficulties of the situation. There will be no error if he constantly maintains his purpose -- he will not fail to pursue that regular course. Wilhelm/Baynes: One does not seek out difficulties overhastily. One has not abandoned the general ground. Blofeld: Not rushing forward to undertake what is difficult to perform. Doing nothing out of the ordinary. Ritsema/Karcher: Not opposing heavy moving indeed. Not-yet letting-go rules indeed. Cleary (2): One has not entered into difficult actions. One has not yet lost normalcy. Wu: Not to proceed toward danger. Not to deviate from normal course.",
+  :liu
+  "Waiting in the countryside. It is of benefit to continue. No regret.",
+  :cleary-1
+  "Waiting on the outskirts, it is beneficial to employ constancy; then there is no fault.",
+  :legge
+  "The border means the frontier of the state. Line one appears at work in his distant fields, not thinking of anything but his daily work, and he is advised to abide in that state of mind. The regular course is the determination to maintain a distance from danger and wait for the proper time to act.",
+  :blofeld
+  "Stay on the outskirts avoiding action. Constancy preserves from harm.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Attending tending-towards the suburbs. Harvesting: availing-of persevering. Without fault.",
+  :wing
+  "Do not become agitated by your sense of an impending problem. Live your life as normally as possible and do nothing out of the ordinary. If there is a problem, it exists in the future. Acknowledging it now could diminish your strength.",
+  :editor
+  "A border is any threshold or boundary, such as the threshold between the conscious and unconscious minds. As yet the danger has not crossed this line, and we are advised not to go forth to meet it. Neither should we abandon our position, but just quietly allow the situation to unfold and define itself.",
+  :siu
+  "At the outset, there is a suggestion of danger. The man remains calm, concerns himself only with the immediate task at hand, and does not move to counteract remote threats.",
+  :commentary "",
+  :wilhelm-baynes
+  "Waiting in the meadow. It furthers one to abide in what endures. No blame.",
+  :wu
+  "He is waiting in the countryside. It will be advantageous for him to be persistent and thus free from blame.",
+  :shaughnessy
+  "Moistened in the pasture; beneficial to use constancy; there is no trouble."},
+ :line-5
+ {:confucius-legge
+  "The good fortune is indicated by his being in the central",
+  :liu "Waiting at the feast. Continuing brings good fortune.",
+  :cleary-1 "Waiting with food and wine, it is good to be correct.",
+  :legge
+  "Line five is dynamic in the central and correct place of the ruler. All good qualities therefore belong to him. He has triumphed, and with firmness will continue to triumph.",
+  :blofeld
+  "Inactivity amidst food and wine -- righteous persistence will bring good fortune. [We may safely relax and enjoy ourselves, but we must preserve our determination to act when the time is ripe.]",
+  :and-correct-place.
+  "Wilhelm/Baynes: Because of the central and correct character. Blofeld: The line is a firm one between two yielding lines. Ritsema/Karcher: Using centering correcting indeed. Cleary (2): Being centered correctly. Wu: Central and correct.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Attending tending-towards liquor taken-in. Trial: significant.",
+  :wing
+  "Your difficulties are held in abeyance now and it is a good time to relax and gain perspective on the situation. While you enjoy your respite, keep in mind that there is still much to be done in the attainment of your goals.",
+  :editor
+  "This line recalls the Image -- the superior man eats and drinks, feasts and enjoys himself as if there were nothing else to employ him. If this is the only changing line, the hexagram becomes number eleven: Harmony-- suggesting that one is situated very well indeed.",
+  :siu
+  "The man fortifies his reserve strength by enjoying the intervals of peace between crises. At the same time he maintains his orientation to the ultimate goal with optimistic buoyancy.",
+  :commentary "",
+  :wilhelm-baynes
+  "Waiting at meat and drink. Perseverance brings good fortune.",
+  :wu "He is waiting at feasting. Perseverance brings good fortune.",
+  :shaughnessy
+  "Moistened in the wine and food; determination is auspicious."},
+ :number 5,
+ :name "Waiting",
+ :the-image
+ {:legge
+  "The image of clouds ascending over the sky forms Waiting. The superior man, in accordance with this, eats and drinks, feasts and enjoys himself as if there were nothing else to employ him.",
+  :wilhelm-baynes
+  "Clouds rise up to heaven: the image of Waiting. Thus the superior man eats and drinks, is joyous and of good cheer.",
+  :blofeld
+  "This hexagram symbolizes clouds rising to the zenith -- inactivity! The Superior Man will pass this time in feasting and enjoyment.",
+  :liu
+  "Clouds rise up in the sky; this symbolizes Waiting. The superior man enjoys his food and drink. He remains relaxed and happy.",
+  :ritsema-karcher
+  "Above clouds with-respect-to heaven. Attending. A chun tzu uses drinking [and] taking-in to repose delighting.",
+  :cleary-1
+  "Clouds rise to heaven, waiting. The superior person makes merry with food and drink.",
+  :wu
+  "The clouds ascend to the sky; this is Waiting. Thus the jun zi enjoys food and peace."},
+ :line-4
+ {:confucius-legge
+  "She accommodates herself to the circumstances of the time, and hearkens to its requirements. Wilhelm/Baynes: He is yielding and obeys. Blofeld: To abstain from action amidst deeds of blood is to accord with the principle of allowing things to take their course. Ritsema/Karcher: Yielding uses hearkening indeed. Cleary (2): Means listening receptively. Wu: Waiting in blood calls for obedience.",
+  :liu "Waiting in blood. Come out from the pit.",
+  :cleary-1 "Waiting in blood. Leaving the cave.",
+  :legge
+  "Line four has passed from the lower to the upper trigram and entered the scene of danger and strife: the place of blood. However, she is magnetic and in her correct place, so she withdraws from engagement with the enemy and is thereby enabled to escape from the cavern. Recognition of the circumstances of the time and yielding to its requirements are the lessons here. She acknowledges her inadequacies and takes the prudent step.",
+  :blofeld
+  "Inactivity amidst blood -- we shall emerge from the abyss.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Attending tending-towards blood. Issuing- forth originates-from the cave.",
+  :wing
+  "You are waiting in the very center of chaos. Any sort of confrontation with the problems that present themselves will only make things worse. Remove yourself immediately and unobtrusively from the situation.",
+  :editor
+  "Psychologically interpreted, this line sometimes implies that during a transitional phase in the dialectical process of individuation one must avoid any influence that might interfere with that process. Each translator uses a different word for what may be interpreted as an image of the unconscious psyche: cavern, pit, abyss, cave and cavity all describe a hidden, dark, dangerous influence in the situation at hand.",
+  :siu
+  "The man enters the scene of strife and danger in a life and death struggle. He accommodates himself to fate, stands fast, and refrains from aggravating the problem.",
+  :commentary "",
+  :wilhelm-baynes "Waiting in blood. Get out of the pit.",
+  :wu "He is waiting in blood. He exits from the cave.",
+  :  "",
+  :shaughnessy
+  "Moistened in the blood; it comes out from the cavity."},
+ :line-2
+ {:confucius-legge
+  "He occupies his place in the center with a generous forbearance. He will bring things to a good issue. Wilhelm/Baynes: One is calm, for the line is central. Although this leads to some gossip, the end brings good fortune. Blofeld: The first sentence indicates a place with water flowing through the middle. Though there be gossip, all will be well in the end. Ritsema/Karcher: Overflowing located in the center indeed. Although the small possesses words, using completing significant indeed. Cleary (2): There is useless excess within. Though there is some criticism, it is to make the end auspicious. Wu: Indicates having forbearance. It will end with good fortune.",
+  :liu
+  "Waiting in the sand (seashore, bank of the river) arouses gossip. Good fortune in the end.",
+  :cleary-1
+  "Waiting on the sand, there is some criticism, but it turns out well.",
+  :legge
+  "The sand of line two suggests a nearer approach to the defile, but he is still self-restrained and waiting. That he is a dynamic line in a magnetic and central place shows him to be possessed of a large and generous forbearance.",
+  :blofeld
+  "Inactivity upon the river beach -- some slight gossip may arise, but the final result will be good fortune. [Sitting on a river beach watching the water flow past symbolizes watching what is going forward without taking part.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Attending tending-towards sands. The small possesses words. Completing significant.",
+  :wing
+  "What you propose to do will bring difficulties into your life. Furthermore, you could become a victim of gossip. If this occurs, don't try to defend yourself, as it will only lend weight to what is otherwise insubstantial. Success will eventually come.",
+  :editor
+  "Sand” often symbolizes time -- the innumerable petty details of life, or the inexorable wearing away of hours, minutes, seconds. When combined with the image of a river bank (Legge, Blofeld, Liu), the notion of waiting for time and events to fulfill themselves is further emphasized. Psychologically, to be spoken against refers to the impatient urging of the instinctual-emotional part of the psyche which demands immediate gratification of every current desire. Wilhelm renders being spoken against as gossip, which is rumor, speculation or imagination. (Cleary’s Buddhist text calls it “criticism.”) To exercise a “generous forbearance” means to endure and ignore these illusion-obsessed inner voices. Blofeld's note about watching what is going forward without taking part” is especially insightful: the line often portrays a situation in which one is required by circumstances to be an inactive observer. If this is the only changing line, the new hexagram created is number 63, Completion, suggesting that passive contemplation is linked with fulfillment of the Work.",
+  :siu
+  "The danger approaches with disagreements and unrest. The man remains self-controlled and does not respond to slander.",
+  :commentary "",
+  :wilhelm-baynes
+  "Waiting on the sand. There is some gossip. The end brings good fortune.",
+  :wu
+  "He is waiting on the sand. He may hear little complaints. Eventually, there will be good fortune.",
+  :shaughnessy
+  "Moistened in the sand; there are a few words; in the end auspicious."},
+ :judgment
+ {:liu
+  "Waiting.If you are sincere you will have glory (light) and success. Continuing leads to good fortune. It is of benefit to cross the great water (to travel to remote places).",
+  :cleary-1
+  "In Waiting there is sincerity and great development. It is good to be correct. It is beneficial to cross a great river.",
+  :cleary-2
+  "Waiting with truthfulness lights up success in correct orientation toward good. It is beneficial to cross a great river.",
+  :legge
+  "Waitingintimates that with sincerity and firmness there will be brilliant success and good fortune. It will be advantageous to cross the great stream.",
+  :blofeld
+  "Calculated inaction (or exhibiting the power to wait) and the confidence of others win brilliant success. Righteous persistence brings good fortune. It will be advantageous to cross the great river (or sea). [The significance of this hexagram is that inaction while awaiting the outcome of events will enable us to avoid a danger now threatening. Firmness, clarity of mind and success in winning the confidence of others are now demanded of us; with them, our undertakings will prosper. Moreover, this period of inaction is a good time in which to go on a journey or else for relaxation and enjoyment.]",
+  :ritsema-karcher
+  "Attending,  possessing conformity . Shining Growing, Trial: significant. Harvesting: wading the Great River. (Editor: Possessing conformity is translated as: ... Inner and outer are in accord; confidence of the spirits has been captured...) [This hexagram describes your situation in terms of being compelled to wait for and serve something. It emphasizes that fixing your attention on what is required while waiting carefully for the right moment to act is the adequate way to handle it. To be in accord with the time, you are told to: attend!]",
+  :wilhelm-baynes
+  "Waiting. If you are sincere, you have light and success. Perseverance brings good fortune. It furthers one to cross the great water.",
+  :wu
+  "Waiting indicates having confidence. It is brilliant and pervasive and auspicious to be persevering. It will be advantageous to cross the big river.",
+  :shaughnessy
+  "Moistened:  There is a return, radiant receipt; determination is auspicious; beneficial to ford the great river."},
+ :line-6
+ {:confucius-legge
+  "There has been no great failure in what has been done. Wilhelm/Baynes: Although the line is not in its proper place, at least no great mistake is made. Blofeld:  Nothing is lost by it.  [There is a Chinese proverb which runs: `Being over-courteous excites no blame from others.'] Ritsema/ Karcher: Not-yet the great let-go indeed. Cleary (2): Even though you do not reach rank, still you have not lost much. Wu: Although his position is not tenable, he has not faulted badly.",
+  :liu
+  "Entering the pit, three unexpected guests arrive. Treat them courteously. Good fortune in the end.",
+  :cleary-1
+  "Entering a cave. Three people come, guests not in haste: Respect them, and it will turn out well.",
+  :cleary-2 "… Three unhurried guests come … etc.",
+  :legge
+  "The magnetic sixth line has entered deeply into the cavern. Her correlate third line comes with two dynamic companions from the lower trigram to give help. If they are respectfully received, that help will prove effectual.",
+  :blofeld
+  "Entering a pit. Three uninvited guests arrive; to honor them will ultimately bring good fortune.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Entering tending-towards the cave. Possessing not urging's visitors. Three people coming. Respecting them: completing significant.",
+  :wing
+  "The time is complex. The waiting is over because the difficulties are upon you. There appears to be no way out of the situation. Yet help arrives if you recognize it. To know and graciously accept such unexpected and unfamiliar assistance will turn the entire situation toward the good.",
+  :editor
+  "A cavern, a narrow, dark and restricted place, can refer to ignorance as well as danger. However, things here are not as dark as they may appear and the issue will improve if you are receptive to a solution. Waiting is the subjective experience of the passage of time. If time and consciousness are in some ways synonymous, then waiting” implies the interval between ignorance and enlightenment.",
+  :siu
+  "The man falls into great complications. Everything looks black. But unexpected help arrives. If he is sensitive to it and accepts it graciously, there will be a happy turn of events.",
+  :commentary "",
+  :wilhelm-baynes
+  "One falls into the pit. Three uninvited guests arrive. Honor them, and in the end there will be good fortune.",
+  :wu
+  "He enters the cave. There come three uninvited guests. To receive them with respect will be auspicious in the end.",
+  :  "",
+  :shaughnessy
+  "Entering into the cavity; there are unbidden guests, three men, who come; respect them; in the end auspicious."},
+ :notes-&-para
+ {:judgment
+  "Strength in the face of danger here consists of the will to sit tight and do nothing.",
+  :the-superior-man
+  "carries on as if nothing was the matter, and nourishes himself through inaction.",
+  :there-are-many-kinds-of-courage--perhaps-the-greatest-of-all-is-the-courage-to-remain-unflinchingly-in-place-when-all-the-circumstances-seem-to-cry-out-for-action.-it-takes-far-more-courage-to-wait-for-the-dragon-to-slowly-come-to-you-than-to-rush-forth-and-attack-him-in-his-lair.-as-a-strategy,-to-out-wait-your-opponent-through-pure-willpower-and-inner-strength-can-be-more-effective-than-a-direct-attack--but-it-can-only-succeed-when-you-are-truly-strong.-it-is-as-if-the-real-battle-takes-place-on-the-inner-planes,-and-the-first-one-to-act-in-the-world-thereby-concedes-defeat.
+  "",
+  :a-very-large-part-of-the-work-consists-in-disciplining-oneself-to-wait--to-take-no-action-until-some-indefinite-time-in-the-future.-this-is-exceedingly-difficult-to-do,-and-creates-incredible-stresses-within-the-psyche--which-is-exactly-why-it-is-necessary.-psychologically,-to
+  "cross the great stream is to subdue all of the autonomous instincts, drives and emotions that are accustomed to responding whenever they are stimulated. As long as waiting creates feelings of stress, you can be sure that the battle has not been won. When you can wait like the superior man -- as if there were nothing else to do, then you can allow yourself to hope that you may be getting somewhere.",
+  :to-nourish-oneself-through-inaction-is-to-digest-and-absorb-the-energy-of-one's-instinctive-responses.-as-in-any-nourishing-assimilation,-their-strength-then-becomes-your-strength.-the-true-adept-is-one-who-has-digested-all-of-his-passion-and-is-thereby-empowered-to-use-it-for-his-own-purposes.-instead-of-engaging-in-civil-war,-he-has-united-his-forces-to-act-in-the-world.
+  ""},
+ :commentary
+ {:confucius-legge
+  "Waiting  shows peril in front, but its subject does not allow himself to be involved in the dangerous defile. The success in sincerity and good fortune in firmness are shown by the position of the fifth line which is correctly situated in the central place assigned by Heaven. Crossing the great stream will be followed by meritorious achievement.",
+  :legge
+  "Waiting is composed of the lower trigram of strength and the upper trigram of peril. Strength confronted by peril might be expected to advance boldly and deal with it at once, but the lesson of the hexagram is that it is wiser to wait until success is sure. In the situation at hand, firm correctness is all that is required for eventual victory.",
+  :"crossing-the-great-stream"
+  "is a frequent expression in the I Ching which symbolizes the undertaking of hazardous enterprises, or encountering great difficulties. Historically it refers to the Yellow River which the lords of Chou had to cross in their revolution against the Yin Dynasty tyrants. The crossing made by King Wu in 1122 B.C. was one of the greatest deeds in the history of China, and was preceded by a long period of waiting until success could be assured.",
+  :regarding-the-image,-it-is-said-that-the-cloud-that-has-risen-to-the-top-of-the-sky-has-nothing-to-do-but-wait-until-the-harmony-of-heaven-and-earth-require-it-to-discharge-its-store-of-rain.-the-superior-man-is-likewise-counseled-to-enjoy-his-idle-time-while-waiting-for-the-correct-moment-to-deal-with-the-approaching-danger.
+  ""},
+ :line-3
+ {:confucius-legge
+  "He is waiting in the mud -- the calamity in the upper trigram is close at hand. He invites the approach of injury, but if he is reverent and careful, he will not be worsted. Wilhelm/Baynes: The misfortune is outside. Seriousness and caution prevent defeat. Blofeld: Remaining inactive in the midst of mud subjects us to external dangers, but the approaching evil will not harm us if we exercise care. [We must not allow the mud to bog us down.]Ritsema/Karcher: Calamity located outside indeed. Originating-from my involving outlawry. Respectful consideration, not destroying indeed. Cleary (2): Once I have brought on enemies, I am careful not to be defeated. Wu: Inviting harm is a self-inflicted act. With respect and caution, however, he will be free from defeat.",
+  :liu "Waiting in the mud brings on the enemy.",
+  :cleary-1 "Waiting in the mud brings on enemies.",
+  :legge
+  "Here the subject is on the brink of the stream. His advance to this position has provoked resistance which may result in his injury.",
+  :blofeld
+  "Inactivity amidst the mud -- this permits the approach of evil. [This suggests a danger of our being so bogged down that we can neither fight nor flee.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Attending tending-towards bogs. Involving outlawry culminating.",
+  :wing
+  "Because of premature action on your part, inspired perhaps by anxiety, you will leave yourself open to attack. This situation is truly difficult because you are vulnerable. Only extreme caution will protect you.",
+  :editor
+  "In its most neutral interpretation, this line is an image of serious vulnerability: an unstable position invites attack. Mud is earth mixed with water. Psychologically, sensation (earth) and emotion (water) unite in a gooey morass of fear or anxiety which leaves one vulnerable to harm. Since the Work proceeds dialectically upward or downward, this position points out the danger of emotional responses: you could lose what you have gained unless you hold firm. Don't surrender to the complexes urging differentiation: heed the gnosis which counsels integration.",
+  :siu
+  "The man attempts a complex undertaking without sufficient capacity for success in one try. He finds himself mired in the intricacies, thereby inviting enemies onto the scene. Caution is required.",
+  :commentary "",
+  :wilhelm-baynes
+  "Waiting in the mud brings about the arrival of the enemy.",
+  :wu "He is waiting in the mud. This invites harm.",
+  :shaughnessy "Moistened in the mud; it causes robbers to arrive."},
+ :char \䷄,
+ :other-titles
+ {:titles
+  ("Nourishment"
+   "Calculated Inaction"
+   "Attending"
+   "Biding One's Time"
+   "Nourishment Through Inaction"
+   "Waiting for Nourishment"
+   "Moistened"),
+  :quotes
+  ({:author "D.F. Hook",
+    :quote "Waiting with the assurance that a blessing will come."})}}

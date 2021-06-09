@@ -1,0 +1,244 @@
+{:binary "000011",
+ :line-1
+ {:confucius-legge
+  "This indicates the way of the inferior people. Wilhelm/ Baynes: The way of inferior people. Blofeld:  For such conduct is suited to people of inferior worth. Ritsema/Karcher: Small People: tao indeed. Cleary (2): The naïve observation represented by the first yin is the way of underdeveloped people. Wu: Because this is the way of a little man.",
+  :liu
+  "Childish observation. For inferior people, no blame. For superior people, humiliation.",
+  :cleary-1
+  "Ignorant observation is not blamed in inferior people, but is shameful in superior people.",
+  :cleary-2
+  "Naïve observation is blameless in undeveloped people but shameful in developed people. [When undeveloped people are like children, this is not considered bad, but if developed people are like children, there is no way to govern nations and bring peace to earth.]",
+  :legge
+  "Line one is magnetic and in the lowest place, which is also improper for it. This suggests the symbol of a thoughtless child who cannot see far -- one who takes only shallow and superficial views.",
+  :blofeld
+  "Looking at things in a childish way is not blameworthy in ordinary people, but in the Superior Man it is a misfortune. [ It might be supposed that the Superior Man is incapable of such conduct; hence this passage must refer to one who is trying to be or who thinks himself a Superior Man.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Youthful viewing. Small People: without fault. Chun tzu: abashment.",
+  :wing
+  "Are you just looking at the surface of the situation and its most superficial effect upon you? This is an inferior, unenlightened form of contemplation. The superior mind will attempt to see the situation as part of a larger whole. This way you can know its actual meaning in your life.",
+  :editor
+  "Legge's original translation of this line says lad” instead of child. I have altered it to be more in conformance with the magnetic line. No meaning is lost. The line is completely unambiguous in all translations.",
+  :siu
+  "At the outset, the man does not comprehend the nature of prevailing forces nor does he perceive them as a connected whole. The superficial view is acceptable for the masses, but the superior man should know better.",
+  :commentary "",
+  :wilhelm-baynes
+  "Boy-like contemplation. For an inferior man, no blame. For a superior man, humiliation.",
+  :wu
+  "His view is like that of a child. There will be no error for a little man, but humiliation for a jun zi.",
+  :shaughnessy
+  "The youth looks up; for the little man there is no trouble, for the gentleman distress."},
+ :line-5
+ {:confucius-legge
+  "He should for this purpose contemplate the condition of the people.  Wilhelm/Baynes: Contemplation of my life,” that is, contemplation of the people. Blofeld:  In this passage, our lives” means the lives of the people. Ritsema/Karcher: Viewing the commoners indeed. Cleary (2): What is appropriate for a great leader is balance in action. Wu: He actually looks after his people.",
+  :liu "Observation of ourselves. No blame for the superior man.",
+  :cleary-1
+  "Observing personal growth, a superior person is blameless.",
+  :cleary-2 "… Developed people are impeccable.",
+  :legge
+  "Line five is dynamic, and in the place of the ruler. He is a superior man, but this does not relieve him from the duty of self-contemplation or examination.",
+  :blofeld
+  "The Superior Man does no wrong in keeping a watch upon our lives. [It is not wrong for us to be curious about the affairs of others if our motive is to be of more help to them.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Viewing my birth. A chun tzu: without fault.",
+  :wing
+  "You will gain an understanding of what the future holds for you by Contemplating the effect of your life upon others. If your influence and example are good, then you are without blame. This, you will find, is its own reward.",
+  :editor
+  "Notice that the Confucian commentary equates the contemplation of the life course of the ruler with the contemplation of the condition of the people. Psychologically, the people” are the various components of the psyche, and the line is an injunction to compare our current situation with the ideal image of the Work alluded to in the Judgment. In other words, the oracle will not answer your question until you have first made a sincere effort to analyze your situation. Often this will result in a different perspective, and either cancel the original question or evoke an entirely new one.",
+  :siu
+  "The man in a position of power studies the impact of his life upon the welfare of others. If he so conducts himself that the condition of the people is always good, he will not fall into error.",
+  :commentary "",
+  :wilhelm-baynes
+  "Contemplation of my life. The superior man is without blame.",
+  :wu "He examines his own life. The jun zi is without blame.",
+  :shaughnessy
+  "Looking up at my life; for the gentleman there is no trouble."},
+ :number 20,
+ :name "Contemplation",
+ :the-image
+ {:legge
+  "The image of earth and wind moving above it form Contemplation. The ancient kings, in accordance with this, examined the different regions of the kingdom to see the ways of the people, and set forth their instructions.",
+  :wilhelm-baynes
+  "The wind blows over the earth: the image of Contemplation. Thus the kings of old visited the regions of the world, contemplated the people, and gave them instruction.",
+  :blofeld
+  "This hexagram symbolizes wind blowing across the earth. The ancient rulers visited the different regions to keep watch over their people and carefully instruct them.",
+  :liu
+  "The wind blowing over the earth symbolizes Observation. The ancient kings visited their territories, observed the people, and gave instruction.",
+  :ritsema-karcher
+  "Wind moving above earth. Viewing. The Earlier Kings used inspecting on-all-sides, viewing the commoners to set-up teaching.",
+  :cleary-1
+  "Wind is over the earth, observing. Thus did the kings of yore set up education after examination of the region and observation of the people.",
+  :cleary-2
+  "Wind travels over the earth – observing.Kings of yore examined the regions and observed the people to set up education. [In Buddhist terms, the ancient Buddhas examined the “regions” of possible experience and observed the people in various states of being, then set up various teachings to accommodate them, just as the wind travels over the earth reaching everywhere.]",
+  :wu
+  "The wind pervades above the earth; this is Admiration. Thus the ancient kings inspected various regions of the country, observed the sentiments of the people, and laid down their instructions."},
+ :line-4
+ {:confucius-legge
+  "She contemplates the glory of the kingdom. Thence arises the wish to be a guest at court. Wilhelm/Baynes: One is honored as a guest. Blofeld: Those engaged in this way enjoy universal esteem. Ritsema/",
+  :liu
+  "Observation of the glory of the country. It is beneficial to exert influence as the guest of the leader.",
+  :cleary-1
+  "Observing the glory of the country, it is beneficial to be a guest of a king.",
+  :legge
+  "Line four, in a properly magnetic place is just below the properly dynamic fifth-line sovereign. She is moved accordingly, and stirred to ambition. The glory of the kingdom is the virtue of the sovereign and the noble character of his administration.",
+  :blofeld
+  "Contemplating the conditions of a realm guides us as to whether we should become the ruler's guests. [In ancient China, many scholars, such as Confucius himself, wandered from kingdom to kingdom and princedom to princedom seeking a ruler wise and virtuous enough to profit by their teachings. It was by observing the splendors or miseries of each realm that they were able to form preliminary judgments and thus decide whether the ruler might be worth approaching or not. The implication is that we must not accept something as good without waiting to discover whether the alleged good qualities are genuine.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Viewing the city's shining. Harvesting: availing-of guesting tending-towards kinghood.",
+  :wing
+  "You can now progress by Contemplating society and determining the best cause, leader, or organization you can join or support. This social awareness and its enactment will further your growth, for you can transcend your position as one of the masses and exert significant influence.",
+  :editor
+  "The first line of this hexagram is ignorant and superficial, and not a proper correlate. Line four correctly turns her eyes upward, sees the magnificence of the Work and accepts her responsibilities as an honor and sacred trust. The difference between lines one and four is the difference between callow ignorance and wisdom. The difference between lines three and four is the difference between ego issues and devotion to the Work.",
+  :siu
+  "The person who is aware of the factors leading to the glory of the nation should be appointed by the king to an authoritative position. He should be honored rather than used as a tool.",
+  :karcher
+  "Honoring guesting indeed. Cleary (2): Esteeming guesthood. Wu: And the king honors his guest.",
+  :commentary "",
+  :wilhelm-baynes
+  "Contemplation of the light of the kingdom. It furthers one to exert influence as the guest of a king.",
+  :wu
+  "He admires the glories of the nation. It will be advantageous to be an honored guest of the king.",
+  :shaughnessy
+  "Looking up at the state's radiance; beneficial herewith to be entertained to audience by the king."},
+ :line-2
+ {:confucius-legge
+  "The firm correctness of a woman in peeping out from a door is also a thing to be ashamed of in a superior man.  Wilhelm/Baynes: Contemplation through the crack of the door is humiliating even where there is the perseverance of a woman. Blofeld:  Nevertheless it is also shameful. [If the enquirer or the one for whom the enquiry is being made is a woman, she will gain by keeping a secret watch, but it cannot be done honorably in this case.]Ritsema/Karcher: Truly permitting the demoniac indeed. Cleary (2): (It) can also be shameful. Wu: It is nevertheless awkward.",
+  :liu
+  "Observation through the cracks of doors. Women benefit by perseverance. [Now is a better time for action than for quiet.]",
+  :cleary-1
+  "Peeking observation is beneficial for a woman’s chastity.",
+  :legge
+  "Line two is magnetic in her proper place, showing a woman who lives retired and only able to peep through the crack of her door at her fifth-line correlate. But ignorance and retirement are proper in a woman.",
+  :blofeld "Watching through door-cracks is of advantage to women.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Peeping-through Viewing. Harvesting: woman Trial.",
+  :wing
+  "If you have goals more ambitious than maintaining your own private world, if your dreams extend into the affairs of society, then you must develop a broader viewpoint. If you relate everything that comes your way in terms of your own life and attitudes, you cannot develop.",
+  :editor
+  "As hopefully enlightened moderns we wince at what seems to be outrageous male chauvinism in some of the lines of theI Ching, but if we understand the symbolism psychologically a non-sexist message comes through. (Dream symbolism also often offends our conscious convictions.) Female figures usually represent our instinctive responses and the emotional-feeling aspects of our personality. Correct behavior demands that emotional responses be kept in their proper place at home within the psyche. This line implies that the situation demands a more dynamic approach. Note however, that there is no overt value judgment other than by implication; the puritanical Confucian commentary is not necessarily always applicable. The line sometimes just portrays a partial, incomplete view of the situation, saying in effect that there is more to the subject than meets the eye.”",
+  :siu
+  "The housewife is understandably ignorant of worldly affairs. But such a narrow, subjective view of reality is shameful for persons in public life.",
+  :commentary "",
+  :wilhelm-baynes
+  "Contemplation through the crack of the door. Furthering for the perseverance of a woman.",
+  :wu
+  "Onepeeps through a door. It will be advantageous for a persevering woman.",
+  :shaughnessy
+  "Peeking a look up; beneficial for the maiden to determine."},
+ :judgment
+ {:legge
+  "Contemplation shows us a worshipper who has purified himself, but must still present his sacrifice with that dignified sincerity which inspires reverence.",
+  :wilhelm-baynes
+  "Contemplation . The ablution has been made, but not yet the offering. Full of trust they look up to him.",
+  :blofeld-looking
+  "down.[This word often means “contemplation and I have so translated it when the context so requires.] The ablution has been performed, but not the sacrifice. Sincerity inspires respect. [This is generally understood to mean that the first step has been taken or that one has bound oneself to follow a certain course...but that the main duties are yet to be performed.]",
+  :liu
+  "Observation. The hand-washing ritual is completed, but the sacrifice is still to come. All done and looked upon with sincerity.",
+  :ritsema-karcher
+  "Viewing: hand-washing and-also not worshipping. Possessing conformity, like a presence. [This hexagram describes your situation in terms of something seen from a distance, out of immediate reach. It emphasizes that carefully observing and divining the meaning is the adequate way to handle it...]",
+  :shaughnessy
+  "Looking Up. Washing the hands but not making offering; there is a return with head held high.",
+  :cleary-1
+  "Observing, one has washed the hands but not made the offering; there is sincerity, which is reverent.",
+  :wu
+  "Admiration indicates a worshipper washing his hands in preparation for the offerings, but not participating in it. He shows sincerity and awe."},
+ :line-6
+ {:confucius-legge
+  "He cannot even yet let his mind be at rest. Wilhelm/ Baynes: The will is not yet pacified. Blofeld:  He contemplates his own life when troubled as to what course to take. Ritsema/Karcher: Purpose not-yet evened indeed. Cleary (2): The mind is not yet at peace. Wu: His aspirations have not been all fulfilled.",
+  :liu
+  "Observation of the lives of others. No blame for the superior man. [This is a time of discontent.]",
+  :cleary-1 "Observing the growth, the superior person is blameless.",
+  :cleary-2 "… Developed people are impeccable.",
+  :legge
+  "There is a slight difference in the sixth line from the fifth which can hardly be expressed in a translation. By making a change in the punctuation, however, the different significance may be brought out. Line six is dynamic, and should be considered out of the work of the hexagram, but he is still possessed by its spirit, and is led to self- examination.",
+  :blofeld
+  "Nor will it be an error for the Superior Man to contemplate his own life.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Viewing one's birth. A chun tzu: without fault.",
+  :note-that-liu-translates-this-as-contemplating-“the-lives-of-others”-and-wu-“the-life-of-the-people”-–-in-these-versions-the-object-of-contemplation-is-placed-outside-of-the-observer’s-psyche.-when-differentiating-line-5-from-line-6,-this-interpretation-of-their-slight-divergence-makes-the-most-sense.-sometimes-there-is-an-implication-that-you-may-misunderstand-something-pertaining-to-the-work.
+  "",
+  :wing
+  "You are somewhat beyond the situation and able to contemplate your life without egotistical involvement. You will discover, here, that freedom from error and blame are the highest good. Egoless contemplation is the key.",
+  :editor
+  "Psychologically interpreted, the fifth line represents an ego contemplating his multi-faceted psyche; here, the sixth line has risen above that standpoint to contemplate the nature of the whole reality with which it wishes to unite. Line five asks us to look within to see if the motivations of the psyche are in accordance with the goals of the Work; line six asks us to examine our comprehension of the individuation process itself to see if it is correct.",
+  :siu
+  "The sage, who is living outside the routine of the world, contemplates his own character, not as an isolated ego manifestation, but in relation to the laws of life. He judges freedom from blame to be the highest good.",
+  :commentary "",
+  :wilhelm-baynes
+  "Contemplation of his life. The superior man is without blame.",
+  :wu
+  "He looks pensively at the life of the people. The jun zi is without blame.",
+  :shaughnessy
+  "Looking up at his life; for the gentleman there is no trouble."},
+ :notes-&-para
+ {:the-ancient-kings-are-mentioned-in-the-images-of-both-this-figure-and-number-twenty-one,
+  "Discernment, immediately following. What are the differences between Contemplation and Discernment, as depicted in these images? How does the concept of sacrifice relate to this, as mentioned in the Judgment? Compare the Judgment of this hexagram with hexagrams and lines 17:6, 45:2, 46:2, 46:4, 47:2, 47:5 and 63:5 for further insights on this extremely important tenet of the Work.",
+  :the-superior-man "evaluates and rectifies his attitudes.",
+  :the-ancient-kings-in-hexagram-number-20-base-their-laws-upon-their-recognition-of-diversity-among-the-various-forces-which-make-up-the-kingdom-of-the-psyche.-their-divine-regulations-therefore-represent-the-proper-ecology-existing-between-heaven-and-earth,-yin-and-yang,-male-and-female,-logos-and-eros.-in-this-regard,-the
+  "I Ching's version of the Archetypal Man might be seen as hexagram number-63, Completion, in which the polarity of each of the lines is in perfect correlation. (See the editor's commentary on Hexagram number 11 for further insights into this idea.)",
+  :in-the-kabbalah,-the-template-of-this-archetypal-man-(named-adam-kadmon)-exists-in-each-of-the-four-realms-of-consciousness-corresponding-to-intuition,-intellect,-emotion-and-sensation,-and-"he"-is-perceived-as-androgynous-in-all-of-these-worlds-except-the-last--the-"sensation”-world-of-our-physical-spacetime-reality.
+  "",
+  :it-is-important-to-note-that-the-sacrifice-has-yet-to-be-performed-preparation-is-meaningless-until-it-is-acted-upon.-psychologically,-this-refers-to-intellectual-"gnosis"-which-still-needs-to-be-grounded-in-behavior.
+  "",
+  :the
+  "ancient kings” in the Image symbolize the creators of an original state of perfection -- an archetypal model toward which the superior man aspires. This idea is common to all mystical traditions, many of which depict this state in the image of an ideal or prototypical man. Here is a summary of the Gnostic conception:",
+  :judgment
+  "Contemplate your motivations and discern the purity of your intent. Put your money where your mouth is.” or Walk your talk.”",
+  :considering-that-androgyny-is-one-of-the-symbols-used-in-the-western-mystery-tradition-to-depict-the-correct-union-of-male-and-female-forces-within-the-psyche,-we-quickly-recognize-that-the-properly-matched-male-and-female-correlate-lines-in-the
+  "I Ching are a Chinese depiction of the identical concept. Note that the messages of the following three quotations are in complete accord with the goal of the Work as outlined in theI Ching:",
+  :without-changing-lines,
+  "Contemplation is an oracular invitation for you to consider your situation and especially your motivations in regard to it. One way of doing this is to reduce everything to a brief written statement, including your best conscious conclusions. Then ask for a comment from the oracle -- often it will become apparent that you have been undergoing a kind of examination.",
+  :suggestions-for-meditation "",
+  :the-theme-of-the-hexagram-is
+  "Contemplationof your situation to see if your attitude meets the archetypal standards of the Work. The worshipper in the Judgment has purified himself for sacrifice but has not yet carried it out. Wilhelm uses the word ablution” in his translation of the Judgment. An ablution is a ritual cleansing associated with a religious rite:"},
+ :commentary
+ {:confucius-legge
+  "Observation from above -- from the trigram of Flexibility surmounting the trigram of Docility. The ruler is in his correct central position, and thus exhibits his lessons to all below. He has purified himself, but not yet sacrificed. All beneath look to him and are transformed. When we contemplate the spirit-like way of heaven, we see how the four seasons proceed without error. The sages, in accordance with this spirit-like way, laid down their instructions, and all under heaven yield submission to them.",
+  :legge
+  "The Chinese character from which this hexagram is named is used in the sense of both seeing and being seen. The theme is the sovereign and his people -- how he shows himself to them, and how they in turn perceive him. The two dynamic lines at the top belong to the ruler, and the four magnetic lines below represent his subjects. In the Judgment the ruler is portrayed as a worshipper at the commencement of a sacrifice. He is the great Manifester in line five.",
+  :the-lower-trigram-symbolizes-earth,-with-the-attribute-of-docility;-the-upper-trigram-symbolizes-wind,-with-the-attributes-of-flexibility-and-penetration.-wind-moving-above-the-earth-has-the-widest-sweep,-and-nothing-escapes-its-influence.-the-personal-influence-of-the-ruler-effects-much,-but-the-ancient-kings-wished-to-add-to-that-the-power-of-published-instructions-which-were-specially-adapted-to-the-character-and-circumstances-of-the-people.
+  "",
+  :the-spirit-like-way-of-heaven-is-the-invisible-order-underlying-the-laws-of-nature.
+  "[Ed. Note: Ritsema/Karcher use the phrase: Viewing Heaven's spirit tao... The all-wise person uses spirit tao to set-up teaching. Spirit(s), SHEN: independent spiritual powers that confer intensity on heart and mind by acting on the soul, KUEI; gods, daimons. Tao: way or path; ongoing process of being and the course it traces for each specific person or thing; keyword. The ideogram: go and head, leading and the path it creates.]"},
+ :line-3
+ {:confucius-legge
+  "She will not err in the path to be pursued. Wilhelm/ Baynes: The right way is not lost. Blofeld:  This is the way to keep to the right path. Ritsema/Karcher: Not-yet letting-go tao indeed. Cleary (2): One has not lost the way. Wu: He has not forsaken the principle.",
+  :liu
+  "Observation of the circumstances of our lives determines whether to advance or retreat.",
+  :cleary-1 "Observing personal growth, promoting and repelling.",
+  :cleary-2 "… advancing and withdrawing.",
+  :legge
+  "The magnetic third line at the top of the lower trigram of Receptivity belongs to one of utmost docility. She wishes to act only according to the exigency of the time and circumstances, and will advance or recede accordingly.",
+  :blofeld
+  "By contemplating our own lives, we learn to advance or retreat as required by circumstances.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Viewing my birth, advancing, withdrawing.",
+  :wing
+  "In order to make the correct decisions in your life, you must gain objective self-knowledge. This is not accomplished by exploring your own dreams, attitudes, and opinions. These are useless in self-examination. Instead, contemplate your effect upon the world around you. There you will find yourself.",
+  :editor
+  "Illusions of free-will” to the contrary, it is probably accurate to say that most life experience is not within our control. If this is true, then our only meaningful choice is to determine how the Tao is flowing and then to put ourselves in harmony with it. Ritsema/Karcher's Confucian commentary reminds us of this: “Not-yet letting-go tao indeed.” The oracle is asking you to make a decision based on your own insight. You may regard it as a test.",
+  :siu
+  "The man contemplates the effects of his actions in relation to the exigencies of the times rather than indulging in idle speculations. Only in this way is he able to formulate useful guidelines for behavior.",
+  :commentary "",
+  :wilhelm-baynes
+  "Contemplation of my life decides the choice between advance and retreat.",
+  :wu
+  "He examines his own life to determine whether to advance or retreat.",
+  :shaughnessy "Looking up at my life advancing and retreating."},
+ :char \䷓,
+ :other-titles
+ {:titles
+  ("View"
+   "The Symbol of Steady Observation"
+   "Looking Down"
+   "Observation"
+   "Viewing"
+   "Looking Up"
+   "Observing"
+   "Admiration"
+   "To Examine"
+   "Rulers and Their Subjects"
+   "Introspection"
+   "Perception"
+   "Contemplation of the Work")}}

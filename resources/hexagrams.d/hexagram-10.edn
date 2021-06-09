@@ -1,0 +1,254 @@
+{:binary "110111",
+ :line-1
+ {:confucius-legge
+  "Singly and exclusively he carries out his long cherished wishes. Wilhelm/Baynes: The progress of simple conduct follows in solitude its own bent. Blofeld:  Conducting ourselves with simplicity while advancing suggests the ability to realize our desires without aid from others. Ritsema/ Karcher: Solitarily moving desire indeed. Cleary (2): To go treading plainly means to carry out your vows alone. Wu: He is willing to go alone.",
+  :liu "Simplicity of conduct. Continue. No blame.",
+  :cleary-1 "Treading plainly, going without fault.",
+  :cleary-2 "Plain treading; to go is blameless.",
+  :legge
+  "Line one is a dynamic line in a dynamic place, giving us the idea of activity, firmness and correctness. One so characterized will act rightly.",
+  :blofeld "Simple in his conduct, he goes forth -- no error!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Sheer Treading going. Without fault.",
+  :wing
+  "Use your most basic values of Conduct in advancing toward your aim. Do not try to use others beyond maintaining friendly relations. Do not become obligated to others in your endeavors. Your position is low. Simplicity in your behavior will prevent mistakes and allow you to progress.",
+  :editor
+  "Wilhelm's rendition of the Confucian commentary uses the word solitude, and Blofeld emphasizes the idea of progress without aid from others. The idea is that of walking one's path alone, heedless of the external opinions of others or of the autonomous clamor of our own inner complexes. It can sometimes take the meaning of: Mind your own business.",
+  :siu
+  "At the outset, the man is in a subordinate position without social obligation. Progress will be attained without blame if he remains content with his simple accustomed path, making no demands upon others.",
+  :commentary "",
+  :wilhelm-baynes "Simple conduct. Progress without blame.",
+  :wu "Treading ahead in a blind manner will be blameless.",
+  :shaughnessy "Counter treading; in going there is no trouble."},
+ :line-5
+ {:confucius-legge
+  "This is due to his being in the position that is correct and appropriate to him. Wilhelm/Baynes: The place is correct and appropriate. Blofeld:  This trouble could arise despite the suitable position of the line. [A firm line between two firm ones is usually an omen of strength and compatibility, but not in this case. Thus, even though we are quite certain our course is a right one and we therefore follow it boldly, trouble cannot be avoided; we should either walk delicately or refrain from the course altogether.] Ritsema/Karcher: Situation correcting appropriate indeed. Cleary(2): Decisive treading is correct yet dangerous; the position is appropriate. Wu: (This is) his proper position notwithstanding.",
+  :liu
+  "Continue in a decisive manner. Danger. [There is now a tendency to rush and be careless. By all means stop this, or troubles will mount and disaster will come.]",
+  :cleary-1
+  "Treading decisively. Even if one is upright, there is danger. [It is necessary to be upright and undivided, to master oneself in danger, so that one can avoid the problem of losing what has been gained. This is treading the Path in which there is no one but oneself.]",
+  :cleary-2 "Decisive treading is correct yet dangerous.",
+  :legge
+  "Beneath the symbolism under line five lies the principle that humility is the better part of propriety. Line five, who is dynamic and central, will not be lacking in this, but bear in mind that the higher he is exalted, the greater may be his fall.",
+  :blofeld "He treads delicately. Persistence could lead to trouble.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Parting Treading. Trial: adversity.",
+  :wing
+  "What you propose to do is dangerous, yet your awareness of such danger will give you the strength to succeed. The time requires a firm commitment to your endeavor. If you do not have a real commitment in your heart you should re- examine your path.",
+  :editor
+  "Line five is mentioned in the Confucian commentary for the hexagram as occupying the God-given position. Nevertheless, despite his will and intelligence, he faces a volatile situation which will demand all of his resources if he is to succeed. Ritsema/Karcher render adversity, (LI) as: Danger, threatening, malevolent demon ... It indicates a spirit or ghost that seeks revenge by inflicting suffering upon the living. Pacifying or exorcizing such a spirit can have a healing effect. Wu’s commentary offers a useful slant on this: “De-emphasize (your) own opinions – listen to the deliberations of others.”",
+  :siu
+  "Peril is evident, as when treading on the tail of a tiger. But the man remains aware and resolute, acting with propriety and humility.",
+  :commentary "",
+  :wilhelm-baynes
+  "Resolute conduct. Perseverance with awareness of danger.",
+  :wu
+  "He decides on treading. Despite perseverance, he is in a difficult situation. [Use your power wisely and judiciously, or you will fall.]",
+  :shaughnessy "Resolute treading; determination is dangerous."},
+ :number 10,
+ :name "Cautious Advance",
+ :the-image
+ {:legge
+  "The image of the sky above, and below it the waters of a marsh, formCautious Advance. The superior man, in accordance with this, discriminates between high and low, and gives settlement to the aims of the people.",
+  :wilhelm-baynes
+  "Heaven above, the lake below: the image of Treading. Thus the superior man discriminates between high and low, and thereby fortifies the thinking of the people. (Thus the superior man creates in society the differences in rank that correspond with differences in natural endowment, and in this way fortifies the thinking of the people, who are reassured when these differences accord with nature ... We see a universe moved from within, without external manipulation. Since the universe is also within the human being, internal universal order leads to order without by the force of necessary differentiation.) [Cf. the ideal society in Plato’s Republic.]",
+  :blofeld
+  "This hexagram symbolizes a body of water lying open to the sky. The Superior Man consults both high and low and thereby steadies the people's will.",
+  :liu
+  "The heaven above and the lake below symbolize Treading. The superior man differentiates between high and low, and thus fixes the minds of the people.",
+  :ritsema-karcher
+  "Heaven above, marsh below. Treading. A chun tzu uses differentiating Above and Below. A chun tzu uses setting-right the commoners, the purpose.",
+  :cleary-1
+  "Above is the sky, below is a lake: Treading. Thus do superior people distinguish above and below, and settle the will of the people.",
+  :cleary-2-…
+  "Leaders stabilize the wills of the people by distinguishing positions.",
+  :wu
+  "Heaven above and marshes below, this is Treading. Thus the jun zi discriminates various levels of governmental services and sets the goals of the people."},
+ :line-4
+ {:confucius-legge
+  "His aim takes effect. Wilhelm/Baynes: What is willed is done. Blofeld:  The ruler's will is carried out. Ritsema/Karcher: Purpose moving indeed. Cleary(2): Utmost caution turning out lucky is determined action.  Wu: With awe there will be auspiciousness in the end, because the aspiration will prevail.",
+  :liu
+  "He steps on the tail of the tiger. Caution and fearfulness. Good fortune in the end. [Trouble or disaster threaten and one must be very careful.]",
+  :cleary-1
+  "Treading on the tail of a tiger, with caution it will turn out well.",
+  :cleary-2
+  "Treading on a tiger’s tail with utmost caution turns out lucky.",
+  :legge
+  "Line four is dynamic in a magnetic place just below the ruler in line five. He recognizes his weak position and walks with care.",
+  :blofeld
+  "To tread with impunity upon a tiger's tail, breathless caution is required -- good fortune in the end. [This is an occasion for doing something dangerous, provided we are very cautious.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Treading at tiger's tail. Pleading, pleading; completing significant.",
+  :wing
+  "You can now undertake even dangerous endeavors if you proceed with great caution.",
+  :editor
+  "This is the first line of the upper trigram, symbolizing the tiger's tail. The image depicts impeccable courage and willpower that conquers a dangerous situation.",
+  :siu
+  "The man successfully undertakes dangerous enterprises by proceeding with caution and circumspection.",
+  :commentary "",
+  :wilhelm-baynes
+  "He treads on the tail of the tiger. Caution and circumspection lead ultimately to good fortune.",
+  :wu
+  "Treading after a tiger is awesome, but it will be auspicious in the end.",
+  :shaughnessy
+  "Treading on a tiger's tail so panicky; in the end auspicious."},
+ :line-2
+ {:confucius-legge
+  "Holding the due mean, he will not allow himself to be thrown into disorder. Wilhelm/Baynes: He is central and does not get confused. Blofeld:  The recluse is a fortunate man because he cleaves to the middle path and does not allow himself to be confused. Ritsema/Karcher: Centering, not originating-from disarray indeed. Cleary (2): In the sense of not becoming personally deranged within. Wu: His mind is not disturbed from within.",
+  :liu
+  "Treading in a safe and peaceful way. The man in seclusion carries on. Good fortune.",
+  :cleary-1
+  "Treading the path evenly, the aloof person is upright and fortunate.",
+  :cleary-2
+  "Treading the road; it is level. The person in obscurity is fortunate if upright.",
+  :legge
+  "Line two occupies the middle of the trigram, which symbolizes a path cut straight and level along a hillside or over difficult terrain. Since the fifth line is not his proper correlate, he is portrayed as a quiet and solitary man.",
+  :blofeld
+  "The recluse treads his path peacefully. Righteous persistence will bring good fortune.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Treading tao, smoothing, smoothing. Shade people, Trial: significant.",
+  :wing
+  "Maintain an ambiance of modesty and moderation. Do not harbor expectations or demands. Do not get involved with the dreams of others or hold overly ambitious goals. In this way you will meet with good fortune.",
+  :editor
+  "There seems to be little essential difference between lines one and two, except that the second line's central position emphasizes the idea of moderation and balance. When two lines in a hexagram have nearly identical meanings it is often helpful to check the corresponding hexagrams and lines created if each were the only changing line -- these will often provide clues as to their differences. In this instance, line one suggests avoiding trouble by minding one's own business; line two avoids trouble by a certain innocent faith in his destined path: a recluse or hermit who ignores the preoccupations of the crowd. Ritsema/Karcher translate shade (Wilhelm/Shaughnessy: dark), as: hidden from view, retired, solitary, secret; dark, obscure, occult, mysterious; ignorant.",
+  :siu
+  "The quiet and solitary man apprehends the inscrutable. He seeks nothing, holds to the mean, and remains free from entanglements.",
+  :commentary "",
+  :wilhelm-baynes
+  "Treading a smooth, level course. The perseverance of a dark man brings good fortune.",
+  :wu
+  "The trodden road is open and broad. A person in seclusion with perseverance will have good fortune.",
+  :  "",
+  :shaughnessy
+  "Treading the road so sincerely; the dark man's determination is auspicious."},
+ :judgment
+ {:[this-hexagram-describes-your-situation-in-terms-of-finding-and-making-your-way.-it-emphasizes-that-doing-this-step-by-step-is-the-adequate-way-to-handle-it.]
+  "",
+  :liu
+  "Treading: Stepping on the tail of a tiger, but it does not bite one. Success.  [You should act only after you have planned carefully, and then with resolution.]",
+  :cleary-1
+  "Even when they tread on a tiger’s tail, it doesn’t bite people. This is developmental.",
+  :cleary-2
+  "Someone treads on a tiger’s tail without being bitten, thus getting through.",
+  :legge
+  "Cautious Advance suggests the idea of one treading on the tail of a tiger, which does not bite him. There will be progress and success.",
+  :blofeld
+  "Though he treads upon the tiger's tail, it does not bite him. Success! [The general idea of this hexagram is that success can be won, but that the situation is dangerous enough to require extreme caution. The `tiger' MAY not bite, but on the other hand, as lines three and five demonstrate, we cannot be certain of this. To consort with rulers and people in high places may be most beneficial; but, should we fail to please, they may make us regret our temerity.]",
+  :ritsema-karcher
+  "Treading a tiger tail. Not snapping-at people. Growing.",
+  :wilhelm-baynes
+  "Treading . Treading upon the tail of the tiger. It does not bite the man. Success. [For the weak to take a stand against the strong is not dangerous here, because it happens in good humor and without presumption, so that the strong man is not irritated but takes it all in good part. Such simplicity and unpretentiousness is faith derived from reality -- neither from love of happiness nor fear of unhappiness, but free of fear and hope. The concern here is with the art of action by means of proper conduct, and presupposes being childlike in its highest sense.]",
+  :wu
+  "Treading after a tiger without being bitten indicates pervasion.",
+  :shaughnessy "Treading on a tiger's tail; not a real man; receipt."},
+ :line-6
+ {:confucius-legge
+  "This is a matter for congratulation. Wilhelm/Baynes: The topmost place carries great blessing. Blofeld: The sublime good fortune presaged by this top line takes the form of immense felicity. Ritsema/ Karcher: The great possesses reward indeed. Cleary (2): There is much celebration. Wu: Great joy.",
+  :liu
+  "Observe your conduct and examine the signs carefully. There will be great good fortune.",
+  :cleary-2
+  "Observing the treading, considering what is felicitous, the return is auspicious.",
+  :legge
+  "What is said of line six is good, but is only a truism. The whole course has been shown. If every step has been right and appropriate, the issue will be very good.",
+  :blofeld
+  "If they watch their step (or look to their conduct) and heed the omens, sublime good fortune will be theirs.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Observing Treading, predecessor auspicious. One's recurring Spring significant.",
+  :wing
+  "Take a long look at what your Conduct in the situation has achieved thus far. If you are on the right path you will know by the good it has produced. It is time for a reevaluation of your goals. By examining the past you may now get a glimpse of the future.",
+  :editor
+  "There is an affinity here with the message in the Image of the superior man discriminating between high and low, and essentially putting his house in order. If this is the only changing line, the hexagram becomes number fifty-eight, Joy, which intimates that one has successfully passed a test -- in which case the line is an injunction to review the situation and see what we did right.",
+  :siu
+  "The work is ended and the past course is reviewed. If it has been appropriate and thorough, good fortune is assured.",
+  :commentary "",
+  :wilhelm-baynes
+  "Look to your conduct and weigh the favorable signs. When everything is fulfilled, supreme good fortune comes.",
+  :wu
+  "Examination of the treading records gives a sense of completion. If errors in treading are avoided, there will be great fortune.",
+  :  "",
+  :shaughnessy
+  "Looking and treading crafty and soaring its revolving; prime auspiciousness."},
+ :notes-&-para
+ {:judgment
+  "A cautious advance in the face of potentially volatile conditions will lead to safety.",
+  :the-superior-man
+  "orders his priorities realistically and gets a grip on himself.",
+  :cautious-advance
+  "often images a test situation, or it can be a warning that you are walking on the edge of a precipice. The image of The Fool in the tarot deck has similar associations. Without changing lines, this hexagram implies a need for extreme caution, or that your actions are tempting fate.",
+  :wilhelm's-notes-on-the-image-illustrate-the-undemocratic-truth-that-although-all-men-are-created-equal-in-the-eyes-of-god,-every-human-being-possesses-clearly-differentiated-strengths,-weaknesses,-talents-and-incapacities.-in
+  "Lectures on the I Ching, he says:",
+  :the-secret-of-proper-conduct-is-in-inequality.-uniformity-alone-cannot-give-rise-to-proper-conduct.-to-be-sure,-uniformity-might-produce-rule-and-regulation-or-law-and-force.-but-tedious-force-and-brutal-law-never-led-people-to-convictions-that-legitimately-resulted-in-proper-conduct-(the-term-includes-that-which-produces-proper-conduct-and-proper-conduct-achieved).-instead,-as-confucius-said-"force-produces-only-alienation-and-people-transgress-secretly-that-which-is-public-regulation."
+  ""},
+ :commentary
+ {:confucius-legge
+  "In Cautious Advance we have the symbol of Weakness treading on that of Strength. The lower trigram indicates Pleasure and Satisfaction, and responds to the upper indicating Strength. Hence it is said, He treads on the tail of a tiger. The fifth line is dynamic, in the center, and in his correct place. He occupies the God-given position, and falls into no distress or failure -- his action will be brilliant.",
+  :legge
+  "Cautious Advance is made up of the lower trigram of Pleased Satisfaction or Naiveté, and the upper trigram of Heaven, or Primal Power. Being situated below the great symbol of Strength, Naiveté is seen to be stepping on a tiger's tail. To emerge unscathed from such a danger depends entirely upon propriety and a strict observance of all the rules of correct behavior. On these, as so many stepping stones, one may tread safely amid scenes of disorder and peril.",
+  :the-symbol-of-weakness,-according-to-wang-shen-tzu-is-the-third-line-which-is-urged-on-by-the-two-lines-below-it-to-encounter-the-three-strong-lines-above.-other-commentators-say-that-the-whole-lower-trigram,-partaking-of-the-yin-nature,-is-the-symbol-of-weakness,-and-the-entire-upper-trigram-is-symbolic-of-strength.-the-chen-chung-editors-say-that-to-get-the-full-meaning,-we-must-hold-both-views.
+  "",
+  :ch'eng-tzu-says-of-the-image "The sky above and a marsh lying",
+  :below-it-is-true-in-nature-and-reason,-and-so-should-be-the-rules-of-propriety
+  "",
+  :on-which-men-tread." "",
+  :  ""},
+ :line-3
+ {:confucius-ritsema-karcher
+  "Squinting enabling observing. Not the stand to use possessing brightness indeed. Halting enabling Treading. Not the stand to use associating-with moving indeed. Snapping-at people's pitfall. Situation not appropriate indeed. Martial people activating: tending-towards a Great Chief. Purpose solid indeed.",
+  :confucius-blofeld
+  "The one-eyed man does see, but not clearly; the lame man can walk, but not keep up with the others. The disaster suffered by the man who gets bitten is indicated by this line's unsuitable position. The warrior undertakes his lord's affairs because the latter is strong of will.",
+  :confucius-legge
+  "A one-eyed man who thinks he can see : he is not fit to see clearly.  A lame man who thinks that he can tread well: one cannot walk along with him. The ill fortune of being bitten arises from the place not being the proper one for him. A mere bravo acting the part of a great ruler: this is owing to his aims being too violent.",
+  :liu
+  "A one-eyed man can see; a lame man can walk. But when they step on the tail of a tiger, the tiger will bite. Misfortune. The warrior conducts himself like a great prince.",
+  :alternate
+  "This line can also suggest foolhardy arrogance rather than blind obedience to a superior. In such instances, the familiar Lady from Liger limerick seems more appropriate:",
+  :cleary-1
+  "Able to see with a squint, able to walk with a limp. When they tread on the tiger’s tail, it bites people. Inauspicious. A soldier becomes a ruler.",
+  :cleary-2
+  "The squint-eyed can see, the lame can walk. Treading on a tiger’s tail, they get bitten, unfortunately. A military man becomes a civil leader.",
+  :confucius-cleary-2
+  "The squint-eyed can see, but not clearly; the lame can walk, but not well enough to be companions on a journey. The misfortune of being bitten is that of being in an inappropriate place. When a military man becomes a civil leader, his determination is adamant.",
+  :confucius-wu
+  "“A person can look with one injured eye,” but he cannot see clearly. “A person can tread with one lame leg,” but he cannot walk with firm steps. He will have the misfortune of being bitten, because his position is improper. “A warrior wants to be a ruler,” because his idea is adamant.",
+  :legge
+  "Line three is neither central nor in a magnetic place, which would be proper to it. But with the strength of will which the occupant of a dynamic place should possess, he goes forward with the evil results cited. The editors of the imperial edition, in illustration of the closing sentence, refer to Analects VII, x.",
+  :blofeld
+  "Though a man have but one eye he can still see; though he be lame, he can still walk; but he who treads upon the tiger's tail will get bitten -- disaster! [Here the significance of the line runs counter to the benign significance of the hexagram; in all such cases, it is the line which provides the main indication of what is going to happen with regard to the matter forming the subject of the enquiry.] The warrior undertakes things for his lord. [This is no time to stand up to our superiors (tread on the tiger’s tail); it is a time for obedience.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Squinting enabling observing. Halting enabling Treading. Treading a tiger's tail. Snapping-at people: pitfall. Martial people activating: tending-towards a Great Chief.",
+  :wing
+  "You are not suited for the ambitiousness of your goals. Your powers are not adequate. Willfulness on your part could end in disaster. Such Conduct is only for someone willing to throw himself away for a superior.",
+  :editor
+  "The content here does not lend itself to the usual gender symbolism for a magnetic line. Legge and Wu’s interpretation of the line and Confucian commentary differ conceptually from the other translators. For purposes of comparison I have rendered all versions of the Confucian commentary more thoroughly than usual. As the only magnetic line in the hexagram, three is outclassed and overwhelmed, yet still serves the ruler. If this is the only changing line, The Dynamicemerges, with a corresponding line of: We see its subject as the superior man active and vigilant all the day, and in the evening still careful and apprehensive. The position is dangerous, but there will be no mistake.  The image suggests a warrior who has only partial comprehension of a dangerous situation; his ability to serve his ruler is also impeded. Despite these handicaps, his devotion is such that he will expose himself to great danger in the service of his Lord, and suffer because of it.",
+  :siu
+  "The man recklessly exposes himself to danger, which exceeds his powers of handling. He invites disaster thereby.",
+  :commentary "",
+  :wilhelm-baynes
+  "A one-eyed man is able to see, a lame man is able to tread. He treads on the tail of the tiger. The tiger bites the man. Misfortune. Thus does a warrior act on behalf of his great prince.",
+  :wu
+  "A person can look with one injured eye. A person can tread with one lame leg. He will get bitten by treading behind a tiger. It will be foreboding. He is like a warrior trying to be a ruler.",
+  :  "",
+  :confucius-wilhelm-baynes
+  "A one-eyed man is able to see, but not enough for clarity.  A lame man is able to tread, but not enough to tread with others. The misfortune in the biting of the man is due to the fact that the place is not appropriate. Thus does a warrior act on behalf of his great prince, because his will is firm.",
+  :shaughnessy
+  "The blind are able to see, the lame are able to tread. Treading on a tiger's tail; for a real man inauspicious. A military man is united with the great lord."},
+ :char \䷉,
+ :other-titles
+ {:titles
+  ("Treading"
+   "Conduct"
+   "The Symbol of Stepping Carefully"
+   "Proper Conduct"
+   "Cautious Treading"
+   "Proceeding Cautiously"
+   "Watch Your Step"
+   "Proceed at Your Own Risk"
+   "Advancing With Care"),
+  :quotes
+  ({:author "D.F. Hook",
+    :quote
+    "Illustrates the difference between courage and foolhardiness."})}}

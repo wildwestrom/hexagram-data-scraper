@@ -1,0 +1,1230 @@
+({:binary "111111",
+  :char \䷀,
+  :name "The Dynamic",
+  :number 1,
+  :other-titles
+  {:titles
+   ("The Creative"
+    "The Symbol of Heaven"
+    "The Creative Principle"
+    "Force"
+    "The Key"
+    "Creativity"
+    "The Originating"
+    "Creative Power"
+    "Primal Power"
+    "Yang"
+    "The Life Force"
+    "Kundalini"
+    "God the Father")}
+  :judgment {:legge []}}
+ {:binary "000000",
+  :char \䷁,
+  :name "The Magnetic",
+  :number 2,
+  :other-titles
+  {:titles
+   ("The Receptive"
+    "The Symbol of Earth"
+    "Submission"
+    "The Passive Principle"
+    "Field"
+    "The Flow"
+    "Responsive Service"
+    "Yin"
+    "Natural Response"
+    "The Bearer")}}
+ {:binary "100010",
+  :char \䷂,
+  :name "Difficulty",
+  :number 3,
+  :other-titles
+  {:titles
+   ("Difficulty at the Beginning"
+    "The Symbol of Bursting"
+    "Sprouting"
+    "Hoarding"
+    "Distress"
+    "Organizational Growth Pains"
+    "Difficult Beginnings"
+    "Growing Pains"
+    "Initial Obstacles"
+    "Initial Hardship")}}
+ {:binary "010001",
+  :char \䷃,
+  :name "Inexperience",
+  :number 4,
+  :other-titles
+  {:titles
+   ("Youthful Folly"
+    "The Symbol of Covering"
+    "Immaturity"
+    "Uncultivated Growth"
+    "Youth"
+    "Acquiring Experience"
+    "Youthful Ignorance"
+    "Enveloping"
+    "Folly"
+    "Darkness"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Often the I Ching uses this hexagram to show us that we should not be asking this question.\""})}}
+ {:binary "111010",
+  :char \䷄,
+  :name "Waiting",
+  :number 5,
+  :other-titles
+  {:titles
+   ("Nourishment"
+    "Calculated Inaction"
+    "Attending"
+    "Biding One's Time"
+    "Nourishment Through Inaction"
+    "Waiting for Nourishment"
+    "Moistened"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Waiting with the assurance that a blessing will come.\""})}}
+ {:binary "010111",
+  :char \䷅,
+  :name "Stress",
+  :number 6,
+  :other-titles
+  {:titles
+   ("Conflict"
+    "The Symbol of Contention"
+    "Strife"
+    "Litigation"
+    "Quarreling"
+    "Arguing"
+    "Lawsuit"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"It is important to mind one's step at the very beginning then things will have a chance to work out all right.\""})}}
+ {:binary "010000",
+  :char \䷆,
+  :name "Discipline",
+  :number 7,
+  :other-titles
+  {:titles
+   ("The Army"
+    "The Symbol of Multitude and of Army"
+    "Legions/ Leading"
+    "The Troops"
+    "Collective Force"
+    "Discipline"
+    "Soldiers"
+    "Group Action"
+    "A Disciplined Multitude"
+    "Ego Discipline"
+    "Willpower"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Can refer to mourning but its essential meaning is Discipline.\""})}}
+ {:binary "000010",
+  :char \䷇,
+  :name "Holding Together",
+  :number 8,
+  :other-titles
+  {:titles
+   ("The Symbol of Subaltern Assistance"
+    "Union"
+    "Unity"
+    "Grouping"
+    "Alliance"
+    "Co-ordination"
+    "Leadership"
+    "Merging (as with tributaries of a river)"
+    "Seeking Union"
+    "Unification"
+    "Accord"
+    "Subservience"
+    "Individuation"
+    "Integration")}}
+ {:binary "111011",
+  :char \䷈,
+  :name "Passive Restraint",
+  :number 9,
+  :other-titles
+  {:titles
+   ("The Taming Power of the Small"
+    "The Symbol of Small restraint"
+    "The Lesser Nourisher"
+    "Taming the Small Powers"
+    "Small Accumulating"
+    "Small Harvest"
+    "Small Obstruction"
+    "Nurturance by the Small"
+    "Restraint by the Weak"
+    "Restrained"
+    "Minor Restraint"
+    "The Weak Force"
+    "The Force of the Small"
+    "Weak Forces Restrain Strong Forces"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"The restraint is small, success follows. Overcoming something small which is poisoning or nagging. Partially relieving a situation. Influencing that which one cannot change.”"})}}
+ {:binary "110111",
+  :char \䷉,
+  :name "Cautious Advance",
+  :number 10,
+  :other-titles
+  {:titles
+   ("Treading"
+    "Conduct"
+    "The Symbol of Stepping Carefully"
+    "Proper Conduct"
+    "Cautious Treading"
+    "Proceeding Cautiously"
+    "Watch Your Step"
+    "Proceed at Your Own Risk"
+    "Advancing With Care"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Illustrates the difference between courage and foolhardiness.\""})}}
+ {:binary "111000",
+  :char \䷊,
+  :name "Harmony",
+  :number 11,
+  :other-titles
+  {:titles
+   ("Peace"
+    "The Symbol of Successfulness"
+    "Prospering"
+    "Pervading"
+    "Greatness"
+    "Tranquility"
+    "Prosperity"
+    "Conjunction"
+    "Major Synthesis"
+    "Hieros Gamos"
+    "Holy Marriage"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Yang supporting yin and going to meet each other. Good prospects for a marriage or partnership.\""})}}
+ {:binary "000111",
+  :char \䷋,
+  :name "Divorcement",
+  :number 12,
+  :other-titles
+  {:titles
+   ("Standstill"
+    "The Symbol of Closing"
+    "Stagnation"
+    "Obstruction"
+    "The Wife"
+    "Obstructed"
+    "Decadence"
+    "Disjunction"
+    "Impasse"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Yin supporting yang which is wrong, they part company. Bad prospects for marriage or partnership. \""})}}
+ {:binary "101111",
+  :char \䷌,
+  :name "Union of Forces",
+  :number 13,
+  :other-titles
+  {:titles
+   ("Fellowship with Men"
+    "The Symbol of Companionship"
+    "Lovers"
+    "Beloved Friends"
+    "Like-minded persons"
+    "Concording People"
+    "Gathering Men"
+    "Sameness with People"
+    "Universal Brotherhood"
+    "Fellowship"
+    "Community"
+    "United"
+    "Human Association"
+    "Union of Men"
+    "Integration of Forces"
+    "Minor Synthesis"
+    "Cliques"
+    "Concordance"
+    "To Be In Accord With"
+    "Confirmation")}}
+ {:binary "111101",
+  :char \䷍,
+  :name "Wealth",
+  :number 14,
+  :other-titles
+  {:titles
+   ("Possession in Great Measure"
+    "The Symbol of Great Possession"
+    "Sovereignty"
+    "Great Having"
+    "Great Possessing"
+    "The Great Possessor"
+    "Great Wealth"
+    "Abundance"
+    "Having What is Great"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Often means things other than material possessions or achievement. Count your blessings for they are many.\""})}}
+ {:binary "001000",
+  :char \䷎,
+  :name "Temperance",
+  :number 15,
+  :other-titles
+  {:titles
+   ("Modesty"
+    "The Symbol of Humility"
+    "Moderation"
+    "Humbling"
+    "Respectful/Humble"
+    "Yielding/Retiring"),
+   :quotes
+   ({:author "C.K. Anthony",
+     :quote
+     "Obtaining this hexagram implies that modesty is needed in our attitude, meaning, to allow ourself to be led without resistance."}
+    {:author "Chung Wu",
+     :quote
+     "A Humble or modest person is thought of as having an “empty or unoccupied” mind, meaning a mind without prejudice."})}}
+ {:binary "000100",
+  :char \䷏,
+  :name "Enthusiasm/Self-Deception/Repose",
+  :number 16,
+  :other-titles
+  {:titles ("The Symbol of Harmonious Joy"),
+   :quotes
+   ({:author
+     ", Merriment, Selfconfidence, Contentment, Harmonize, Excitement, Intemperance,",
+     :quote ", Happiness, Providing-for/Provision,"}
+    {:author "D.F. Hook",
+     :quote
+     "\"Repose in the absolute confidence that the action now being taken is right. Also refers to music.\""})}}
+ {:binary "100110",
+  :char \䷐,
+  :name "Following",
+  :number 17,
+  :other-titles
+  {:titles
+   ("According With"
+    "Acquiring Followers"
+    "Adapting"
+    "Adjusting"
+    "To Accord With"
+    "To Accompany"
+    "Concordance"
+    "Conformance to The Work"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Learn to serve in order to rule. Quit the old ways.\""})}}
+ {:binary "011001",
+  :char \䷑,
+  :name "Repair",
+  :number 18,
+  :other-titles
+  {:titles
+   ("Work On What Has Been Spoiled"
+    "The Symbol of Destruction"
+    "Decay"
+    "Arresting of Decay"
+    "Work after Spoiling"
+    "Fixing"
+    "Rectifying"
+    "Corrupting"
+    "Branch"
+    "Degeneration"
+    "Misdeeds"),
+   :quotes
+   ({:author "D. F. Hook",
+     :quote "\"Can refer to heredity and psychological traits.”"})}}
+ {:binary "110000",
+  :char \䷒,
+  :name "Approach",
+  :number 19,
+  :other-titles
+  {:titles
+   ("The Symbol of Advance and Arrival"
+    "Nearing"
+    "Overseeing"
+    "Condescension"
+    "Getting Ahead"
+    "Promotion"
+    "Conduct"
+    "Drawing Near"
+    "Becoming Great"
+    "The Forest"
+    "Advance"
+    "Advancing"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Two people advancing together; or a good influence which hasn't been seen or felt for some time, is approaching.\" --"})}}
+ {:binary "000011",
+  :char \䷓,
+  :name "Contemplation",
+  :number 20,
+  :other-titles
+  {:titles
+   ("View"
+    "The Symbol of Steady Observation"
+    "Looking Down"
+    "Observation"
+    "Viewing"
+    "Looking Up"
+    "Observing"
+    "Admiration"
+    "To Examine"
+    "Rulers and Their Subjects"
+    "Introspection"
+    "Perception"
+    "Contemplation of the Work")}}
+ {:binary "100101",
+  :char \䷔,
+  :name "Discernment",
+  :number 21,
+  :other-titles
+  {:titles
+   ("Biting Through"
+    "Gnawing"
+    "The Symbol of Mastication and Punishment by Pressing and Squeezing"
+    "Gnawing Bite"
+    "Severing"
+    "Chewing"
+    "Punishment"
+    "Reformation"
+    "Reform"
+    "Differentiation"
+    "Discrimination"
+    "Making a Distinction"
+    "Getting the message"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Something which should be, or has to be bitten through. This is essentially the legal hexagram. When asking about a man's intentions, he is probably married.\""})}}
+ {:binary "101001",
+  :char \䷕,
+  :name "Persona",
+  :number 22,
+  :other-titles
+  {:titles
+   ("Grace"
+    "The Symbol of Decoration"
+    "Elegance"
+    "Gracefulness"
+    "Luxuriance"
+    "Adorning"
+    "Public Image"
+    "Adornment"
+    "Beauty"
+    "Conceit"
+    "Vanity"
+    "Veneer"
+    "Façade"
+    "Manners"
+    "Embellishment"
+    "Superficiality"
+    "Superficial Appearances"
+    "Form vs. Function"
+    "\"Art,\" Ego-trips"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Often refers to conceit, vanity or beauty. It stresses that the content is more important than the outward appearance.\" -"})}}
+ {:binary "000001",
+  :char \䷖,
+  :name "Disintegration",
+  :number 23,
+  :other-titles
+  {:titles
+   ("Splitting Apart"
+    "The symbol of Falling or Flaying"
+    "Peeling Off"
+    "Decay"
+    "Flaying"
+    "Stripping Away"
+    "Intrigue"
+    "Deterioration"
+    "Collapse"
+    "Fracturing"
+    "Tearing"
+    "Disintegration"
+    "Ruin"
+    "Unraveling"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Can refer to a physical parting. Making a secure foundation.\""})}}
+ {:binary "100000",
+  :char \䷗,
+  :name "Return",
+  :number 24,
+  :other-titles
+  {:titles
+   ("The Turning Point"
+    "The Symbol of Returning"
+    "Revival"
+    "Recovery"
+    "To Repeat"
+    "Renewal"
+    "Restore"
+    "Return to the Way"
+    "Cyclic Repetition"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Return to virtue or happier conditions.\""})}}
+ {:binary "100111",
+  :char \䷘,
+  :name "Innocence",
+  :number 25,
+  :other-titles
+  {:titles
+   ("The Unexpected"
+    "The Unintentional"
+    "The Symbol of Freedom from Error"
+    "Integrity"
+    "Without Embroiling"
+    "Pestilence"
+    "Fidelity"
+    "No Error"
+    "Freedom from Vainness"
+    "Instinctive Goodness"
+    "The Simple"
+    "Correctness"
+    "Subconscious"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Whatever happens, keep calm and do what is right.\""})}}
+ {:binary "111001",
+  :char \䷙,
+  :name "Controlled Power",
+  :number 26,
+  :other-titles
+  {:titles
+   ("The Taming Power of the Great"
+    "The Great Nourisher"
+    "Taming the Great Powers"
+    "Great Accumulating"
+    "Great Accumulation"
+    "Great Storage"
+    "Nurturance of the Great"
+    "Great Buildup"
+    "Restraint of the Great"
+    "Restraint by the Strong"
+    "Potential Energy"
+    "The Great Taming Force"
+    "Energy Under Control"
+    "Power Restrained"
+    "Sublimation"
+    "Latent Power")}}
+ {:binary "100001",
+  :char \䷚,
+  :name "Nourishment",
+  :number 27,
+  :other-titles
+  {:titles
+   ("The Corners of the Mouth"
+    "Providing Nourishment"
+    "The Symbol of the Cheek and of Nourishment"
+    "Jaws"
+    "Lower Jaw"
+    "Nurturing"
+    "Swallowing"
+    "Sagacious Counsel"
+    "Nourishing"
+    "To Feed,"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Can mean money, usually as the result of effort.\""})}}
+ {:binary "011110",
+  :char \䷛,
+  :name "Critical Mass",
+  :number 28,
+  :other-titles
+  {:titles
+   ("Preponderance of the Great"
+    "The Symbol of Great Passing"
+    "Excess"
+    "Great Excess"
+    "The Passing of Greatness"
+    "Great Surpassing"
+    "Great Gains"
+    "Experience"
+    "Greater than Great"
+    "Greatness in Excess"
+    "Dominance by the Mighty"
+    "The Passing of Greatness"
+    "Excess of the Great"
+    "Law of Karma")}}
+ {:binary "010010",
+  :char \䷜,
+  :name "Danger",
+  :number 29,
+  :other-titles
+  {:titles
+   ("The Abysmal"
+    "The Symbol of Sinking"
+    "Water"
+    "The Abyss"
+    "Gorge"
+    "Repeating Gorge"
+    "Repeated Entrapment"
+    "Double Pitfall"
+    "Multiple Danger"
+    "Double Water"
+    "The Deep"
+    "Dark Forces"
+    "The Perilous Pit,"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"May not be as bad as it sounds, but whatever happens, remain true to yourself.\""})}}
+ {:binary "101101",
+  :char \䷝,
+  :name "Clarity",
+  :number 30,
+  :other-titles
+  {:titles
+   ("The Clinging"
+    "The Symbol of Brightness and of Separateness"
+    "Flaming Beauty"
+    "Radiance"
+    "Fire"
+    "The Net"
+    "Allegiance"
+    "The Cosmic Mean"
+    "Synergy"
+    "Sunlight"
+    "Perception"
+    "Pertaining to Comprehension"
+    "The Light"
+    "Consciousness"
+    "Lucidity")}}
+ {:binary "001110",
+  :char \䷞,
+  :name "Initiative (Influence)",
+  :number 31,
+  :other-titles
+  {:titles
+   ("Influence"
+    "Wooing"
+    "Attraction"
+    "Sensation"
+    "Stimulation"
+    "Conjoining"
+    "Feelings"
+    "Sensitivity"
+    "Sensing"
+    "Affection"
+    "Influencing to Action"
+    "Tension"
+    "Seeking Union"
+    "Persuasion"
+    "Courting Response"
+    "Importuning")}}
+ {:binary "011100",
+  :char \䷟,
+  :name "Consistency",
+  :number 32,
+  :other-titles
+  {:titles
+   ("Duration"
+    "The Symbol of Constancy"
+    "The Long Enduring"
+    "Constant"
+    "Persevering"
+    "Standing Fast"
+    "Continuity"
+    "Constancy in the Midst of Change"
+    "Holding Firm"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Get yourself into a fixed routine like the orbiting planets.\""})}}
+ {:binary "001111",
+  :char \䷠,
+  :name "Retreat",
+  :number 33,
+  :other-titles
+  {:titles
+   ("The Symbol of Retirement"
+    "Yielding"
+    "Withdrawal"
+    "Retiring"
+    "Wielding"
+    "Strategic Withdrawal"
+    "Inaccessibility"
+    "Disassociation from Inferior Forces"),
+   :quotes
+   ({:author "D. F. Hook",
+     :quote
+     "“When an opportunity for something better comes along, do not quarrel with an impossible situation.”"})}}
+ {:binary "111100",
+  :char \䷡,
+  :name "Great Power",
+  :number 34,
+  :other-titles
+  {:titles
+   ("The Power of the Great"
+    "The Symbol of Great Vigor"
+    "Persons of Great Authority"
+    "Great Strength"
+    "Great Invigorating"
+    "Great Maturity"
+    "Accumulated Force"
+    "The Strength of the Mighty"
+    "Righteous Power"
+    "Excessive Force")}}
+ {:binary "000101",
+  :char \䷢,
+  :name "Advance of Consciousness",
+  :number 35,
+  :other-titles
+  {:titles
+   ("Progress"
+    "Prospering"
+    "The Symbol of Forwardness"
+    "To Advance"
+    "Advancement"
+    "Making Headway"
+    "Getting the Idea"
+    "“Comes the Dawn”")}}
+ {:binary "101000",
+  :char \䷣,
+  :name "Clouded Perception",
+  :number 36,
+  :other-titles
+  {:titles
+   ("Darkening of the Light"
+    "The Symbol of the Appearance of Clear Intelligence Wounded"
+    "Injury"
+    "Wounding of the Bright"
+    "Brightness Hiding"
+    "Calling Pheasant"
+    "The Darkened Light"
+    "Concealment of Illumination"
+    "Injury of Illumination"
+    "Light Obliterated"
+    "Intelligence Unappreciated"
+    "Censorship"
+    "Hiding One's Light"
+    "The Dark Night of the Soul"
+    "Ignorance"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Not necessarily as bad as it sounds, may just mean being restricted or restricting yourself.\""})}}
+ {:binary "101011",
+  :char \䷤,
+  :name "The Family",
+  :number 37,
+  :other-titles
+  {:titles
+   ("Family Life"
+    "Clan"
+    "Home"
+    "Linkage"
+    "Dwelling People"
+    "The Psyche"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"May indicate a situation where the family can and should help.\" --"})}}
+ {:binary "110101",
+  :char \䷥,
+  :name "Mutual Alienation",
+  :number 38,
+  :other-titles
+  {:titles
+   ("Opposition"
+    "The Symbol of Strangeness and Disunion"
+    "The Estranged"
+    "Opposites"
+    "Polarizing"
+    "Alienation"
+    "Distant From"
+    "Perversion"
+    "Disharmony"
+    "Separated"
+    "Contradiction"
+    "Estrangement"
+    "Incongruity")}}
+ {:binary "001010",
+  :char \䷦,
+  :name "Impasse",
+  :number 39,
+  :other-titles
+  {:titles
+   ("Obstruction"
+    "The Symbol of Difficulty"
+    "Arresting Movement"
+    "Trouble"
+    "Obstacles"
+    "Barrier"
+    "Halt"
+    "Halting"
+    "Limping"
+    "Afoot"
+    "“Sit Tight—Don’t move”"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"One is surrounded by an underwater reef and should wait for assistance.\""})}}
+ {:binary "010100",
+  :char \䷧,
+  :name "Liberation",
+  :number 40,
+  :other-titles
+  {:titles
+   ("Deliverance"
+    "The Symbol of Loosening"
+    "Release"
+    "Eliminating Obstacles"
+    "Taking-apart"
+    "Untangled"
+    "Solution"
+    "Dissolution"
+    "Relief"
+    "Unloose"
+    "Release of Tension")}}
+ {:binary "110001",
+  :char \䷨,
+  :name "Compensating Sacrifice",
+  :number 41,
+  :other-titles
+  {:titles
+   ("Decrease"
+    "The Symbol of Lessening"
+    "Loss"
+    "Diminishing"
+    "Reduction"
+    "Diminution of Excesses"
+    "Decline"
+    "Bringing into Balance"
+    "Dynamic Balance"
+    "Sacrifice"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Not necessarily material loss. Can mean decreasing the lower self to increase the higher.\""})}}
+ {:binary "100011",
+  :char \䷩,
+  :name "Increase",
+  :number 42,
+  :other-titles
+  {:titles
+   ("The Symbol of Addition"
+    "Gain"
+    "Augmenting"
+    "Help from Above"
+    "Benefit"
+    "Advantage"
+    "Profit"
+    "Expansion")}}
+ {:binary "111110",
+  :char \䷪,
+  :name "Resoluteness",
+  :number 43,
+  :other-titles
+  {:titles
+   ("Break-through"
+    "The Symbol of Decision"
+    "Resolution"
+    "Determination"
+    "Parting"
+    "Removing Corruption"
+    "Eradication")}}
+ {:binary "011111",
+  :char \䷫,
+  :name "Temptation",
+  :number 44,
+  :other-titles
+  {:titles
+   ("Coming to Meet"
+    "The Symbol of Meeting"
+    "Contact"
+    "Sexual Intercourse"
+    "Encountering"
+    "Coupling"
+    "Infiltration by Inferior Men"
+    "Adultery"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Contains a definite warning about a person or situation which may appear harmless but will prove dangerous.\""})}}
+ {:binary "000110",
+  :char \䷬,
+  :name "Gathering Together (Contraction)",
+  :number 45,
+  :other-titles
+  {:titles
+   ("Gathering Together"
+    "Massing"
+    "The Symbol of Gathering into One"
+    "Assembling"
+    "Congregation"
+    "Gathering"
+    "Unity"
+    "Accord"
+    "Making Whole"
+    "Focusing"
+    "Marshalling One's Forces"
+    "Clustering"
+    "Finished")}}
+ {:binary "011000",
+  :char \䷭,
+  :name "Pushing Upward",
+  :number 46,
+  :other-titles
+  {:titles
+   ("The Symbol of Rising and Advancing"
+    "Ascending"
+    "Ascension"
+    "Rising"
+    "Promotion"
+    "Advancement"
+    "Sprouting from the Earth"
+    "Organic Growth")}}
+ {:binary "010110",
+  :char \䷮,
+  :name "Oppression",
+  :number 47,
+  :other-titles
+  {:titles
+   ("Exhaustion"
+    "The Symbol of Repression and Confinement"
+    "Adversity"
+    "Weariness"
+    "Confining"
+    "Entangled"
+    "Hardship"
+    "Depression"
+    "Tiresome Restriction"
+    "Dried Up,"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Actions speak louder than words.\""})}}
+ {:binary "011010",
+  :char \䷯,
+  :name "The Well",
+  :number 48,
+  :other-titles
+  {:titles
+   ("Welling"
+    "Potentialities Fulfilled"
+    "The Source"
+    "The Deep Psyche"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"A resurrection or transformation. Generations coming and going and the continuance of life and development.\""})}}
+ {:binary "101110",
+  :char \䷰,
+  :name "Metamorphosis",
+  :number 49,
+  :other-titles
+  {:titles
+   ("Revolution(s)"
+    "Transformation"
+    "Skinning"
+    "The Bridle"
+    "The Symbol of Change"
+    "Molting"
+    "Leather"
+    "Skin"
+    "Molt"
+    "Cut Off"
+    "Changing"
+    "Radical Change"
+    "Overthrowing")}}
+ {:binary "011101",
+  :char \䷱,
+  :name "The Sacrificial Vessel",
+  :number 50,
+  :other-titles
+  {:titles
+   ("The Cauldron"
+    "The Vessel"
+    "Rejuvenation"
+    "Cosmic Order"
+    "The Alchemical Vessel"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"A complete transformation of a person or circumstance.\""})}}
+ {:binary "100100",
+  :char \䷲,
+  :name "Shock/Thunder",
+  :number 51,
+  :other-titles
+  {:titles
+   ("The Arousing"
+    "Thunder"
+    "The Symbol of Startling Movement"
+    "Shake"
+    "The Beginning of Movement"
+    "Shocking"
+    "The Thunderclap"
+    "Action"
+    "Motion"
+    "Sudden Change"
+    "Surprise!"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"The necessity to keep tranquil in the midst of upheaval.\""})}}
+ {:binary "001001",
+  :char \䷳,
+  :name "Keeping Still",
+  :number 52,
+  :other-titles
+  {:titles
+   ("Mountain"
+    "Keeping Still"
+    "The Symbol of Checking and Stopping"
+    "Desisting"
+    "Stilling"
+    "Stillness"
+    "Stoppage"
+    "Bound"
+    "Reposing"
+    "Resting"
+    "Meditation"
+    "Non-action"
+    "Stopping"
+    "Arresting Movement"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Refers to meditation and yoga.\""})}}
+ {:binary "001011",
+  :char \䷴,
+  :name "Gradual Progress",
+  :number 53,
+  :other-titles
+  {:titles
+   ("Development"
+    "The Symbol of Progressive Advance"
+    "Gradual Development"
+    "Infiltrating"
+    "Advancing"
+    "Growth"
+    "Developing"
+    "Gradualness"
+    "Dialectical Progression"
+    "Step by Step"),
+   :quotes
+   ({:author "D.F. Hook", :quote "\"The slower the stronger.\""})}}
+ {:binary "110100",
+  :char \䷵,
+  :name "Propriety/Making-Do",
+  :number 54,
+  :other-titles
+  {:titles
+   ("The Marrying Maiden"
+    "The Symbol of the Marriage of the Younger Sister"
+    "Marriageable Maiden"
+    "The Marrying Girl"
+    "Subordinate"
+    "The Second Wife"
+    "Converting Maidenhood"
+    "Returning maiden"
+    "Making a young girl marry"
+    "Marrying a young girl"
+    "Marrying a Maiden"
+    "Unilateral Action"
+    "Impropriety"
+    "Improper Advances"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Deals with life and death, sex and birth. It contains a warning about a person or situation. It deals essentially with discrimination. The first step on the Path without which we are useless.\""})}}
+ {:binary "101100",
+  :char \䷶,
+  :name "Abundance (Expansion of Awareness)",
+  :number 55,
+  :other-titles
+  {:titles
+   ("Abundance"
+    "Fullness"
+    "The Symbol of Prosperity"
+    "Greatness"
+    "Abounding"
+    "Richness"
+    "Prolific"
+    "Fruitful"
+    "Luxuriant"
+    "Zenith"
+    "Affluence"
+    "Correct Action"
+    "Lucid Behavior"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Generally means that one will have enough for one's needs with a little over. Does not mean large wealth as a rule.\""})}}
+ {:binary "001101",
+  :char \䷷,
+  :name "Transition",
+  :number 56,
+  :other-titles
+  {:titles
+   ("The Wanderer"
+    "The Symbol of the Traveler"
+    "The Exile"
+    "Sojourning"
+    "The Newcomer"
+    "To Lodge"
+    "To Travel"
+    "Traveling"
+    "The Stranger"
+    "Strangers"
+    "The Traveling Stranger"
+    "The Outsider"
+    "The Alien"
+    "The Gnostic"
+    "The Tarot Fool"
+    "Wandering"
+    "Homeless"
+    "Uncommitted"
+    "On Your Own"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Can refer to being out of one's element.\""})}}
+ {:binary "011011",
+  :char \䷸,
+  :name "Penetration",
+  :number 57,
+  :other-titles
+  {:titles
+   ("The Gentle"
+    "The Penetrating"
+    "Wind"
+    "The Symbol of Bending to Enter"
+    "Willing Submission"
+    "Gentle Penetration"
+    "Ground"
+    "Calculations"
+    "Complaisance"
+    "Penetrating Influence"
+    "The Penetration of the Wind"
+    "Humility"
+    "Devoted Service"
+    "Submission")}}
+ {:binary "110110",
+  :char \䷹,
+  :name "Joy (Self-indulgence)",
+  :number 58,
+  :other-titles
+  {:titles
+   ("The Joyous"
+    "Joyousness"
+    "Pleased Satisfaction"
+    "Encouraging"
+    "Delight"
+    "Open"),
+   :quotes
+   ({:author "Pleasure, Cheerfulness, Frivolity, Callow Optimism",
+     :quote ","})}}
+ {:binary "010011",
+  :char \䷺,
+  :name "Expansion (Dispersion)",
+  :number 59,
+  :other-titles
+  {:titles
+   ("Dispersion"
+    "Dissolution"
+    "Disintegration"
+    "Dispersal"
+    "Overcoming Dissension"
+    "Scattering,"),
+   :quotes ()}}
+ {:binary "110010",
+  :char \䷻,
+  :name "Restrictive Regulations",
+  :number 60,
+  :other-titles
+  {:titles
+   ("Limitation"
+    "Restraint"
+    "Regulations"
+    "Articulating"
+    "Receipt"
+    "Restraining"
+    "Containment")}}
+ {:binary "110011",
+  :char \䷼,
+  :name "Inner Truth",
+  :number 61,
+  :other-titles
+  {:titles
+   ("The Symbol of Central Sincerity"
+    "Inward Confidence"
+    "Inner Truthfulness"
+    "Sincerity"
+    "Centering- Conforming"
+    "Central Return"
+    "Faithfulness in the Center"
+    "Sincerity in the Center"
+    "Insight"
+    "Understanding"
+    "The Psyche"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote "\"Take the middle road and avoid extremes.\""})}}
+ {:binary "001100",
+  :char \䷽,
+  :name "Small Powers",
+  :number 62,
+  :other-titles
+  {:titles
+   ("Preponderance of the Small"
+    "The Symbol of Excess in Small Things"
+    "The Small get by"
+    "Slight Excess"
+    "Small Exceeding"
+    "Small Surpassing"
+    "Excess of the Small"
+    "Small gains"
+    "Conscientiousness"
+    "Smallness in Excess"
+    "Exceeding the Mean"
+    "Proliferation of Details"),
+   :quotes
+   ({:author "D.F. Hook",
+     :quote
+     "\"Like a bird, do not fly too high or attempt too much because this will lead to disaster.\""})}}
+ {:binary "101010",
+  :char \䷾,
+  :name "Completion",
+  :number 63,
+  :other-titles
+  {:titles
+   ("After Completion"
+    "The Symbol of What is Already Past"
+    "Already Fording"
+    "Already Completed"
+    "Settled"
+    "Mission Accomplished"
+    "Tasks Completed"
+    "After the End"
+    "A state of Climax")}}
+ {:binary "010101",
+  :char \䷿,
+  :name "Unfinished Business",
+  :number 64,
+  :other-titles
+  {:titles
+   ("Before Completion"
+    "The Symbol of What is not yet Past"
+    "Not-yet Fording"
+    "Not Yet Completed"
+    "Tasks yet to be Completed"
+    "Not yet"
+    "Yet to be"
+    "Before the End"
+    "Mission yet Unaccomplished"
+    "A State of Transition")}})

@@ -1,0 +1,248 @@
+{:binary "110011",
+ :line-1
+ {:confucius-legge
+  "No change has yet come over his purpose. Wilhelm/Baynes: The will has not yet changed. Blofeld: The good fortune presaged by this line implies that our purpose remains unaltered. Ritsema/Karcher: Purpose not-yet transformed indeed. Cleary (2): The mind is not changed. Wu: There has been no change in purpose.",
+  :liu
+  "Ponder carefully. Good fortune. Other thoughts lead to anxiety.",
+  :cleary-1
+  "Forethought leads to a good outcome. If there is something else, one is not at rest.",
+  :cleary-2 "Preparedness leads to a good outcome, etc.",
+  :legge
+  "Ordinarily, we would expect line one to turn to line four as its correlate. However, the K'ang-hsi editors contend that with the exception of lines three and six, the concept of correlation should be discarded from the study of this hexagram. Here sincerity is focused on inner truth, and this is the source of its power. No change has come over his purpose means that sincerity, perfect in and of itself, continues undisturbed by outside influences.",
+  :blofeld
+  "The officer in charge of hunting and fishing [The whole of this phrase translates a single Chinese word. The additional commentaries in my possession differ widely in their interpretation of this character (which has several other meanings) and of the passage as a whole. None of them gives what seems to me a satisfactory explanation and I must confess myself unable to interpret the meaning.] -- good fortune! The presence of others would give rise to anxiety. [In the light of the commentary on the line which follows, this could also be taken to mean: Any other way than the way we are following would make us lose our peace of mind.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Precaution significant. Possessing this, not a swallow. (Swallow, YEN: house swallow, martin, swift, retired from official life; easy, peaceful, private; give a feast; relation between elder and younger brother.)",
+  :wing
+  "Concentrate now upon your inner virtue. Rely upon your principles and those things you know to be true about your nature. Good fortune will come with this attitude. If you look outside of yourself for help, you may succumb to chaos and all subsequent action will be uncentered and improper.",
+  :editor
+  "There is some serious disagreement about the proper translation of this line. Wilhelm speaks of being prepared; Liu renders it as an injunction to ponder carefully. Blofeld's version is a complete non-sequitur, and we can't help but wonder about the meaning of the swallow in Ritsema/Karcher's version. Nevertheless, all of the Confucian commentaries are closely analogous, so we can use it as our point of reference. The image is one of an inner centeredness which seems threatened. The proper response is an egoless receptivity to experience which has its secure foundation in Self-reliance. One comes from one's center, ignoring peripheral inner turmoil and its reflection in outer temptation, and thereby flows with Tao.",
+  :siu
+  "At the outset, the man relies on his inner stability and preparedness, which are the basis of a correct attitude toward the world. If he seeks secret ties, however, his peace of mind and inmost sincerity will be jeopardized.",
+  :commentary "",
+  :wilhelm-baynes
+  "Being prepared brings good fortune. If there are secret designs, it is disquieting.",
+  :wu
+  "Being devoted to a single cause is auspicious. Vacillation would lead to uneasiness.",
+  :shaughnessy
+  "Self-satisfied auspiciousness ; there are others not tranquil."},
+ :line-5
+ {:confucius-legge
+  "The place of the line is the correct and appropriate one. Wilhelm/ Baynes: The place is correct and appropriate.  Blofeld: This is indicated by the correct position of this ruling line. Ritsema/Karcher: Situation correcting appropriate indeed. Cleary (2): The position is correct. Wu: It comes from the proper position.",
+  :liu
+  "His truthfulness is steadfast. No blame. [Good fortune in everything.]",
+  :cleary-1 "With faithfulness that is firm, there is no fault.",
+  :cleary-2 "With sincerity that is firm, there is no fault.",
+  :legge
+  "Line five is dynamic and in the central place of the ruler. He is the sage on the throne whose sincerity goes forth to bind all in union with himself.",
+  :blofeld
+  "He seems to be pulled forward by his confidence in what he is doing -- no error!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Possessing conformity, binding thus. Without fault.",
+  :wing
+  "This is the position of a true ruler. Such a person holds to virtuous goals and principles and emanates, to those all around him, the overwhelming force of his character. Others cling to him, and there is no blame in this.",
+  :editor
+  "The line and its commentaries present a highly accurate image of the individuation process in its concentrated essence. The goal of the Work is to unite all of the disparate aspects of the psyche into a harmonious whole. If this is the only changing line, the hexagram becomes number forty-one, Compensating Sacrifice, the corresponding line of which images a profound and beneficial increase: “Someone does indeed increase him. Ten pairs of tortoises cannot oppose it. Supreme good fortune” (Wilhelm). Psychologically interpreted, this is the seat of the Self in the hexagram of Inner Truth.",
+  :siu
+  "The perfect sincerity of the sage on the throne binds all in union with himself.",
+  :commentary "",
+  :wilhelm-baynes
+  "This describes the ruler who holds all elements together by the power of his personality. Only when the strength of his character is so ample that he can influence all who are subject to him, is he as he needs to be. The power of suggestion must emanate from the ruler. Without this central force, all external unity is only deception and breaks down at the decisive moment.",
+  :wu
+  "Sincerity can unite people as if connecting them with strings. No blame.",
+  :shaughnessy "There is a return linkedly; there is no trouble."},
+ :number 61,
+ :name "Inner Truth",
+ :the-image
+ {:legge
+  "Wood on a Marsh -- the image of Inner Truth. The superior man deliberates about cases of litigation and delays the infliction of death.",
+  :wilhelm-baynes
+  "Wind over lake: the image of Inner Truth. Thus the superior man discusses criminal cases in order to delay executions.",
+  :blofeld
+  "This hexagram symbolizes wind blowing over a marshy lake. The Superior Man devotes careful thought to his judgments and is tardy in sentencing people to death.",
+  :liu
+  "The wind over the lake symbolizes Inner Truthfulness. The superior man judges criminals and postpones capital punishment.",
+  :ritsema-karcher
+  "Above marsh possessing wind. Centering Conforming. A chun tzu uses deliberating litigating to delay dying.",
+  :cleary-1
+  "There is wind above a lake, with truthfulness between them. Thus superior people consider judgments and postpone execution.",
+  :cleary-2
+  "There is wind over a lake, with sincerity in the center. True leaders consider judgments and postpone execution.",
+  :wu
+  "There is wind above the marsh: this is Sincerity. Thus, the jun zi deliberates the verdicts and enjoins the death sentence."},
+ :line-4
+ {:confucius-legge
+  "She breaks with her former companions, and mounts upwards. Wilhelm/Baynes: It separates from its kind and turns upward. Blofeld: The straying of the horses signifies rising above those of our own kind. Ritsema/Karcher: Cutting-off the above, sorting indeed. Cleary (2): The horse’s mate disappearing means breaking with peers to go higher. Wu: He forsakes the company of his own kind for the sake of service to the one above.",
+  :liu "The moon will be full. He loses a team of horses. No blame.",
+  :cleary-1
+  "The moon approaches fullness. The pair of horses is gone. No fault.",
+  :cleary-2
+  "The moon is almost full. When the horse’s mate disappears, there is no fault.",
+  :legge
+  "Line four is magnetic and in her correct place. She has discarded her correlate first line and hastens on to the confidence of the ruler in line five, who is symbolized as the nearly full moon. The symbol of the horse whose fellow has disappeared has reference to the discarding of the first line.",
+  :blofeld
+  "A team of horses strays just before the full moon -- no error!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "The moon almost facing. The horse team extinguished. Without fault.",
+  :wing
+  "Turn your attention to a superior person or a noble ideal and attempt to gain insight into this power. In responding to a larger goal, you may leave others behind. This is not a mistake.",
+  :editor
+  "According to Wilhelm, line three, the drum beating, sobbing and singing inferior man, is here symbolized as the “team horse” who is abandoned – not line one (Legge). This transfer of “horse-power” is psychic energy which forsakes its former pursuits to seek illumination or en-light-enment. The message is the abandonment of futile ways to focus on Inner Truth:Leave the cycles of weeping and singing to those who are still enamored of them. The Waxing moon is an increasing brightness which, because it is associated with the ruler, symbolizes a source of wisdom. The proper ego/Self relationship is implied.",
+  :siu
+  "The man is humble and respectful in receiving enlightenment from superior quarters. He is like the team horse which follows the straight course without having to look at its mate.",
+  :commentary "",
+  :wilhelm-baynes
+  "The team horse is the six in the third place. But the fact that there is similarity in kind has no determining effect. The line is correct in its place and has a receiving relationship to the ruler of the hexagram, the nine in the fifth place, whom it serves as minister.",
+  :wu
+  "The moon is almost full. One horse of a pair is lost. No blame.",
+  :shaughnessy
+  "The moon is past full; the horse will necessarily be lost; there is no trouble."},
+ :line-2
+ {:the-master-said
+  "The superior man occupies his apartment and sends forth his words. If they be good, they will be responded to at a distance of more than a thousand miles -- how much more will they be so in the nearer circle! If his words be evil, they will awaken opposition at a distance of more than a thousand miles – how much more will they do so in the inner circle! Words issue from one's person, and proceed to affect the people. Actions proceed from what is near, and their effects are seen at a distance. Words and action are the spring and hinge of the superior man. The movement of that hinge and spring determines glory or disgrace. His words and actions move Heaven and Earth -- may he be careless in regard to them?",
+  :confucius-legge
+  "Her young ones respond to her from the common wish of the inmost heart. Wilhelm/Baynes: This is the affection of the inmost heart. Blofeld:  `Its young ones follow suit' indicates heartfelt desire.  Ritsema/Karcher: Centering the heart desiring indeed. Cleary (2): The fledgling joining in is the heart’s desire. Wu: The harmony comes from within.",
+  :liu
+  "A crane calls in the shade; its young ones respond. I have a good goblet (wine, virtue) to share with you.",
+  :cleary-1
+  "A calling crane is in the shade, its fledgling joins it; I have a good cup, which I will quaff with you.",
+  :legge
+  "The young ones of the crane are represented by line one. The symbolism suggests two men brought together by their sympathy in virtue. The subject of the line is the effect of sincerity. As one bond of loving regard unites the mother bird and her young, so answers the heart of man to man.",
+  :blofeld
+  "A crane sings in the shade; its young ones follow suit. [This symbolizes a longing in which others share.] I have a fine goblet and will share it with you. [We should allow others to benefit from something or some circumstance which is valuable to us.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Calling crane located-in yin. One's son-hood harmonizing it. I possess a loved wine-cup. Myself associating, simply spilling it.",
+  :wing
+  "Here insight and influence are in their finest hour. The deeds you do, the words you speak, resonate in the hearts and minds of others near and far. You may expect a fortunate and beneficial response from your environment.",
+  :editor
+  "We see here a hidden mother bird calling to her young to share a cup of spirits. (Wilhelm, Blofeld and Liu all translate hidden retirement as shade.) The image is of a mother who cannot be seen -- i.e., a hidden source. Psychologically interpreted, this suggests the inner Self, and the shade suggests the darkness of the unconscious from which the Self calls to us. The young birds who respond to the call are the complexes of the psyche, including, of course, the conscious ego-complex. Despite conscious negative associations of alcohol with intoxication, spirits are a common dream symbol for the action of the spirit on consciousness. (Aqua Vitae, literally: water of life, means alcohol or hard liquor.) The overall image then is one of the Self and its complexes united by their common spirit.",
+  :siu
+  "The man voices his feelings and defends his deeds by clear explanations, which exert a far-reaching chain reaction.",
+  :commentary "",
+  :wilhelm-baynes
+  "A crane calling in the shade. Its young answers it. I have a good goblet. I will share it with you.",
+  :wu
+  "A crane cries in the shade and her young chime in. “I have fine wine. I would like to share it with you.”",
+  :shaughnessy
+  "A calling crane in the shade, its young harmonizes with it: We have a good chalice, I will down it with you."},
+ :judgment
+ {:liu
+  "Inner Truthfulness. Sea Lions -- good fortune. It is of benefit to cross the great water.",
+  :cleary-1
+  "Faithfulness in the center is auspicious when it reaches even pigs and fish . It is beneficial to cross great rivers. It is beneficial to be correct.",
+  :cleary-2
+  "Sincerity in the center is auspicious when simple-minded ... etc.",
+  :legge
+  "Inner Truth moves even pigs and fish, and leads to good fortune. There will be advantage in crossing the great stream. There will be advantage in being firm and correct.",
+  :blofeld
+  "Inward Confidence and Sincerity.  Dolphins -- good fortune! It is advantageous to cross the great river (or sea). Persistence in a right course brings reward.",
+  :ritsema-karcher
+  "Centering Conforming, hog fish significant. Harvesting: wading the Great River. Harvesting trial. (Hog fish, T’UN YU: aquatic mammals; porpoise, dolphin; intelligent aquatic animals whose development parallels the human; sign of abundance and good luck.) [This hexagram describes your situation in terms of the relation between your inner core and the circumstances of your life. It emphasizes that bringing your central concerns and your life situation into a sincere and reliable accord is the adequate way to handle it...]",
+  :wilhelm-baynes
+  "Inner Truth. Pigs and fishes. Good fortune. It furthers one to cross the great water. Perseverance furthers.",
+  :wu
+  "Sincerity moves piglets and fishes. Auspicious. It will be advantageous to cross the big river with perseverance.",
+  :shaughnessy
+  "Central Return: the piglet and fish are auspicious; harmonious: beneficial to ford the great river; beneficial to determine."},
+ :line-6
+ {:confucius-legge
+  "Chanticleer tries to mount to Heaven, but how can such an effort continue long? Wilhelm/Baynes: How could such a one last long? Blofeld: For how could this continue for long?  Ritsema/Karcher: Wherefore permitting long-living indeed? Cleary (2): How can the rooster who ascends to the skies last? Wu:",
+  :liu
+  "The crow of a cock piercing the heavens. To continue -- misfortune.",
+  :cleary-1
+  "The voice of a pheasant reaches the skies; even if devoted, the outlook is bad.",
+  :cleary-2
+  "A rooster ascends to the skies. Self-righteousness leads to misfortune.",
+  :how-long-can-it-last? "",
+  :legge
+  "Line six should be magnetic, but is dynamic, and coming after line five, what can he accomplish? His efforts will be ineffectual and self-destructive. He is symbolized as a cock -- literally: The plumaged voice. But a cock is not fitted to fly high, and will only hurt himself in the attempt.",
+  :blofeld
+  "The noise of cocks crowing rises to the sky -- to persist now would bring misfortune. [This suggests that we are over-confident and inclined to crow about our good fortune; but we should remember that triumph seldom lasts long and avoid seeking even greater triumphs at this time.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "A soaring sound mounting, tending-towards heaven. Trial: pitfall.",
+  :wing
+  "Your character has developed to a point where you can make a formalized appeal for help and allegiance in attaining ambitious aims. However, your position is not correct for such aspirations. The pursuit of these aims brings unhappiness and remorse.",
+  :editor
+  "The cock is a proud and stubborn bird: loud and aggressive, it is an appropriate symbol of a deluded ego. [Cocksure: Given to or marked by overconfidence, presumptuousness, lack of thoroughness or cockiness.] The sound of a cock's crowing suggests proud words or vain ideas. His correlate is the weak and inconstant, “drumming and sobbing” third line, and he can be seen as an over-confident ego aspiring to lead the psyche to glory -- an illusion which can only fail and thereby retard the progress of the Work. At worst, this implies bad faith; at best it suggests ignorance and illusion.",
+  :siu
+  "Mere words cannot be relied upon. Overdependence on them leads to bad results.",
+  :commentary "",
+  :wilhelm-baynes
+  "Cockcrow penetrating to heaven. Perseverance brings misfortune.",
+  :wu
+  "The crowing sound of a rooster ascends high in the sky. It will be foreboding, even with perseverance.",
+  :shaughnessy
+  "The golden pheasant's sound ascends to the heavens; determination is inauspicious."},
+ :notes-&-para
+ {:judgment
+  "It is a great accomplishment when Inner Truthalters archetypal forces within the psyche. The ego’s devotion to the Work is the means to this end.",
+  :the-superior-man
+  "carefully differentiates his options and avoids drastic measures. (Can sometimes mean: Don't act until you are sure of all the facts.)",
+  :anyone-who-monitors-his-dreams-and-other-images-knows-that-the-unconscious-is-a-continuous-wellspring-of-psychic-energy.-jung-has-observed-that-we-are-probably-dreaming-all-of-the-time--the-only-reason-we-don't-usually-notice-this-is-because-the-conscious-mind-is-so-powerful-that-the-more-subtle-manifestations-of-the-psyche-are-eclipsed.-since-consciousness-consists-of-only-the-upper-layers-of-a-deep-continuum-of-awareness-it-is-obvious-that-we-are-being-continuously-"created-from-within."-the-ultimate-source-of-our-being-is-not-easily-accessible,-but-all-of-the-empirical-evidence-points-to-a-"self"-which-transcends-the-space-time-continuum--i.e.,-lives-in-another-"dimension."
+  "",
+  :this-seemingly-exotic-concept-was-written-by-jung-in-1939,-yet-today-the-theories-of-the-quantum-physicists-are-approaching-the-point-where-awareness-itself-will-be-recognized-as-space-time-transcendent.
+  "",
+  :the-physicists-now-hypothesize-an-eleven-dimensional-universe,-and-state-that-the-seven-"extra"-dimensions-are-somehow-"rolled-up-to-a-very-small-size"-so-that-they-are-not-apparent-to-our-senses.-if-we-are-going-to-hypothesize-such-fantastic-realms-it-is-more-elegant-to-hypothesize-consciousness-itself-as-emanating-from-an-extra-dimensional-source.-this-is-the-pleroma-of-the-gnostics-and-alchemists,-the-upper-and-lower-worlds-of-shamanism,-or-in-jungian-parlance-the-objective-psyche-or-collective-unconscious.
+  "",
+  :the-familiar-spacetime-of-our-conscious-experience-consists-of-three-linear-dimensions,-plus-time.-time-is-considered-a-dimension,-but-not-like-the-other-three--one-can-go-up,-down,-forward-and-backward,-to-the-left-or-right-at-will,-but-one-cannot-go-back-to-this-morning-or-forward-to-next-thursday-afternoon.-the-time-dimension-is-a-continuous-"now"-and-we-experience-it-and-the-other-three-dimensions-from-the-reference-point-of-consciousness--we-are-the-center-from-which-all-dimensions-radiate.-consciousness-is-like-time-in-that-it-is-always-"now,"-and-since-consciousness-emerges-from-within-in-a-continuous-and-autonomous-flow,-we-can-legitimately-hypothesize-that-we-emanate-from-a-power-source-in-another-dimension.-we-are-a-kind-of-continuous-explosion-from-within--a-microcosmic-version-of-the-"big-bang"-which-originated-the-universe,-and-which,-incidentally,-is-still-exploding-expanding-outward-into-space.
+  "",
+  :the-image-of-the-hexagram
+  "Inner Truth gives us the idea of an empty center -- as good an image as could be devised from the structural components of the trigrams to show the inner source of human consciousness. The pigs and fishes of the Judgment are the archetypal complexes which must be tamed through the process of the Work, and to cross the great stream with firm correctness is to accomplish this holy task."},
+ :commentary
+ {:confucius-legge
+  "Inner Truth shows two magnetic lines occupying the innermost part of the hexagram, with dynamic lines in the centers of the trigrams. We see the attributes of Cheerfulness and Flexible Penetration -- sincerity thus symbolized reaches even to pigs and fishes and will transform the country. We see one riding on the symbol of Wood, which forms an empty boat -- hence it is advantageous to cross the great stream. The virtue of Inner Truth requires firm correctness and shows the proper response of man to heaven.",
+  :legge
+  "Inner Truth denotes the highest quality of man, giving its possessor the power to prevail with spiritual beings, with other men and with lower creatures. There are two magnetic lines in the center and two dynamic lines above and below them. The magnetic lines represent the heart and mind free from all preoccupation, without any consciousness of self. The two dynamic lines immediately above and below them are each in the center of their respective trigram, and denote the solid virtue of one so free from selfishness.",
+  :the-trigram-of-wood-above-the-trigram-for-a-lake-or-marsh-suggests-a-boat-crossing-the-great-stream.-the-pigs-and-fishes-symbolize-the-rudest-and-most-obstinate-of-men.-ch'eng-tzu-observes
+  "We have in the sincerity shown in the upper trigram superiors condescending to those below them in accordance with their peculiarities, and we have in that of the lower those below delighted to follow their superiors. The combination of these two things leads to the transformation of the country and state."},
+ :line-3
+ {:confucius-legge
+  "The position of the line is not the appropriate one for it. Wilhelm/ Baynes: The place is not appropriate. Blofeld: His beating the drum by fits and starts is indicated by the unsuitable position of this line. Ritsema/Karcher: Situation not appropriate indeed. Cleary (2):  The position is not appropriate. Wu: Because he is out of place. [The judgment describes how circumstances may influence the action of a person, but makes no comments on his behaviors.]",
+  :liu
+  "One meets a person. Suddenly he beats a drum, and suddenly he stops; then he weeps, then he sings. [You can expect to gain sometimes, but also to lose sometimes; in happiness hides sadness, but from sadness will spring joy.]",
+  :cleary-1
+  "Finding enemies , sometimes drumming, sometimes stopping, sometimes crying, sometimes singing. [Believing in what is not to be believed will inevitably destroy faith. This is faith that takes the false to be true.]",
+  :cleary-2
+  "Finding a mate … etc. [All of this is due to lack of virtuous qualities and being out of place.]",
+  :legge
+  "The mate of line three is line six. Although they are matched as correlates, each is in an inappropriate place. The idea is that sincerity, not left to itself, is influenced from outside which causes changes and uncertainty in one's moods.",
+  :blofeld
+  "He makes an enemy. Beating a drum by fits and starts, he weeps and sings in turn. [We are conscious of having made an enemy, but we cannot make up our minds what to do about it. The implication is that we should have more courage.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Acquiring antagonism. Maybe drumbeating, maybe desisting. Maybe weeping, maybe singing.",
+  :wing
+  "You depend upon your external relationships to dictate your mood or to gauge your confidence in yourself. This can sometimes elevate you to the heights of joy or banish you to the depths of despair. Possibly you may enjoy such range in emotion.",
+  :editor
+  "Note the close similarity between this line and line three of Hexagram #30, Clarity:In the light of the setting sun, men either beat the pot and sing or loudly bewail the approach of old age. Misfortune” (Wilhelm). Here, line three is unduly influenced by her sixth line correlate, who is portrayed as a crowing cock: an egotistical sham. Blofeld, Shaughnessy and Cleary (1) describe an enemy; Ritsema/Karcher call it “acquiring antagonism.” Whatever it is, the influence is not consistent with proper management of the Work. This suggests the psychic processes of the average human being. With her choices largely influenced by unconscious forces (which her correlate would probably call free will), her life is largely determined by circumstances beyond her control. At its most neutral, the line images the waxing and waning of fortune: The Lord giveth, and the Lord taketh away.",
+  :siu
+  "The man depends on others for his joys and sorrows, which generates an uncertainty of moods. His sincerity is impure and contaminated with external influences.",
+  :commentary "",
+  :wilhelm-baynes
+  "He finds a comrade. Now he beats the drum, now he stops. Now he sobs, now he sings. [Here the source of a man’s strength lies not in himself but in his relation to other people. No matter how close to them he may be, if his center of gravity depends on them, he is inevitably tossed to and fro between joy and sorrow.]",
+  :wu
+  "He meets with his counterpart. Sometimes he drums, sometimes he stops, sometimes he wails, and sometimes he sings.",
+  :shaughnessy
+  "Getting an enemy: now drumming, now weary, now crying, now singing."},
+ :char \䷼,
+ :other-titles
+ {:titles
+  ("The Symbol of Central Sincerity"
+   "Inward Confidence"
+   "Inner Truthfulness"
+   "Sincerity"
+   "Centering- Conforming"
+   "Central Return"
+   "Faithfulness in the Center"
+   "Sincerity in the Center"
+   "Insight"
+   "Understanding"
+   "The Psyche"),
+  :quotes
+  ({:author "D.F. Hook",
+    :quote "Take the middle road and avoid extremes."})}}

@@ -1,0 +1,239 @@
+{:binary "010000",
+ :line-1
+ {:baynes
+  "Losing order is unfortunate. Blofeld: The disaster indicated in this passage results from a breakdown of discipline. Ritsema/Karcher: Letting-go ordinance: pitfall indeed. Cleary (2): If it loses order, there will be misfortune. Wu: Lack of discipline means disaster.",
+  :confucius-legge
+  "If the rules aren't observed there will be evil. Wilhelm/",
+  :liu
+  "An army should be put in correct order. If not, there will be disaster.",
+  :cleary-1
+  "The army is to go forth in an orderly manner: Otherwise, even good turns out bad.",
+  :cleary-2 "… Negating the good leads to misfortune.",
+  :legge
+  "The rules are twofold: First, the war must be justified, and second, that the manner of conducting it, especially at the outset, must be correct.",
+  :blofeld
+  "An army is built up through discipline; without it, corruption leading to disaster occurs.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Legions issuing-forth using ordinance. Obstructing virtue: pitfall.  [Ordinance, LU: Law, fixed regulation; regulate by law, divide into right and wrong.]",
+  :wing
+  "Before you take action, be certain that what you propose is worthwhile, for otherwise you cannot sustain yourself. Be sure as well that you are organized. Without order, your affairs will end in chaos and misfortune. Discipline is the key here.",
+  :editor
+  "There is a certain ambiguity in this line, and an implicit warning to maintain total awareness. It doesn't tell you that you are right or wrong -- it only makes a general observation: a truism. The image portrays the necessity of a correct hierarchy of forces (ideas, concepts) to attain any goal. (If you don't know the proper sequence of numbers you cannot open a combination lock.) Crudely, make sure you thoroughly understand your situation before taking action. The implication is that you may not apprehend some crucial aspect of the matter at hand, hence need more or better data. In some contexts, ordinances or law may refer to the laws of nature. Compare with line 6.",
+  :siu
+  "At the outset, a righteous cause, as well as a proper method for conducting the war is essential for military success.",
+  :commentary "",
+  :wilhelm-baynes
+  "An army must set forth in proper order. If the order is not good, misfortune threatens.",
+  :wu
+  "The army going to war requires strict observance of discipline. When the discipline is not enforced, there will be disaster.",
+  :shaughnessy
+  "Troops go out in ranks; it is not good; inauspicious."},
+ :line-5
+ {:cleary-2-…
+  "A mature person leads the army. If the leader is immature, there will be casualties, and even if the leader is right, the prospects are bad.",
+  :confucius-legge
+  "The army's movements are directed by the oldest son in accordance with his position in the center. The employment of younger men who idly occupy their posts is improper. Wilhelm/Baynes: Let the eldest lead the army, because he is central and correct. The younger transports corpses. Thus the right man is not put in charge. Blofeld:  The moving line in the center of the upper trigram indicates that the elder son is in command. The younger son is put in charge of carrying away the corpses because he is unsuited to worthier employment.  [This line may refer to the suitability or otherwise of a person required to fill an important post in any sort of organization or in carrying out some scheme.] Ritsema/Karcher: Using centering movement indeed. Commissioning not appropriate indeed. Cleary (2): A mature person leads the army, with balanced action. The immature sustain casualties because their mission was not appropriate. Wu: His orders are given from the center. Because the appointment is a poor choice.",
+  :liu
+  "Much game in the field. It benefits to capture it. No blame. The army is led by the eldest son. The younger son carries corpses. Continuing brings misfortune.",
+  :cleary-1
+  "There are animals in the fields. It is beneficial to take up words. A mature person is to lead the army; if it is an immature person, there will be casualties, for even if he is righteous the outlook is bad.",
+  :legge
+  "In line five we have an intimation of the important truth that only defensive war, or war waged by the rightful authority to put down rebellion and lawlessness is right. The birds in the fields symbolize parties attacking for plunder. The fifth line symbolizes the ruler, who is humble and magnetic, and in the center. She cedes the use of all her power to the general in line two. Line two is the oldest son and lines three and four are the younger brother and son -- i.e., the younger men who would cause evil if allowed to share the command. In military operations there must be one ruling will and mind. A divided authority is sure to be a failure.",
+  :blofeld
+  "Wild beasts roam the field. To avoid error, speech should be guarded. The eldest son is in command; the younger son carts away the corpses. Persistence would lead to calamity.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "The fields possess wild-fowl. Harvesting: holding-on-to words. Without fault. The long-living son conducting Legions. The junior son carting corpses. Trial: pitfall.",
+  :wing
+  "Rely on an experienced person to lead the way in correcting the situation. He must be moderate in his behavior and not over reactive, for this would lead to misfortune. Inexperienced and enthusiastic persons are now inappropriate for the job of deliberate and controlled leadership.",
+  :editor
+  "This line contains ambiguities, yet the general image is clear enough. It is a re-statement of lines two and three: a strong leader is essential for success. Nevertheless, all except Legge's translation contain a final sentence stating that perseverance leads to misfortune, which seems to contradict the earlier advice to pursue the game. As written, it is not clear whether this applies to the situation in general or only in the case of incompetent leadership. If this is the only changing line, the hexagram thus created is number twenty-nine,Danger -- suggesting that you carefully examine the situation at hand, consolidate your control and advance cautiously.",
+  :siu
+  "Invasion occurs. A seasoned soldier is chosen to lead the army to victory and to prevent needless slaughter of the defeated people.",
+  :commentary "",
+  :wilhelm-baynes
+  "There is game in the field. It furthers one to catch it. \n     Without blame. Let the eldest lead the army. The younger transports corpses; then perseverance brings misfortune.",
+  :wu
+  "There are prisoners of war in the field. It will be advantageous to uphold the mission of the military action. No blame. The eldest son commands the army. A younger son carts back corpses. Even with perseverance, it will be foreboding. [The fifth is a ruler’s position, but it is now occupied by a yin. Hence, the occupant becomes a weak administrator. The elder man and the eldest son … refer to the same second nine, the commander.]",
+  :shaughnessy
+  "In the fields there is game; beneficial to shackle prisoners; there is no trouble. The eldest son leads the troops, the younger son carts corpses; determination is inauspicious."},
+ :number 7,
+ :name "Discipline",
+ :the-image
+ {:legge
+  "Water in the midst of the earth -- the image ofDiscipline. The superior man nourishes and educates the people, and collects from among them a mighty army.",
+  :wilhelm-baynes
+  "In the middle of the earth is water: the image of The Army. Thus the superior man increases his masses by generosity toward the people.",
+  :blofeld
+  "The symbol of water surrounded by land. The Superior Man nourishes the people and treats them with leniency.",
+  :liu
+  "Water in the earth symbolizes the Army. The superior man increases his followers by benevolence toward the people.",
+  :ritsema-karcher
+  "Earth center possessing stream. Legions. A chun tzu uses tolerating commoners to accumulate crowds.",
+  :cleary-1
+  "There is water in the earth, The Army. Thus does the superior person embrace the people and nurture the masses.",
+  :cleary-2-… "Leaders develop a group by admitting people.",
+  :wu
+  "There is water underneath the ground; this is The Army. Thus the jun zi receives people and shelters them."},
+ :line-4
+ {:confucius-legge
+  "There has been no failure in the regular course. Wilhelm/ Baynes: It does not deviate from the usual way. Blofeld: No error is involved because retreating and halting are a normal part of military activity. Ritsema/ Karcher: Not-yet letting-go the rules indeed. Cleary (2): One has not lost the constant. Wu: It does not violate the normal course of action.",
+  :liu "The army retreats at the proper time. No blame.",
+  :cleary-1 "The army retreats and camps, there is no error.",
+  :legge
+  "Line four is magnetic and not central. Therefore to retreat is natural to her. Since the place is proper for a yielding line, the retreat is correct under the circumstances. Retreat is no evidence of failure in a campaign. When advance would lead to defeat, retreat is the regular course to pursue.",
+  :blofeld "The army retreats and halts -- no error!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Legions: the left resting. Without fault.",
+  :wing
+  "The obstacles ahead are insurmountable. Struggling against them is useless. Therefore the intelligent maneuver is retreat.",
+  :editor
+  "Regarded objectively, any withdrawal from an incorrect position can only be a strategy for success.",
+  :siu
+  "The man is confronted by a superior enemy. Orderly retreat to preserve the army is his correct course of action.",
+  :commentary "",
+  :wilhelm-baynes "The army retreats. No blame.",
+  :wu
+  "The army halts its advance and chooses to camp. It will be blameless.",
+  :shaughnessy "The troops camp on the left; there is no trouble."},
+ :line-2
+ {:confucius-legge
+  "He has received the favor of heaven. The king cherishes the myriad regions in his heart. Wilhelm/Baynes: He receives grace from heaven. He has the welfare of all countries at heart. Blofeld:  It is because he is esteemed by the King that he enjoys good fortune and the protection of his army. Solicitous about the welfare of the empire, the King thrice awards him the command. Ritsema/Karcher: Receiving heavenly favor indeed. Cherishing the myriad fiefdoms indeed. Cleary (2): One receives celestial favor. Thinking of all the provinces. Wu: Because he has the favor of the king. The king has in his heart the welfare of all his people.",
+  :liu
+  "A general works within his army. Good fortune, no blame. The king confers a triple honor.",
+  :cleary-1
+  "At the center of the army, good fortune, no error; the king gives orders thrice.",
+  :cleary-2
+  "Being in the middle of the army is lucky, blameless ... etc.",
+  :legge
+  "The orders of the king are the general's appointment to the command of the army. Thrice does not mean that this appointment came three times, but that it was given exclusively to the general with the king's entire confidence. The favor of heaven means the same thing, and indicates that the ruler relies on the general to promote the welfare of all the people in the myriad regions of the kingdom.",
+  :blofeld
+  "The general in the midst of his army enjoys good fortune and is free from error. Thrice he is honored by the King.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Locating Legions, centering significant. Without fault. The king three-times bestowing fate.",
+  :wing
+  "You are in an excellent position to communicate with others. Because this situation is so well disposed you will meet with good fortune and win recognition from your superiors.",
+  :editor
+  "This is a clear image of the ego taking its proper role in the integration of the psyche -- bringing thoughts, passions and drives under the discipline of will. A Kabbalist might interpret the three honors bestowed by the king (the Self) as authority conferred in the three lower realms of sensation, emotion and thought.",
+  :siu
+  "The king's appointment of command is given to the general exclusively. The latter must be in touch with his troops, sharing the good as well as the ill.",
+  :commentary "",
+  :wilhelm-baynes
+  "In the midst of the army. Good fortune. No blame. The king bestows a triple decoration.",
+  :wu
+  "Being in the center of the army will be auspicious and blameless. The king has thrice bestowed praises upon him.",
+  :shaughnessy
+  "In the troops' midst; auspicious; there is no trouble; the king thrice awards the command."},
+ :judgment
+ {:legge
+  "Disciplineindicates that with firm correctness and a leader of age and experience, there will be good fortune and no error.",
+  :wilhelm-baynes
+  "The Army. The army needs perseverance and a strong man. Good fortune without blame.",
+  :blofeld
+  "Persistence in a righteous course brings to those in authority good fortune and freedom from error.  [If the enquiry is not concerned with military affairs, we must interpret this hexagram symbolically in the sense that life is a battle.]",
+  :liu
+  "The Army. The army demands perseverance and a strong person (leader). Good fortune. No blame.",
+  :ritsema-karcher
+  "Legions: Trial. Respectable people significant. Without fault. [This hexagram describes your situation in terms of unorganized crowds or bunches of things. It emphasizes that organizing these things into functional units is the adequate way to handle it. To be in accord with the time, you are told to lead!]",
+  :shaughnessy
+  "The Troops: Determination for the senior man is auspicious; there is no trouble.",
+  :cleary-1
+  "For the leader of the army to be right, a mature person is good; then there is no error.",
+  :wu
+  "The Army indicates persevering. Led by the elder man, it will be auspicious."},
+ :line-6
+ {:confucius-legge
+  "The ruler rightly apportions merit. Inferior men are sure to throw the states into confusion. Wilhelm/Baynes: In order to reward merit properly. Because they are certain to cause confusion in the country. Blofeld: We cannot now rely on anyone of less than exceptional ability. Ritsema/ Karcher: Using correcting achieving indeed. Necessarily disarraying the fiefdoms indeed. Cleary (2): Appropriate achievement. They will disrupt the nation. Wu: Merits should be recognized. Because they will certainly cause upheavals in the nation.",
+  :liu
+  "The king issues directives, establishes states, and awards fiefs to certain families. Inferiors should not be given power.",
+  :cleary-1
+  "The great leader has orders, to establish states and families; do not employ petty people.",
+  :cleary-2
+  "A great leader has orders to establish states and families that continue. Small people are not to be employed.",
+  :legge
+  "Other ways can be found to reward inferior men. They ought not to be placed in situations where the conditions of others will depend on them.",
+  :blofeld
+  "The mandate is given to a great prince so that the work may go forward satisfactorily. A man of mean ability would be useless, for he would merely spread disorder through the realm.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "The Great Chief possesses fate. Disclosing the city, receiving a dwelling. Small People, no availing-of.",
+  :wing
+  "Your aim is achieved. When settling into the new situation be certain to align your proprieties to worthwhile values. Inferior persons and ideas should be assigned to their proper places. Do not give them a voice in your affairs.",
+  :editor
+  "The imagery of this line is that of establishing a new order: a sorting out and allocation of forces to their correct places. Proper allocation demands keen discrimination. The meaning is similar to that of line 1, except that here one uses the discriminating faculty after the action has been completed, whereas in line 1, action has yet to commence. Lines 1 and 6 are like bookends holding the hexagram together; reminding us that discipline is required both before and after any meaningful change can be fixed in spacetime.",
+  :siu
+  "Victory is achieved. The king rewards his supporters. But he is careful to compensate inferior people with money instead of land or ruling privileges. Otherwise power is abused by them.",
+  :commentary "",
+  :wilhelm-baynes
+  "The great prince issues commands, founds states, vests families with fiefs. Inferior people should not be employed.",
+  :wu
+  "The great king has given his order. This is the time to reconstruct the nation and resettle families. Little men should not be appointed to office.",
+  :shaughnessy
+  "The great man's lord has a mandate, to open the state and uphold the families; the little man should not use it."},
+ :notes-&-para
+ {:judgment
+  "Discipline directed by willpower and serious intent advances the Work. Or: With experienced judgment and proper will and intent there will be a good outcome.",
+  :the-superior-man
+  "trains and nourishes his powers to build an invincible unity.",
+  :the-english-word-"infantry,"-meaning-foot-soldiers-(the-backbone-of-any-army),-is-derived-from-the-french-word
+  "enfant, meaning infant, or child. This ancient association was made because a good military officer was expected to treat his soldiers as if they were his own children -- with a stern but loving discipline designed to improve their character. This concept is what the Image alludes to when it says: “The superior man nourishes and educates the people, and collects from among them a mighty army.”  Psychologically interpreted the idea is that the ego-complex is the general officer in the second line that nourishes, educates and controls the other complexes within the psyche. This can only be accomplished through discipline, and thus I have chosen that name for the hexagram rather than the more usual title of The Army.",
+  :with-the-only-dynamic-line-of-the-hexagram-placed-in-the-center-of-the-lower-trigram-we-have-an-image-of-the-position-of-the-ego-complex-in-relation-to-the-rest-of-the-psyche.-the-magnetic-ruler-in-line-five-represents-the-self,-isolated-from-direct-physical-involvement-and-dependent-upon-the-dynamic-ego-to-carry-out-the-work-in-the-material-dimension.-the-seventh-hexagram,-therefore,-shows-the-work-from-the-ego's-point-of-view.
+  "",
+  :hexagram-number-eight,
+  "Holding Together, is the inverse of this image, and shows the Work from the Self's point of view outside of spacetime. There it is the dynamic fifth line ruler who is the focal point -- an image of the Self surrounded by its satellites. In that dimension the second line ego-complex is only another magnetic complex in the company of other magnetic complexes. Ideally, the lower complexes within the psyche should be magnetic in relation to a dynamic ego, but the ego is always magnetic in relation to the dynamic Self. From the Self's point of view all of its complexes are its magnetic children, or infantry. Hexagrams seven and eight should be studied together as reversed images to get a full comprehension of each.",
+  :the-images-in-the-lines-of
+  "Discipline all deal with the management of forces as a coordinated whole -- as long as they are under the firm command of the ego (who is only a general carrying out the orders of the Self), things proceed successfully. If the Discipline breaks down and the ego- general loses control, defeat is certain."},
+ :commentary
+ {:confucius-legge
+  "Discipline describes the masses who make up the army, and the firm correctness referred to means a morally correct intent. When the leader uses the masses with such correctness, he may fulfill the ruler's will. The focus of strength in the second line is responded to by his proper correlate in the ruler's place. Although action is dangerous, it accords with the best sentiments of men, and although the leader may distress the country the people will still follow him -- there will be good fortune and no error.",
+  :legge
+  "Discipline is symbolized here by the conduct of a military expedition. The arrangement of the lines suggests the idea of a general surrounded by his troops. The dynamic yang line in the center of the lower trigram has the confidence of the magnetic ruler in the fifth place. Entire trust is reposed in him because he is strong and correct. He is referred to as an old and experienced man, hence all of his enterprises will succeed.",
+  :perilousness-is-the-attribute-of-the-lower-trigram,-and-docility-or-accordance-with-others,-that-of-the-upper.-war-is-like-poison-to-a-country--painful,-and-potentially-ruinous,-and-yet-the-people-will-endure-it-on-behalf-of-the-sovereign-whom-they-love-and-respect.
+  "",
+  :in-regard-to-the-image,-chu-hsi-says
+  "As the water is not outside the earth, so soldiers are not outside the people. Therefore if a ruler is able to nourish the people, he can get the multitudes for his armies."},
+ :line-3
+ {:confucius-legge
+  "Possibly the army has idle leaders -- great will be its want of success. Wilhelm/Baynes: This is quite without merit. Blofeld: This indicates a serious defeat. Ritsema/Karcher: The great without achievement indeed. Cleary (2): When the army has casualties, that is a great lack of success. Wu: Despite its large number, it does not succeed.",
+  :liu
+  "The army carries corpses. Misfortune. [This is a time of sudden mourning.]",
+  :cleary-1 "The army has casualties; bad luck.",
+  :cleary-2 "The army may have casualties; misfortune.",
+  :legge
+  "Canon McClatchie translates this as: Represents soldiers as it were lying dead in their baggage carts, and is unlucky. Line two is the only legitimate leader of the army. Line three is magnetic in a dynamic place, as if she had jumped over the leader and perched herself above him to take command. In military operations there must be one ruling will and mind. A divided authority is sure to bring failure.",
+  :blofeld "The army carries wagon-loads of corpses -- disaster!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Legions maybe carting corpses. Pitfall.",
+  :wing
+  "There is an absence of vision and leadership. Whether it is a matter of divergent goals or whether the acting leader is simply inept, the result is the same: misfortune.",
+  :editor
+  "Psychologically interpreted, this line describes one of the most fundamental, yet least recognized truths of human consciousness -- the fact that unity of awareness is mostly illusory. Indeed, the whole goal of the Work is to actually attain this unity which we think we already possess. Legge's metaphorical equation of corpses with inefficient leaders is not always apt -- in its most neutral interpretation, the line can depict a situation of (as Liu says) sudden mourning or overwhelming grief.",
+  :siu
+  "Defeat ensues when others interfere with the authority of the chosen ruler. Divided command is often fatal.",
+  :commentary "",
+  :wilhelm-baynes
+  "Perchance the army carries corpses in the wagon. Misfortune.",
+  :wu
+  "The army may have to cart back corpses. This will be foreboding.",
+  :shaughnessy
+  "Of the troops some join with the corpses; inauspicious."},
+ :char \䷆,
+ :other-titles
+ {:titles
+  ("The Army"
+   "The Symbol of Multitude and of Army"
+   "Legions/ Leading"
+   "The Troops"
+   "Collective Force"
+   "Discipline"
+   "Soldiers"
+   "Group Action"
+   "A Disciplined Multitude"
+   "Ego Discipline"
+   "Willpower"),
+  :quotes
+  ({:author "D.F. Hook",
+    :quote
+    "Can refer to mourning but its essential meaning is Discipline."})}}

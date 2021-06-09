@@ -1,0 +1,259 @@
+{:binary "010001",
+ :line-1
+ {:confucius-legge
+  "The object of punishment is to bring her under the influence of correcting law. Wilhelm/Baynes: Discipline: In order to give emphasis to the law. Blofeld: Though it is advisable to apply discipline, this must be done in accordance with just rules. Ritsema/Karcher: Using correcting laws indeed. Cleary (1): It is beneficial to use punishments, by the correct method. [The correct method of breaking down ignorance is not emotional attack.] Wu: It is a method of correcting wayward behaviors.",
+  :liu
+  "To enlighten youth, it is better to use discipline. Obstacles in the mind should be removed. Otherwise, humiliation.",
+  :cleary-1
+  "Opening up darkness, it is advantageous to use punishments. If restrictions are removed, it will lead to regret.",
+  :cleary-2
+  "To awaken the ignorant, it is beneficial to use punishments; if restrictions are eased, it will be regrettable to go that way.",
+  :legge
+  "The first line, magnetic, and at the bottom of the figure, is in the grossest ignorance. Let her be punished. If punishment avails to loosen the shackles from the mind, well and good. If not, and if the punishment is prolonged, the effect will be bad.",
+  :blofeld
+  "To enlighten immature youth, it is advisable to apply discipline; even fetters may be required, but to use them overmuch is harmful.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Shooting forth Enveloping. Harvesting: availing-of punishing people. Availing-of stimulating fettering shackles. Using going abashed.",
+  :wing
+  "A little discipline is necessary here. There is not enough seriousness of attitude concerning the work to be done, and therefore the atmosphere is not conducive to proper growth. Yet, keep in mind that too many restrictions may lead to uncreative development. Apply just enough guidelines to keep things moving in the proper direction.",
+  :editor
+  "Wilhelm, Blofeld and Liu all render punishment as discipline. The idea is that the discipline of a rigid structure, or confinement to basic principles prunes the psyche of its illusions -- removes the shackles from the mind. Excessive discipline is counterproductive, however: A dynamic balance must be sought between the tyrannies of permissiveness and repression. The line is saying two things, and the balance between them is the lesson. If this is the only changing line, the hexagram becomes number 41, Compensating Sacrifice, which deals with finding balance. (Note, however that both of Cleary’s translations interpret the message as a warning against removing shackles! His interpretation seems to be in the minority.)",
+  :siu
+  "At the outset, the ignorant youth is being disciplined for the seriousness of life. Care should be exercised against attempts at rigid regimentation of the mind.",
+  :commentary "",
+  :wilhelm-baynes
+  "To make a fool develop it furthers to apply discipline. The fetters should be removed. To go on in this way brings humiliation.",
+  :wu
+  "This shows how to instruct the ignorant. It will be advantageous to use punishment, but let go manacles or shackles, for they will bring humiliation.",
+  :shaughnessy
+  "Discarding folly; beneficial to use a punished man, and herewith to remove shackles and manacles. What has already gone is stressful."},
+ :line-5
+ {:confucius-legge
+  "Her good fortune is due to her docility going on to humility. Wilhelm/Baynes: The good fortune of the childlike fool comes from his being devoted and gentle. Blofeld: This is because such conduct coincides with what is soft and gentle. Ritsema/Karcher: Yielding uses Ground indeed. Cleary (2): Harmonizing smoothly. Wu: (This) is due to his docility and humility.",
+  :liu
+  "The youth submits. Good fortune. [If you receive this line, you can expect to attain your goals easily.]",
+  :cleary-1 "Innocence is auspicious.",
+  :cleary-2 "Innocent ignorance has a good outlook.",
+  :legge
+  "Line five is in the place of honor, and has for its correlate the dynamic line in the second place. Being receptive, it is taken as the symbol of a simple lass, willing to be taught by its dynamic correlate in line two.",
+  :blofeld
+  "Youthful innocence brings good fortune. [Here the Chinese text suggests that we are dealing not with youthful folly but with the innocent misdemeanors of quite small children.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Youthful Enveloping. Significant.",
+  :wing
+  "An attitude of innocent acceptance in regard to seeking advice from others will be rewarded. Good fortune.",
+  :editor
+  "As so often in theI Ching, the full meaning of this line is found in the relationship between it and its correlate. The second line is the dynamic sage, and the fifth line is the magnetic (receptive) student. As the ruler of the hexagram, line five exemplifies the idea of receptivity to instruction necessary for the evolution of ignorance into gnosis. This is the relationship of the inexperienced ego to the omniscient Self.",
+  :siu
+  "The unassuming youth seeking instruction with humility gains good fortune.",
+  :commentary "",
+  :wilhelm-baynes "Childlike folly brings good fortune.",
+  :wu "Being an ignorant lad will be auspicious.",
+  :  "",
+  :shaughnessy "Youthful folly; auspicious."},
+ :number 4,
+ :name "Inexperience",
+ :the-image
+ {:legge
+  "A spring issuing from the mountain -- the image of Inexperience. The superior man, in accordance with this, nourishes his virtue and strives for resoluteness of conduct.",
+  :wilhelm-baynes
+  "A spring wells up at the foot of the mountain: the image of Youth. Thus the superior man fosters his character by thoroughness in all that he does.",
+  :blofeld
+  "This hexagram symbolizes a watery hole at the foot of a mountain amidst uncultivated growth. The Superior Man by determined good conduct nourishes his virtue. [The second sentence is deduced from the first; both are suggested by the component trigrams.]",
+  :liu
+  "A spring comes out at the foot of the mountain; this symbolizes Youth. The superior man will cultivate his character through decisive action.",
+  :ritsema-karcher
+  "below Mountain issuing-forth spring-water. Enveloping. A chun tzu uses fruiting movement to nurture actualizing-tao. [Actualize-tao: ... Ability to follow the course traced by the ongoing process of the cosmos ... Linked with acquire, TE: acquiring that which makes a being become what it is meant to be.]",
+  :cleary-1
+  "Under a mountain a spring is produced, in darkness. A superior person nurtures character with fruitful action.",
+  :cleary-2
+  "Under a mountain emerges a spring, in darkness. Leaders use effective action to nurture inner qualities.",
+  :wu
+  "A spring flows at the foot of a mountain; this is Ignorance. The jun zi resolves to taking steps to cultivate his virtue."},
+ :line-4
+ {:confucius-legge
+  "This is due to her distance from the solidity shown in lines two and six. Wilhelm/Baynes: This line of all things is furthest from what is real. Blofeld:  They harm us by leading us astray from the right course. Ritsema/Karcher: Solitariness distancing substance indeed. Cleary (2): The regret of being stuck in darkness is having strayed from reality on one’s own. Wu: The subject is alone and far from the yang.",
+  :liu "The youth beset by confusion. Humiliation.",
+  :cleary-1 "Stuck in darkness, there is regret.",
+  :cleary-2 "Stuck in darkness, regretful.",
+  :legge
+  "The fourth line is far from both the second and sixth, and can get no help from her first line correlate who is as weak as she is. What good can be done with or by her?",
+  :blofeld
+  "Obstinacy and immaturity cause harm. [This line may also be taken as a warning against a too idealistic or visionary attitude.]",
+  :notes-and-paraphrases " ",
+  :ritsema-karcher "Confining Enveloping. Abashment.",
+  :wing
+  "Your fantasies and obsessions will consume you. Your attitude is unrealistic in regard to what is really going on in your life and therefore you cannot be instructed. You may ultimately be saved by experiencing fully the humiliation that follows.",
+  :editor
+  "This is an image of confusion and illusion. In the best sense, it's a counsel against making a foolish choice. (i.e., hopefully you haven't made it yet.)",
+  :siu
+  "Clinging to folly inevitably means humiliation. The wise teacher may have to instruct by letting the subject experience the consequences of his errors.",
+  :commentary "",
+  :wilhelm-baynes "Entangled youthful folly brings humiliation.",
+  :wu "Being besieged by ignorance is a cause for regret.",
+  :  "",
+  :shaughnessy "Bound folly; distress."},
+ :line-2
+ {:confucius-legge
+  "He is able to sustain the burden of his family because of the reciprocation between this dynamic line and the magnetic fifth line. Wilhelm/ Baynes: Firm and yielding are in union.  Blofeld: [No Confucian commentary on this line, Ed.]Ritsema/Karcher: Solid and Supple articulating indeed. Cleary (2): Firmness and flexibility meeting and joining. Wu: The strong-minded and the softhearted have communicated with each other.",
+  :liu
+  "To treat youth generously brings good fortune. Arranging a marriage brings good fortune. The son can take over the household.",
+  :cleary-1
+  "Taking in darkness is good, taking a wife is good; the heir ably takes over the family affairs.",
+  :cleary-2
+  "It bodes well to embrace the ignorant. It bodes well to take a wife. The child becomes head of the family.",
+  :legge
+  "On the second line, dynamic and in the central place, devolves the task of enlightening the ignorant with forbearance and humility. In proof of his generosity he even receives or learns from weak and ignorant women. He appears as the son taking his father's place.",
+  :blofeld
+  "Being gentle with the immature brings good fortune. Taking a wife brings good fortune. Sons will be capable of taking over the household affairs when the strong (young) and the weak (old) are in mutual harmony.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Enwrapping Enveloping. Significant. Letting-in the wife. Significant. The son controlling the dwelling.",
+  :wing
+  "The person in this position has indeed developed in himself a true appreciation of humanity in all of its folly and beauty. Such a person can lead others with wisdom, compassion, and inspiration, and attain all the success attributed to the great and wise historical leaders.",
+  :editor
+  "Because the I Chingis an empirically valid guide to ethical behavior, we must interpret the sexist imagery in Legge and Wilhelm's version of this line as intrapsychic symbolism. Ignorant: Aspects within the psyche resistant to change. Women: Eros function, emotions, feelings. To admit even the goodness of women is to acknowledge those feelings which nurture the psyche. Family:The psyche. Son: The conscious ego. (Father = the Self.) Able to sustain the burden of his family: Able to control psychic impulses.",
+  :siu
+  "The man is tolerant of the ignorant and kind to women. He resembles an official capable of assuming the delegated duties of a prince in directing a large social body with inner strength and outward reserve.",
+  :commentary "",
+  :wilhelm-baynes
+  "To bear with fools in kindliness brings good fortune. To know how to take women brings good fortune. The son is capable of taking charge of the household.",
+  :wu
+  "Accommodating the ignorant is auspicious. It is also auspicious to take a wife. A son will bring prosperity to the family.",
+  :shaughnessy
+  "Wrapping folly; auspicious. Sending in the wife; auspicious. The son can marry."},
+ :judgment
+ {:liu
+  "It is not I who seek him, the youth seeks me. The first time he asks, I answer; but if he asks again and again, it is annoyance: no answer. Benefit for continuance.",
+  :cleary-1
+  "In darkness is development. It is not that I seek naïve innocence; naïve innocence seeks me. The first augury informs; the second and third defile. Defilement does not inform. It is beneficial to be correct.",
+  :cleary-2
+  "Darkness. Getting through. It is not that I seek the ignorant; the ignorant seek me. The first pick informs, the second and third muddle. That which is muddled does not inform. Benefit is a matter of correctness.",
+  :legge
+  "Inexperience means progress and success. I do not seek the inexperienced youth, but he seeks me. When he shows the sincerity proper for divination, I instruct him. If he asks two or three times, that is troublesome, and I do not instruct the troublesome. Firm correctness brings advantage.",
+  :blofeld
+  "Immaturity. Good fortune! I am not one to seek out uncultivated youths, but if such a youth seeks me out, I shall at first read and explain the omens. Yet should he ask me many times, just because of his importunity, I shall not explain anything more. The omen indicates a need for proper direction.  [This hexagram suggests stubbornness (the upper trigram) issuing from the softness of the womb (the lower trigram). While it sometimes happens that youthful rashness succeeds where sober counsels fail, it is nevertheless the duty of the mature man to cultivate the minds of the young and to respond, within reason, to their requests for guidance. As an omen, this hexagram may be taken to imply a case in which a certain amount of rashness may lead to success, but in which older people are not absolved from the duty of guiding the young. There is also a suggestion that the Book of Change itself, though fully responsive to those who make the right approach, will not brook importunity in the form of trivial questions or of seeking to reverse its judgments by further questioning. Whether the omen may be taken to mean that we should go ahead with some rash scheme or that it is time for us to restrain someone's youthful rashness will depend upon the nature of the enquiry, the people concerned in it and the particular moving lines involved in the response.]",
+  :ritsema-karcher
+  "Enveloping, Growing. In-no-way me seeking youthful Enveloping. Youthful Enveloping seeking me. The initial oracle-consulting notifying. Twice, three-times: obscuring. Obscuring, by-consequence not notifying. Harvesting Trial.  [This hexagram describes your situation in terms of concealment and clouded awareness. It emphasizes that actively accepting this concealment in order to nurture growth is the adequate way to handle it...]",
+  :wilhelm-baynes
+  "Youthful Folly has success. It is not I who seek the young fool; the young fool seeks me. At the first oracle I inform him. If he asks two or three times, it is importunity. If he importunes, I give him no information. Perseverance furthers.",
+  :wu
+  "Ignorance is pervasive. It is not that I ask the ignorant lad to come for instruction. It is that the ignorant lad comes to request my instruction. As in divination, he will be instructed the first time. If he asks the same question for the second and third times, he is disrespectful. Having been judged disrespectful, he will not be instructed again. It will be advantageous to be persevering.",
+  :  "",
+  :shaughnessy
+  "Folly:  Receipt; it is not we who seek youthful folly; youthful folly seeks us. The initial milfoil divination is auspicious, but if two or three times drawn out, being drawn out then it is not auspicious; beneficial to determine."},
+ :line-6
+ {:confucius-legge
+  "Above and below all do and are done to in accordance with their nature. Wilhelm/Baynes: It furthers to prevent transgressions, for then those above and below conform to order. Blofeld:  Preventing wrong has the advantage of bringing senior and junior into accord. [Improperly applied discipline may lead the young to hate those whom they are expected to love. Few young people gladly kiss the rod before punishment.] Ritsema/Karcher: Above and Below yielding indeed. Cleary (2): It is beneficial to ward off robbers, for then above and below are in harmony. Wu: Because it is agreeable to the above and the below.",
+  :liu
+  "To punish youth, it does no good to commit a violation. The idea is to prevent a violation.",
+  :cleary-1
+  "Attacking darkness, what is not helpful is inimical, what is helpful prevents enmity.",
+  :cleary-2
+  "Attack ignorance. It is not beneficial to be a robber; it is beneficial to ward off robbers.",
+  :legge
+  "Line six is dynamic and in the topmost place. It is natural, but unwise, for him to use violence in carrying out his educational measures. He represents, according to the scheme of the hexagram, one who uses force in the cause of education; but the force is best applied, not on the ignorant, but on those who would keep them ignorant, or increase their ignorance. He therefore acts according to his nature, and the subjects of all the magnetic lines below are cared for as is best for them.",
+  :blofeld
+  "In dealing with youthful immaturity, there is nothing to be gained from doing what is wrong. Advantage lies in preventing wrong. [In other words, we must be very careful to avoid putting ourselves in the wrong by being unjust or too severe in correcting the faults of our juniors.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Smiting Enveloping. Not Harvesting: activating outlawry. Harvesting: resisting outlawry.",
+  :wing
+  "An inexperienced person may need to be punished for his mistakes in order to put him on the right path. Punishment is by no means an end in itself, but is useful only in preventing further transgressions and maintaining a progressive attitude.",
+  :editor
+  "The imagery of line six can suggest the idea of Karma: a law of just compensation neutralizing past transgressions. In other words, punishment is only effective when it is used to correct an imbalance of forces, not to perpetuate injustice. Properly applied, discipline is never motivated by anger or a desire for revenge. Sometimes this line can suggest a situation in which external circumstances hold one in a kind of protective custody to prevent erroneous choices from being made.",
+  :siu
+  "The man inflicts penalties not in anger but only as a preventive against unreasonable excesses.",
+  :commentary "",
+  :wilhelm-baynes
+  "In punishing folly it does not further one to commit transgressions. The only thing that furthers is to prevent transgressions.",
+  :wu
+  "There is an indication of striking the ignorant. It will not be advantageous to be offensive. It will be advantageous to be defensive.",
+  :  "",
+  :shaughnessy
+  "Hitting the folly; not beneficial to be a robber, beneficial to have that which robs."},
+ :notes-&-para
+ {:the-superior-man
+  "furthers the Work by developing his will and intent.",
+  :the-master-said
+  "I won't teach a man who is not anxious to learn, and will not explain to one who is not trying to make things clear to himself. And if I explain one- fourth and the man doesn't go back and reflect and think out the implications in the remaining three-fourths for himself, I won't bother to teach him again.",
+  :on-the-other-hand,-to-"disobey"-at-will-is-to-put-our-souls-at-risk.-this-is-one-of-the-most-painful-of-all-dilemmas--how-far-do-we-go-in-our-obedience-to-unseen-powers?-aspects-of-this-problem-have-been-called-the-dark-night-of-the-soul--an-inner-initiation,-a-trial-by-fire-to-see-what-we-are-really-made-of.-there-are-times-in-the-advanced-course-of-the-work-when-one-receives-the-strange-insight-that-the-self-actually-wants-us-to-disobey!-this-ordeal-can-only-be-lived-through--no-one-can-advise-you-except-your-own-sense-of-what-is-right-for-you-at-any-given-moment.
+  "",
+  :which-is-to-say-when-the-gods-(or-the-"self")-become-totally-"unreasonable,"-we-can-only-go-along-with-them-to-the-limit-of-our-human-understanding.-slavish-obedience-to-all-injunctions-from-the-unconscious-is-to-sell-our-souls-outright-to-something-that-we-don't-understand.-the-renunciation-of-"common-sense"-is-the-renunciation-of-our-most-precious-birthright.
+  "",
+  :which-is-just-the-way-it-is.-as-a-satellite-of-the-self,-the-ego-complex-was-not-created-just-so-that-it-could-spend-a-lifetime-indulging-its-fantasies.-the-work-must-be-undertaken,-and-the-self-knows-more-than-you-do-what-remains-to-be-done.-like-any-excellent-teacher,-he-demands-more-of-us-than-we-think-we-have-in-us-to-give.-this-phenomenon-of-the-tyrannical-and-often-"unjust"-self-has-been-noted-in-many-times-and-places.-here-is-an-example-from-neo-platonism
+  "",
+  :and-so-it-is-with-the-oracle-(the-self)--the-deeper-one-gets-involved-in-the-work,-the-more-difficult-the-lessons-become,-so-that-one-is-always-kept-in-a-position-of-relative
+  "Inexperience. There are times, when a simple answer would suffice, that you will receive an ambiguous image, which (if you do three-fourths of the work), will lead you to a profound insight.",
+  :while-the-title-of
+  "Inexperience avoids the negative connotation, it must be acknowledged that there is an aura of irritation in this hexagram which illustrates an uncomfortable truth about the relationship between the ego and the Self. The Self is an awesome archetype, and once one has established contact with him, he assumes a distinctly stern personality. The Self will not pander to the ego's illusions, and has no patience with anything but the unvarnished truth. Tact and patience are not among his attributes. Lao Tse describes him very accurately:",
+  :judgment-inexperience
+  "portrays the relationship between the ego and the Self as one of student to master. Communication via the oracle demands seriousness of purpose -- the Self refuses to pander to the ego's illusions.",
+  :by-definition,-"the-gods"-(archetypes)-are-not-human.-were-it-possible-for-them-to-evolve-without-human-vessels-in-spacetime,-presumably-we-humans-would-not-exist.-it-is-these-archetypes,-in-the-guise-of-our-complexes-and-limiting-beliefs,-that-are-being-altered-by-the-work.-because-the-unconscious-psyche-is-a-multiverse,-it-is-sometimes-very-difficult-to-differentiate-just-"who"-is-advising-us,-and-the-self-via-the-oracle,-will-occasionally-test-us-for-our-ability-to-use-intuitive-common-sense.
+  "",
+  :the-gods-need-our-intelligent-disobedience-if-they-themselves-are-to-evolve.-it-is-in-the-stress-between-obedience-and-conscientious-disobedience-that-growth-takes-place.-in-one-sense,-whatever-choice-you-make,-as-long-as-it-is-conscious-and-you-fully-accept-the-consequences,-is-the-right-choice-for-you-at-that-moment.-we-learn-through-our-mistakes,-and-can-never-fail-our-lessons-if-we-truly-integrate-the-experience-into-our-unfolding-lives.
+  "",
+  :the-most-useful-guideline-that-i-have-found-is-that-the-precepts-of-the-work-(as-found-in-the-perennial-philosophy)-are-consistent-worldwide,-and-constitute-a-reliably-moral-structure-for-responsible-choice.-if-the-oracle-seems-to-be-telling-you-to-do-something-contrary-to-your-inner-sense-of-right-and-wrong,-contrary-to-your-understanding-of-the-precepts-of-the-work,-then-go-with-this-intuition-rather-than-the-oracle.-the-self,-via-the-oracle,-will-test-you-in-many-ways-to-make-you-develop.-(the-ultimate-goal-is-to-become-so-infallibly-intuitive-that-oracles-become-superfluous.)
+  "",
+  :wilhelm's-title-for-this-hexagram-is
+  "Youthful Folly, which tends to lend it a negative connotation that is not always strictly applicable. However, he is quick to point out that the title should be understood to mean the immaturity of youth and its consequent lack of wisdom, rather than mere stupidity.",
+  :a-contemporary-expression-of-this-idea-comes-from-consciousness-researcher,-john-lilly,-famous-for-his-work-with-dolphins-and-isolation-tank-experiments-with-psychedelic-drugs
+  "",
+  :confucius,-one-of-the-greatest-teachers-who-ever-lived,-obviously-took-his-teaching-method-from-the-judgment-of-this-hexagram
+  ""},
+ :commentary
+ {:confucius-legge
+  "Inexperience shows the trigram of the Mountain above that of the Abyss. The perilous impasse suggested by these figures evokes the idea of inexperience. Progress and success are suggested because the action and development of the hexagram conform to the requirements of the time. When inexperience seeks wisdom, will responds to will. The oracle responds to sincerity because it has the qualities of the dynamic line in the central second place, but the oracle does not respond to ignorant importuning. The proper duty of a sage is to nourish the correct nature of the ignorant.",
+  :legge
+  "Difficulty shows us plants struggling within the earth, and Inexperiencesuggests the small and undeveloped sprouts which then appear upon its surface. This is an image of youthful ignorance, and the object of the hexagram is to show how those in authority should deal with it. The Judgment takes the form of the oracle's response to the questioner.",
+  :the-upper-trigram-represents-a-frowning-mountain-which-blocks-the-progress-of-the-traveler.-the-lower-trigram-symbolizes-a-stream-of-water-in-a-dangerous-canyon,-such-as-might-be-found-at-the-foot-of-a-mountain.-the-combination-of-these-symbols-suggests-the-perilous-nature-of-ignorant-inexperience.
+  "",
+  :the-subject-of-line-two-represents-the-oracle,-who-demands-sincerity-from-the-unenlightened.-it-is-his-duty-to-evoke-the-innate-"correct-nature"-hidden-within-the-questioner,-to-bring-this-quality-out-and-develop-it.-in-regard-to-the-image,-chu-hsi-says-that
+  "the water of a spring is sure to move on and gradually advance. This may serve as a symbol of the general process and progress of education."},
+ :line-3
+ {:confucius-legge
+  "A woman such as is here represented should not be taken in marriage -- her conduct is not agreeable to what is right. Wilhelm/ Baynes: Her conduct is not in accord with order.  Blofeld: Do not take to wife one whose behavior is disorderly.  Ritsema/Karcher: Movement not yielding indeed. Cleary(2): Do not introduce the girl because his conduct is not harmonious. Wu: her behavior is not beyond reproach.",
+  :liu
+  "Do not choose a girl who, when she sees a rich man, loses her control. No benefit.",
+  :cleary-1
+  "Don’t take this woman in marriage; if she sees a moneyed man, she’ll lose herself. Nowhere beneficial.",
+  :cleary-2
+  "Do not take a girl to see a moneyed man, or she will lose herself, to no one’s benefit.",
+  :legge
+  "The third line is magnetic and occupies a dynamic place beyond the center. She separates the fourth line from the second, and the fifth line separates her from her sixth line correlate. All these things give her a bad character.",
+  :blofeld
+  "Do not choose a wife who, on seeing a wealthy man, cannot contain herself. Nothing brings advantage. [This line, besides furnishing a specific warning to those with marriage in view, means generally that this time is unpropitious from the point of view of the enquirer, whatever his question may concern.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "No availing-of grasping womanhood. Visualizing a metallic husband. Not possessing the body. Without direction: Harvesting. [Without direction: Harvesting, WU YU LI: no plan or direction is advantageous; in order to take advantage of the situation, do not impose a direction on events.]",
+  :wing
+  "You are in danger of throwing yourself away in a foolish attempt to be close to that which you fervently desire. Without strength of character and individuality you can accomplish nothing meaningful in life.",
+  :editor
+  "In the symbolic language of the unconscious psyche, the female principle is associated with Eros and the feelings. Line three depicts a woman unable to control herself, and by analogy some form of inappropriate emotional expression, desire or passion.",
+  :siu
+  "The man guards against the loss of his individuality. He should not imitate persons of senior rank or act like a flippant girl throwing herself at a handsome man. Neither should he accept overtures from such subordinates.",
+  :commentary "",
+  :wilhelm-baynes
+  "Take not a maiden who, when she sees a man of bronze, loses possession of herself. Nothing furthers.",
+  :wu
+  "Marry the woman not. When she sees a wealthy man, she cannot keep her composure. Nothing good will come out of the marriage.",
+  :shaughnessy
+  "Do not use to take a woman; see the metal fellow who does not have a torso; there is no place beneficial."},
+ :char \䷃,
+ :other-titles
+ {:titles
+  ("Youthful Folly"
+   "The Symbol of Covering"
+   "Immaturity"
+   "Uncultivated Growth"
+   "Youth"
+   "Acquiring Experience"
+   "Youthful Ignorance"
+   "Enveloping"
+   "Folly"
+   "Darkness"),
+  :quotes
+  ({:author "D.F. Hook",
+    :quote
+    "Often the I Ching uses this hexagram to show us that we should not be asking this question."})}}

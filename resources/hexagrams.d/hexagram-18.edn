@@ -1,0 +1,249 @@
+{:binary "011001",
+ :line-1
+ {:confucius-legge
+  "He has entered into the work of his father. Wilhelm/ Baynes: He receives in his thoughts the deceased father. Blofeld: This implies assuming responsibility for their mistakes. Ritsema/Karcher: Intention receiving the predecessors indeed. Cleary (2): Consciously taking up after the late father. Wu: He intends to continue his father’s business.",
+  :liu
+  "If the mistakes of the father are corrected by the son, no blame. There is danger, but in the end, good fortune.",
+  :cleary-1
+  "Correcting the father’s degeneracy; if there is a son, the deceased father is without blame. Danger, but in the end it turns out well.",
+  :cleary-2
+  "Dealing with the degeneration of the father, if there is a child, the late father has no blame. It is dangerous but turns out well.",
+  :legge
+  "Line one is magnetic, with a magnetic correlate in line four -- what can be done here to remedy the state of decay? But the line is the first of the hexagram, and the decay is not yet great. By heeding the cautions of the text, he can succeed. He has entered into the work of his father, and brings it about that his father is looked on as blameless.",
+  :blofeld
+  "Children exist to rectify the mistakes wrought by their fathers; hence the departed are made free from blame -- trouble ending in good fortune!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Managing the father's Corrupting. Possessing son-hood. Predecessors without fault. Adversity, completing significant.",
+  :wing
+  "In order to avoid decay, it is necessary to change a traditional and rigid structure that is affecting your life. You may feel that this is too radical an undertaking. It is true that this kind of change is fraught with danger, but if you are cautious while making the reform you will meet with success and renewed growth.",
+  :editor
+  "This line doesn't lend itself to use of the usual gender symbolism. Wilhelm translates the Confucian commentary in terms of receiving the departed father in one's thoughts; Blofeld renders it as taking responsibility for the father's errors. Ritsema/Karcher render adversity” as: “Danger, threatening, malevolent demon ... It indicates a spirit or ghost that seeks revenge by inflicting suffering upon the living. Pacifying or exorcizing such a spirit can have a healing effect.”  This can refer to any unresolved stresses creating instability in the situation. Psychologically, the idea is that new insights modify old errors. If they are formulated carefully, further error is avoided and one has created a useful new foundation. Sometimes the line can refer to having misinterpreted a previous oracle.",
+  :siu
+  "At the outset, wrongs have arisen which are not yet deeply rooted and can be remedied. But reforms are associated with dangers, which should be understood.",
+  :commentary "",
+  :wilhelm-baynes
+  "Setting right what has been spoiled by the father. If there is a son, no blame rests upon the departed father. Danger. In the end good fortune.",
+  :wu
+  "He attends to the affairs of his father. He is a capable son. His father will be free from blame. It is a difficult task, but it will be good in the end.",
+  :shaughnessy
+  "The stem father's branch; there is a son crafty; there is no trouble; danger; in the end auspicious."},
+ :line-5
+ {:confucius-legge
+  "He is responded to by the second line with all of his virtue. Wilhelm/Baynes: He receives him in virtue. Blofeld: Because to take them upon ourselves is a virtue. Ritsema/Karcher: Receiving uses actualizing-tao indeed.  [Actualize-tao: Ability to follow the course traced by the ongoing process of the cosmos ... Linked with acquire, TE: acquiring that which makes a being become what it is meant to be.]Cleary (2): Because one takes up after him with virtue. Wu: He succeeds with virtue.",
+  :liu "Correcting the mistakes of the father leads to recognition.",
+  :cleary-1 "Correcting the degeneracy of the father, using praise.",
+  :cleary-2
+  "Dealing with the degeneration of the father, the action is praised.",
+  :legge
+  "The magnetic fifth line is the seat of the ruler, but its proper correlate is the dynamic second line -- the strong minister to whom the work of the hexagram is delegated.",
+  :blofeld
+  "Assuming responsibility for the mistakes of our fathers will win us praise.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Managing the father's Corrupting. Availing- of praise.",
+  :wing
+  "You are in a position to assume the responsibility for a long-needed reform. Do it. Those around you will be supportive of your efforts and you will be honored with praise and recognition.",
+  :editor
+  "Line five does not lend itself to the usual gender symbolism. The dynamic second line deals with feelings (the mother), and the magnetic fifth line deals with thoughts or conscious attitudes (the father). The Confucian commentary describes these correlate lines as uniting to attain symmetry. Ritsema/Karcher translate this as facilitating the unfolding of essence (tao). This suggests an overall rectification of thoughts and feelings to attain balance. The other translations emphasize that one obtains recognition and praise for this, suggesting a major accomplishment in the development of the Work.",
+  :siu
+  "With the assistance of able helpers, the man reverses the process of decay of former times. He is praised for it.",
+  :commentary "",
+  :wilhelm-baynes
+  "Setting right what has been spoiled by the father. One meets with praise.",
+  :wu
+  "He attends to the affairs of his father. He has reputation at his disposal.",
+  :  "",
+  :shaughnessy "The stem father's branch; use a cart."},
+ :number 18,
+ :name "Repair",
+ :the-image
+ {:legge
+  "The image of wind below the mountain forms Repair. The superior man, in accordance with this, stimulates the virtue of the people.",
+  :wilhelm-baynes
+  "The wind blows low on the mountain: the image of Decay. Thus the superior man stirs up the people and strengthens their spirit.",
+  :blofeld
+  "This hexagram symbolizes wind blowing at the foot of a mountain. The Superior Man, by stimulating people's hearts, nourishes their virtue.",
+  :liu
+  "Wind blowing around the foot of the mountain symbolizes Work after Spoiling. The superior man encourages people to cultivate virtue.",
+  :ritsema-karcher
+  "Below mountain possessing wind. Corrupting. A chun tzu uses rousing the commoners to nurture actualizing-tao. [Actualize-tao: ...ability to follow the course traced by the ongoing process of the cosmos... Linked with acquire, TE: acquiring that which makes a being become what it is meant to be.]",
+  :cleary-1
+  "There is wind in the mountains; degeneration. Thus superior people rouse the people and nurture virtue.",
+  :cleary-2 "… Leaders thus arouse the people to nurture virtue.",
+  :wu
+  "There is wind at the foot of the mountain; this is Misdeeds. Thus the jun zi arouses the people and nurtures his own virtue."},
+ :line-4
+ {:confucius-legge
+  "If he advances he will not succeed. Wilhelm/Baynes: He goes, but as yet finds nothing. Blofeld:  In that case, we should fail to rectify them. Ritsema/Karcher: Going: not-yet acquiring indeed. Cleary (2): If you go on you will not attain anything. Wu: He will have nothing to gain by attending to them.",
+  :liu
+  "Continuing to tolerate the mistakes of the father brings humiliation.",
+  :cleary-1
+  "Forgiving the degeneration of the father; if one goes on, there will be shame.",
+  :cleary-2
+  "Indulging the degeneration of the father, if you go on you will experience shame.",
+  :legge
+  "Line four is magnetic in a magnetic place, which intensifies passivity. Hence the caution about going forward.",
+  :blofeld
+  "Tolerating the mistakes of our fathers would occasion us regret in the course of time.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Enriching the father's Corrupting. Going: visualizing abashment.",
+  :wing
+  "The situation has been less than harmonious for quite some time, yet this condition of discord has been tolerated. Under these circumstances things will continue to degenerate.",
+  :editor
+  "Line four doesn't lend itself to the usual gender symbolism. The image is one of passive and permissive tolerance of error. To allow things to continue under these conditions will ensure that they get worse. The line can sometimes refer to a state of complacent ignorance of the true situation. If your assumptions are incorrect in the first place, then your query is by definition inappropriate: re-think the question to discover the error.",
+  :siu "Indulgence of decay leads to regret.",
+  :commentary "",
+  :wilhelm-baynes
+  "Tolerating what has been spoiled by the father. In continuing one sees humiliation.",
+  :wu
+  "He shows compassion in the affairs of his father. If he attends to them, he will make error.",
+  :shaughnessy
+  "The bathed father's branch; going to see is distressful."},
+ :line-2
+ {:confucius-legge
+  "In dealing with the troubles caused by his mother he holds to the course of the due mean. Wilhelm/Baynes: He finds the middle way. Blofeld: At best a middle course is advisable.  Ritsema/Karcher: Acquiring centering tao indeed. Cleary (2): attaining balance. Wu: He proceeds with moderation.",
+  :liu
+  "In correcting the mistakes of the mother, one must not be too persistent.",
+  :cleary-1
+  "Correcting the degeneracy of the mother, it is improper to be righteous.",
+  :legge
+  "The fifth line ruler is magnetic, while line two is dynamic. Thus the symbolism takes the form of a son dealing with the prevailing decay induced by his mother. But a son must be very gentle in all his dealings with his mother, and especially so when constrained by a sense of duty to oppose her course.",
+  :blofeld
+  "Assuming responsibility for the mistakes of our mothers cannot be too serious.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Managing the mother's Corrupting. Not permitting Trial.",
+  :wing
+  "You have become aware of past mistakes that must be rectified. Here you must proceed with great sensitivity, since the changes in your life could hurt those dear to you.",
+  :editor
+  "In psychological symbolism, a female represents emotional or feeling components within the psyche. A mother then, would be the source of an emotional attitude which, in the context of this hexagram, needs to be modified or changed. In correcting outmoded or inappropriate feelings one must proceed with care because emotional/instinctual forces cannot be altered as quickly as we can change our minds. (It is a commonplace in psychology that mental insights mean nothing if the emotions involved refuse to conform.) Often the line can refer to the proper way of responding to another's sensitive mood or attitude.",
+  :siu
+  "The man is gentle in dealing with his mother, even when duty bound to oppose her. When restoring what has been spoiled by weakness, gradualness is required.",
+  :commentary "",
+  :wilhelm-baynes
+  "Setting right what has been spoiled by the mother. One must not be too persevering.",
+  :wu
+  "He attends to the affairs of his mother. He should not be insistent.",
+  :shaughnessy "The stem mother's branch; one may not determine."},
+ :judgment
+ {:liu
+  "Work after spoiling. Great success. It is of benefit to cross the great water. Before starting, three days. After starting, three days. [This hexagram implies that, although conditions are bad now, improvement can be expected.]",
+  :cleary-1
+  "Correcting degeneration is greatly developmental. It is beneficial to cross great rivers. Three days before the start, three days after the start. [The way to correct degeneracy is not in empty tranquility without action; it is necessary to work in the midst of great danger and difficulty, to act in the dragon’s pool and the tiger’s lair. Only then can one restore one’s original being, cultivating it into something indestructible.]",
+  :cleary-2 "From degeneration comes great development, etc.",
+  :legge
+  "Successful progress is indicated for those who properly repair what has been spoiled. It is advantageous to cross the great stream. One should consider carefully the events three days before the turning point and the tasks remaining for three days afterward.",
+  :blofeld
+  "Decay augurs sublime success and the advantage of crossing the great river (or sea). [I.e. of going on a journey or of going forward with one's plans.] What has happened once will surely happen again (literally, three days before the commencement; three days after the commencement).  [It would have been hard to make sense of these words, were it not that the Confucian Commentary on the Text clearly explains them; hence the liberty I have taken with the Text.]",
+  :ritsema-karcher
+  "Corrupting, Spring Growing. Harvesting: wading the Great River. Before seedburst three days, after seedburst three days. [This hexagram describes your situation in terms of disorder, perversion and putrefaction. It emphasizes that letting things rot away so they become obsolete is the adequate way to handle it...]",
+  :wilhelm-baynes
+  "Work On What Has Been Spoiled has supreme success. It furthers one to cross the great water. Before the starting point, three days. After the starting point, three days.",
+  :wu
+  "Misdeeds is great and pervasive. It will be advantageous to cross the big river. It would be advisable to begin an undertaking three days before Jia and examine the ongoing progress three days thereafter.",
+  :shaughnessy
+  "Branch:  Prime auspiciousness; receipt. Beneficial to ford the great river; preceding jia by three days, following jia by three days."},
+ :line-6
+ {:confucius-legge
+  "But his aim may be a model to others. Wilhelm/Baynes: Such an attitude may be taken as a model. Blofeld: This indicates that our own will can be our law. [provided we are acting from the highest motives.] Ritsema/Karcher: Purpose permitted by-consequence indeed.",
+  :liu
+  "By not serving kings and princes, one gains higher recognition.",
+  :cleary-1
+  "Not serving kings and lords, one makes one’s concerns loftier.",
+  :cleary-2
+  "One’s will can serve as a model. Wu: His aspiration will be admired.",
+  :legge
+  "Line six is dynamic, with no proper correlate below. Hence it suggests the idea of one outside the sphere of action who takes no part in public affairs, but cultivates himself instead.",
+  :blofeld
+  "He does not serve the King or the nobles -- what he does is even loftier than that. [In other words, if we directly serve the will of heaven; by doing so we act as sages who may safely do whatever they feel is worth doing.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Not affairs, kingly feudatories. Honoring highness: one's affair.",
+  :wing
+  "It is possible for you to transcend the entire situation. You do not have to deal with the mundane details of specific social problems. Instead, you may concern yourself with universal goals and personal or spiritual development. Caution: Viewing the world with a cynical or condescending eye, however, will distort your growth, so watch your attitudes carefully.",
+  :editor
+  "One of the most important precepts of the Work is a clear recognition that you can only measure your position and progress against an inner standard. The expectations and apparent achievements of others count for absolutely nothing. You aren't running a race with the world, but striving to beat your own record. One who has taken responsibility for the Work must be prepared to go where its dictates demand, despite what is considered normal or proper according to contemporary standards. Ritsema/ Karcher's translation of the Confucian commentary (Purpose permitted by-consequence indeed), means that one's determination to go it alone is mandated by a deep inner principle. That such an idea occurs in the hexagram of Repair suggests bolstering one's resolve to accept this lonely burden. Blofeld's version of the Confucian commentary (This indicates that our own will can be our law) is too easily perverted, even with his cautionary note.",
+  :siu
+  "The man does not serve his lord, but lets the world go by and cultivates his own character in solitude. In so doing, however, he creates something valuable for the future of mankind.",
+  :commentary "",
+  :wilhelm-baynes
+  "He does not serve kings and princes, sets himself higher goals.",
+  :wu
+  "He does not engage himself in the affairs of kings or princes. He keeps a lofty lifestyle of his own.",
+  :shaughnessy
+  "Not serving king or lord, but highly elevating his virtue; inauspicious."},
+ :notes-&-para
+ {:the-superior-man
+  "orders his thoughts and feelings, reforms old attitudes, and strengthens his will. (Psychologically, to stimulate the virtue of the people (Legge) is to rectify the components of a complex.)",
+  :to-imagine-any-truly-objective-state-of-perception-we-must-include-all-that-exists-the-entire-cosmos.-each-differentiation-of-this,-from-atom-to-galaxy,-is-one-slice-out-of-an-infinite-whole.-as-a-portion-of-the-entirety,-we-are-always-linked-with-our-ancestors-in-an-infinite-web-of-relationships-which-includes-our-family-history,-our-racial-cultural-historical-heritage-and
+  "Homo sapiens as a species. Though seldom aware of them, it is useful to remember these links. Emanating from an unfathomable complexity, their karmically-charged morphogenetic fields are constantly shaping our lives. It follows that, although we perceive ourselves as separate from our ancestors, the separation is a subjective experience which is true only in a temporally limited sense.",
+  :the-father-archetype-has-a-wide-range-of-meanings-this-extends-from-the-primal-spirit-("god-the-father"),-to-a-prior-cause-or-intent-in-the-psyche-which-has-engendered-a-present-condition.-psychologically-interpreted,-it-is-this-latter-reading-which-usually-applies.-if-a-"father"-symbolizes-the-cause,-then-a-"son"-is-the-effect.-if-the-effect-is-imperfect,-then-to-rectify-it-is-also-to-rectify-the-original-intent.
+  "",
+  :for-example-in-a-misconceived-expression-of-affection,-a-parent-allows-his-child-unrestricted-access-to-candy.-as-a-consequence-of-this-choice,-the-kid's-teeth-become-rotten,-and-the-only-logical-way-to-correct-the-original-error-is-to-now-curtail-his-intake-of-sugar.-the-fact-that-this-new-choice-will-create-stress-in-the-relationship-between-parent-and-child-is-just-a-consequence-of-the-original-choice-and-has-no-bearing-at-all-on-what-is-correct-in-the-situation.
+  "",
+  :the-interpretation-of-any-oracle-response-can-only-be-as-profound-as-our-minds-are-prepared-to-accept.-as-moderns-we-find-it-difficult-to-empathize-with-"ancestor-worship,"-yet-properly-understood,-it-can-provide-useful-insights-into-the-work.-in-the-unconscious-realm-all-time-is-immediate,-not-sequential,-and-the-objective-psyche-consists-of-a-non-temporal-web-of-forces-shading-from-personal-to-universal.-this-means-that-if-we-have-a-complex-engendered-in-us-by-our-father,-for-example,-we-can-reasonably-assume-that-he-was-passing-on-what-he-received-from-his-own-parents.-in-this-way,-the-unresolved-complexes-of-the-ancestors-shape-our-own-personalities-they-live-in-and-through-us-right-now,-even-if-they-had-their-birth-in-forefathers-long-forgotten.-this-is-a-kind-of-near-immortality-individuals-may-die,-but-beliefs,-attitudes,-complexes-live-as-long-as-they-have-receptive-vessels-to-inhabit.-(this-is-probably-the-engine-of-karma.)-to-the-extent-that-an-ancestral-chain-of-causality-still-motivates-our-choices,-we-are-totally-responsible-for
+  "setting right what has been spoiled by the father.",
+  :judgment
+  "Repair means to set your house in order. Analyze your choices before the renovation and evaluate their consequences afterward.",
+  :in-some-situations-this-hexagram-may-be-interpreted-as-a-response-to-a-karmic-chain-of-cause-and-effect
+  "",
+  :most-people-have-some-level-of-unfinished-business-with-their-parents-psychologists-would-have-little-to-do-if-this-weren't-true.-it-can-be-a-healing-ritual-to-set-up-an-altar-to-a-deceased-parent-and-meditate-there-on-the-stresses-that-still-remain-between-you.-to-approach-the-situation-without-judgment,-to-realize-(non-logically)-that-forces-pre-existing-you-provoked-the-condition-as-much-as-your-parent-did,-will-elicit-much-insight.-be-especially-aware-of-the-presence-of-the-past-and-the-illusion-of-linear-time.-(is-it-possible-somehow-to-be-your-own-great-grandfather?)-ancestor-“worship”-of-this-sort-can-be-profoundly-therapeutic.
+  "",
+  :suggestions-for-meditation " ",
+  :to-a-large-extent-our-lives-consist-of-well-intentioned-but-misguided-choices-which-create-less-than-perfect-consequences.-to-modify-our-attitude-or-behavior-so-that-it-corrects-errors-in-our-original-intent-is-to
+  "deal with the troubles caused by the father.",
+  :every-line-of
+  "Repair, except two and six, shows a son dealing with the troubles caused by his father. This reminds us of the biblical curse:"},
+ :commentary
+ {:confucius-legge
+  "The dynamic trigram is above, and the magnetic trigram is below. Pliancy is below, and Stopping above: these suggest troubled conditions verging on ruin. But Repair brings order to all under heaven, and he who advances will encounter the business to be done. The end of confusion is the beginning of order; such is the procedure of heaven.",
+  :legge
+  "Repair means the performance of painful but necessary duties. It shows a situation in which things are going to ruin, as if through poison or venomous worms. In order to justify the auspice of progress and success, the duty of the figure is to rectify this and restore conditions to health. This will require a major effort, such as crossing the great stream, and the careful differentiation of the causes of the problem, as well as the measures taken to fix it. The attribute of the lower trigram is Pliancy, and the upper represents Stoppage or Arrest. Hence, the feeble pliancy of decadence is stopped cold by the immovable mountain. The three days before and after the turning point symbolize the careful attention and differentiation necessary for any rectification to succeed.",
+  :on-the-image,-ch'eng-tzu-says
+  "When the wind encounters the mountain, it is driven back, and the things about are all scattered in disorder; such is the emblem of the state denoted by Repair. The nourishing of virtue appears especially in line six -- all the other lines belong to the helping of the people."},
+ :line-3
+ {:confucius-legge
+  "In the end there will be no error. Wilhelm/Baynes: In the end there is no blame. Blofeld:  In the end we shall be free from blame. Ritsema/Karcher: Completing without fault indeed. Cleary (2): In the end there is no blame. Wu: He will be blameless in the end.",
+  :liu
+  "In correcting the mistakes of the father, there is slight remorse. No great blame.",
+  :cleary-1
+  "Correcting the degeneracy of the father, there is a little regret but not much blame.",
+  :legge
+  "Line three is dynamic, but not central, so that he might well go to excess in his efforts. But this tendency is counteracted by his place in the trigram of Humble Submission. (Pliancy.)",
+  :blofeld
+  "Making ourselves responsible for the mistakes of our fathers may involve some regret but not much blame.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Managing the father's Corrupting. The small possesses repenting. Without the great: fault.",
+  :wing
+  "You are anxious to rectify the mistakes of the past and move vigorously into the future. Your actions may be hasty and you will be judged inconsiderate by others, but in the end you will not suffer for it.",
+  :editor "The image suggests the normal rectification of an error.",
+  :siu
+  "The man proceeds too energetically in correcting past errors. This results in some discord and distress. But a trifle too much energy is preferable to a trifle too little, and no great blame will ensue.",
+  :commentary "",
+  :wilhelm-baynes
+  "Setting right what has been spoiled by the father. There will be a little remorse. No great blame.",
+  :wu
+  "He attends to the affairs of his father. There will be small regrets, but no big error.",
+  :  "",
+  :shaughnessy
+  "The stem father's branch; there is a little regret; there is no great trouble."},
+ :char \䷑,
+ :other-titles
+ {:titles
+  ("Work On What Has Been Spoiled"
+   "The Symbol of Destruction"
+   "Decay"
+   "Arresting of Decay"
+   "Work after Spoiling"
+   "Fixing"
+   "Rectifying"
+   "Corrupting"
+   "Branch"
+   "Degeneration"
+   "Misdeeds"),
+  :quotes
+  ({:author "D. F. Hook",
+    :quote "Can refer to heredity and psychological traits.”"})}}

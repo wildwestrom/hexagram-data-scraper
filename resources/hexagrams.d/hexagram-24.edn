@@ -1,0 +1,222 @@
+{:binary "100000",
+ :line-1
+ {:the-master-said
+  "I may venture to say that the son of the Yen family [Yen Hui, Confucius' favorite disciple] had nearly attained the standard of perfection. If anything that he did was not good, he was sure to become conscious of that; and when he knew it, he did not do the same thing again. As is said in the I Ching, The first line shows its subject returning from an error that has not led him far away. There is no occasion for repentance. There will be great good.",
+  :confucius-legge
+  "Returning from an error of no great extent is the prelude to the cultivation of the person. Wilhelm/Baynes: Thus one cultivates one's character. Blofeld: Turning back before having gone too far is a means of self-discipline.  Ritsema/Karcher: Using adjusting individuality indeed. Cleary (2): Returning that is not far is done by cultivating oneself. Wu: To return before wandering far is a way of cultivating oneself.",
+  :liu "Return from not far away. No remorse. Great good fortune.",
+  :cleary-1 "Returning not far; no regret.",
+  :cleary-2 "Returning not far, no regret, very auspicious.",
+  :legge
+  "The subject of line one is the only dynamic line in the hexagram, meaning here, says Ch'eng-tzu, the way of the superior man. There must have been some deviation from that, or returning could not be spoken of.",
+  :blofeld
+  "Returning from nearby -- nothing much to regret and sublime good fortune!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Not distancing Returning. Without merely repenting. Spring significant.",
+  :wing
+  "You may be considering an idea that is by nature contrary to your principles. Exercise self-discipline and hold to what you feel is right. In this way you cultivate your character and will surely attain great things.",
+  :editor
+  "The line describes one who turns around immediately when he discovers his error.",
+  :siu
+  "At the outset, the man returns to the original course of goodness after a minor setback. There is no cause for remorse since the evil is put aside quickly.",
+  :commentary "",
+  :wilhelm-baynes
+  "Return from a short distance. No need for remorse. Great good fortune.",
+  :wu
+  "He does not wander far from Return. There will be no cause for regret. Great fortune.",
+  :shaughnessy
+  "Not returning from afar; there is no mention of regret; prime auspiciousness."},
+ :line-5
+ {:confucius-legge
+  "This is due to her striving to perfect herself in accordance with her central position. Wilhelm/Baynes: Central, therefore he is able to test himself. Blofeld: This middle line (of the upper trigram) implies critical self-examination. Ritsema/Karcher: Centering originating-from the predecessor indeed. Cleary (2): Attentive return without regret is balanced reflection on oneself. Wu: From a central position he examines himself.",
+  :liu "Benevolent return. No remorse.",
+  :cleary-1 "Attentive return; no regret.",
+  :legge
+  "Line five is in the central place of honor, and the middle of the trigram of Docility; hence its auspice.",
+  :blofeld "Returning for some high purpose -- no regret!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Magnanimous Returning. Without repenting.",
+  :wing
+  "You are aware of the need for a new beginning and have the courage to make the change. By observing your faults with objectivity and resolution at this time you will gain the strength of character necessary to overcome them.",
+  :editor
+  "Wilhelm's commentary describes a test situation: (The line) is central; therefore it is possible for it to test itself and thus to find a way of turning back from all mistakes. The relationship with the (first line) is not suggested by any external ties, hence it represents noble hearted free decision. Blofeld's: critical self- examination in the Confucian commentary repeats this idea, as does Cleary’s “Balanced reflection on oneself.”",
+  :siu
+  "The man makes a noble hearted recovery by squarely facing his own shortcomings rather than leaning on trivial excuses.",
+  :commentary "",
+  :wilhelm-baynes "Noble hearted return. No remorse.",
+  :wu "He attains Return with assiduities. There will be no regret.",
+  :shaughnessy "Thick return; there is no regret."},
+ :number 24,
+ :name "Return",
+ :the-image
+ {:legge
+  "Thunder in the middle of the earth -- the image of Return. Thus the ancient kings closed the passes on the day of the winter solstice to prevent travelers from pursuing their journeys, and princes from inspecting their states.",
+  :wilhelm-baynes
+  "Thunder within the earth: the image of The Turning Point. Thus the kings of antiquity closed the passes at the time of the solstice. Merchants and strangers did not go about, and the ruler did not travel through the provinces.",
+  :blofeld
+  "This hexagram symbolizes thunder in the bowels of the earth. [The component trigrams in this position suggest thunder coming from under the earth; but the trigram of thunder also means to sprout or quicken; it is this concept of a quickening within the earth that makes this hexagram generally favorable.] The ancient rulers closed the passes during the solstices [The solstices were times for solemn sacrifice; it has always been the practice in China for people to return to their homes for the celebration of the great yearly festivals. Return in this sense is highly auspicious.] and the merchants were unable to travel. Even the rulers abstained from touring their territories at those times.",
+  :liu
+  "Thunder in the earth symbolizes Return. Thus in ancient times the kings closed the roads during the winter solstice. Merchants and travelers ceased traveling. And rulers would not visit their territories.",
+  :ritsema-karcher
+  "Thunder located-in earth center. Returning. The Earlier Kings used culminating sun to bar the passages. Bargaining sojourners [used culminating sun] not to move. The crown-prince [used culminating sun] not to inspect on-all- sides.",
+  :cleary-1
+  "Thunder is in the earth; Return. Thus did the kings of yore shut the gates on the winter solstice; caravans did not travel, the ruler did not inspect the regions.",
+  :wu
+  "Thunder is inside the earth; this is Renewal. Thus on the day of the winter solstice, the ancient kings ordered the city gates closed, so that merchants and travelers could take a break of their journeys; the kings refrained from performing official duties."},
+ :line-4
+ {:wilhelm
+  "… [Line four] is in the midst of weak lines, and is itself compliant and in a weak place. One might infer a lack of initiative. But the line is in the relationship of correspondence to the strong nine at the beginning, hence solitary return.",
+  :confucius-legge
+  "Her object is to pursue the proper path. Wilhelm/ Baynes: One returns alone, and so follows the right way. Blofeld: This solitary return is necessary if the path of righteousness is to be followed. Ritsema/ Karcher: Using adhering-to tao indeed. Cleary (2): (This) is done by following the path. Wu: Because he follows the principle.",
+  :liu
+  "One walks among others but returns by oneself. [Now is the time to better yourself.]",
+  :cleary-1 "Traveling in the center, returning alone.",
+  :legge
+  "Line four differs from all the other magnetic lines in that she is the only one to have a proper correlate in line one. Hence her course is different accordingly.",
+  :blofeld
+  "Setting forth in company, but returning alone. [This suggests that our companions will try (or are trying) to lead us astray and that we must let them go forward alone.]",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Centering movement, solitary Returning.",
+  :wing
+  "Your current milieu is inferior. You have become aware of the possibility of a change for the better and wish to move in that direction. Be aware that your friends may not follow you. Your path could be a solitary one.",
+  :editor
+  "In an inner sense, this can refer to conflicting emotions and the correct way to deal with them. The Confucian commentary suggests the paraphrase: Do what is right or proper in the situation under question. This is indicated by the line’s proper alliance with its powerful first line correlate. Wilhelm’s commentary on the hexagram links to the symbolism of line four: “Thus the [line] counsels turning away from the confusion of external things, turning back to one’s inner light. There, in the depths of the soul, one sees the Divine, the One. It is indeed only germinal, no more than a beginning, a potentiality, but as such clearly to be distinguished from all objects. To know this One means to know oneself in relation to the cosmic forces.”",
+  :siu
+  "The man is superficially connected with inferior people but more deeply attached to a noble friend.",
+  :commentary "",
+  :wilhelm-baynes "Walking in the midst of others, one returns alone.",
+  :wu "Being in the middle, he alone finds Return.",
+  :shaughnessy "In the ranks there is solitary return."},
+ :line-2
+ {:this-is-made-easier-by-the-example-of-a-good-man. "",
+  :confucius-legge
+  "This is due to her condescension to the virtuous subject of the line below. Wilhelm/Baynes: The good fortune of a quiet return depends on subordination to a good man. Blofeld: This good fortune results from our treating others with loving-kindness.  Ritsema/Karcher: Using humanity below indeed. Cleary (2): Comes through humble benevolence. Wu: (This) is due to his submission to the one having the love for mankind.",
+  :liu
+  "Quiet return. Good fortune. [It benefits one to rely on an influential person.]",
+  :cleary-1 "Good return; auspicious.",
+  :legge
+  "Line two is in its proper place and central, but it is magnetic. This is more than compensated for by its adherence to line one -- the fifth line not being a proper correlate. Hence her return is called excellent or admirable. The virtuous subject of the first line is in line two calledzhen, the benevolent or loving. It is the only case in all the symbolism of theI Chingwhere we find that term used as an adjective. It is emphatic here for Humanity -- man in his ideal state.",
+  :blofeld "A return blessed by heaven -- good fortune!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Relinquishing Returning. Significant.",
+  :wing
+  "It is much easier to do the right thing when you are in good company. Following good examples will lead you to success.",
+  :editor
+  "The meaning of the line is derived from its allegiance to line number one. This can be interpreted as subordination to a high ideal or principle of integration. If we consider Legge's commentary on the concept of zhenas love in the highest sense of unity/union, then the line suggests a return to a principle of love, unity or even the Supreme Ultimate itself.",
+  :siu
+  "The man makes an admirable comeback through an act of self-mastery.",
+  :commentary "",
+  :wilhelm-baynes "Quiet return. Good fortune.",
+  :wu "He who admires Return will find auspiciousness.",
+  :shaughnessy "Beneficent return; auspicious."},
+ :judgment
+ {:liu
+  "Return:success. One goes out and comes back in without harm. Friends arrive without blame. Going to and fro is the way. Returning on the seventh day. It benefits one to go anywhere. [Return or Revival signifies a bad time becoming better... Anyone receiving this hexagram should prepare for a great opportunity...]",
+  :cleary-1
+  "Return is developmental. Exiting and entering, there is no ill. When a companion comes, there is no fault. Reversing the path, returning in seven days, it is beneficial to have a place to go.",
+  :cleary-2
+  "Return is successful, etc. … Returning back on the path, etc.",
+  :legge
+  "Progress and freedom of action are found in Return. Goings and comings are unimpeded, and friends approach without error. Return to repeat the proper course. Seven days returns the cycle to its beginning. There is advantage in choosing one's path.",
+  :blofeld
+  "Return. Success! All going forth and coming in is free from harm. [For it is only when the whole series is completed that we can understand the reasons for many things (death, winter and so on) which, at the time, seemed unproductive, negative or positively evil.] Friends arrive and no error is involved. They return whence they came, spending seven days in all upon their coming and returning. It is favorable to have in view some goal (or destination).",
+  :ritsema-karcher
+  "Returning, Growing. Issuing-forth, entering, without affliction. Partnering coming, without fault. Reversing Returning one's tao. The seventh day coming: Returning. Harvesting: possessing directed going. [This hexagram describes your situation in terms of something that is re-emerging. It emphasizes that going back to the starting point in order to begin anew is the adequate way to handle it. To be in accord with the times you are told to return!]",
+  :wilhelm-baynes
+  "Return. Success. Going out and coming in without error. Friends come without blame. To and fro goes the way. On the seventh day comes return. It furthers one to have somewhere to go.",
+  :wu
+  "Renewal is pervasive. He who comes and goes will have no error. Friends come without harm. The course repeats itself. In seven days, one cycle of reversion completes. There will be advantage to have an undertaking.",
+  :shaughnessy
+  "Returning: Receipt; in exiting and entering there is no illness; when the burying comes there is no trouble; turning around and returning to its way, in seven days it comes in return; beneficial to have someplace to go."},
+ :line-6
+ {:confucius-legge
+  "Evil consequences result because the course pursued is contrary to the proper course for a ruler. Wilhelm/Baynes: The misfortune in missing the return lies in opposing the way of the superior man. Blofeld:  The misfortune described here is the result of deviation from the path of the Superior Man.[The omen presages very serious trouble affecting many people besides ourselves as a result of deviation from the path of virtue.]Ritsema/Karcher: Reversing the chief: tao indeed. Cleary (2): Turning back on the path of a leader. Wu: The proper conduct of a sovereign has been violated.",
+  :liu
+  "Confusing return. Misfortune, disaster. If there is a battle, there will be a great defeat. The ruler of the nation will meet disaster, and it (Sic) will be unable to attack for ten years. [At this time quietness ensures good fortune, but action leads to misfortune.]",
+  :cleary-1
+  "Straying from return is bad; there is trouble. A military expedition will end in a great defeat, which is disastrous even for the ruler of the nation; even in ten years there is no victory.",
+  :legge
+  "Line six is magnetic at the top of the hexagram. The time for returning is over with, and any action she takes will lead to the evils mentioned. Ten years seems to be a round number signifying a long time.",
+  :blofeld
+  "A confused return -- misfortune! Disasters and injury threaten. Armies set marching, but ultimately a great defeat takes place. Disaster is about to overtake the ruler and for at least ten years there can be no hope of putting things to right.",
+  :notes-and-paraphrases "",
+  :ritsema-karcher
+  "Deluding Returning. Pitfall. Possessing Calamity [and] Blunder. Availing-of moving legions: completing possesses great destroying. Using one's city chief: pitfall. Culminating tending-towards ten years- revolved not controlling chastisement.",
+  :wing
+  "You've missed the time to make a change for the better at the beginning of this recent cycle. This is unfortunate because you were quite capable of recognizing the need for reform. Instead, you have stubbornly locked yourself into a non-constructive attitude. You must now wait out the entire cycle before you have another chance to change.",
+  :editor
+  "Line six is an unambiguous image of vacillation about the proper path, and a warning about the consequences of inferior choices. Note that Legge, Wilhelm, Liu and Wu all use the conditional ‘if’ to represent the option of military action: in other words there is still room to avoid defeat by returning to base rather than attacking. Hence the portent of this line is not necessarily a foregone conclusion.",
+  :siu
+  "The man attempts to gain his objectives by force. His blind obstinacy leads to calamity. The use of armies under these conditions will result in a great defeat and a long-lasting disaster for the state.",
+  :commentary "",
+  :wilhelm-baynes
+  "Missing the return. Misfortune. Misfortune from within and without. If armies are set marching in this way, one will in the end suffer a great defeat, disastrous for the ruler of the country. For ten years it will not be possible to attack again.",
+  :wu
+  "Losing Return in bewilderment will be foreboding. There will be calamities. If he leads his army in battles, he will be thoroughly defeated in the end. The disaster will inflict his ruler as well. Even in ten years he will not win.",
+  :shaughnessy
+  "Lost return; inauspicious. There being this inspection, herewith move troops; in the end there will be a great defeat, together with its state lord; inauspicious; until the tenth year you cannot make it upright."},
+ :notes-&-para
+ {:judgment
+  "The Work is recycled, perfected and refined over and over again.",
+  :the-superior-man "pauses before he begins anew.",
+  :the-mention-of-seven-days-in-the-judgment-and-the-winter-solstice-in-the-image-tells-us-that-the-hexagram-of
+  "Return deals with cyclic progression.",
+  :seven-days-is-one-quarter-of-a-lunar-cycle-and-the-module-upon-which-a-week-is-based.-the-sabbath-day-is-the-seventh-day-and-a-day-of-rest-in-the-hebrew-tradition,-as-was-also-the-day-of-the-new-moon.-the
+  "closing of the passes in the Image is another expression of the idea of resting at the beginning of a new cycle. To refrain from activity at these times was a sacrifice and a spiritual obligation. The concept behind it is the acknowledgment of one's Source, a review of the past cycle and a meditation upon the new cycle just beginning. Psychologically interpreted, forces in the unconscious psyche demand a pause before their dance can resume.",
+  :although-the-chinese-observed-no-“sabbath”-that-i-am-aware-of,-the-idea-of-a-rest-at-the-commencement-of-a-cycle-is-clearly-intended-in-this-hexagram.-in-terms-of-the-work,-one-eventually-becomes-aware-of-cycles-and-rest-periods,-even-if-one-never-noticed-them-previously.-when-one-learns-how-to-synchronize-conscious-awareness-with-these-inner-rhythms,-the-tempo-of-the-work-begins-to-accelerate.
+  "",
+  :"there-is-advantage-in-choosing-one's-path"
+  "is rendered by Wilhelm as: It furthers one to have somewhere to go. The idea is that when you are consciously on a path, the cycles begin to work in your favor. Instead of a monotonous round of inconclusive and random events, one's life takes on structure and purpose and inner progress becomes discernable.",
+  :every-line-of-this-hexagram-refers-to-returning-to-the-proper-path,-so-the-hexagram-can-imply-that-perhaps-you-have-strayed-from-the-work-to-one-degree-or-another.-without-changing-lines,-it-can-mean-to-rest-at-the-beginning-of-a-cycle,-or-to-get-back-on-course-re-attune-yourself-with-the-current-phase-of-the-work.
+  ""},
+ :commentary
+ {:confucius-legge
+  "Return shows the coming back of the dynamic principle. His actions show movement directed in accordance with the natural order. Such is the movement of the heavenly cycle. The dynamic lines are growing and increasing. Do we not see inReturn the mind of heaven and earth?",
+  :legge
+  "Return symbolizes the idea of coming back or over again. The previous hexagram showed the ascendancy of inferior forces, when all that is good in nature or society yields before what is bad. But change is eternal, and here we see the beginnings of recovery from the former situation. Return is associated with the time of the winter solstice when the sun begins its journey back toward summer. In harmony with these cycles in nature are the cycles in human affairs.",
+  :the-dynamic-bottom-line-is-the-first-line-of-the-trigram-of-movement,-and-the-upper-trigram-is-that-of-docility.-the-dynamic-returning-line-will-meet-with-no-resistance-and-all-the-magnetic-lines-above-it-will-be-transformed-into-allies.-the-bright-quality-will-be-developed-brighter-and-brighter-from-day-to-day-and-month-to-month.
+  "",
+  :"in-seven-days-brings-return"
+  "refers to the idea of a new cycle commencing when each of the six lines of a hexagram has changed -- the seventh line, or seventh day begins a new cycle just as Sunday begins a new week.",
+  :thunder-in-the-midst-of-the-earth-is-thunder-shut-up-and-silent,-just-able-to-make-its-presence-felt.-so-it-is-with-the-first-stirrings-of-life-after-the-winter-solstice-and-the-first-returning-steps-of-the-wanderer-to-virtue.-as-the-spring-of-life-has-to-be-nurtured-in-quietness,-so-also-the-purpose-of-goodness.
+  "",
+  :wilhelm
+  "The hexagram of RETURN, applied to character formation, contains various suggestions. The light principle returns; thus the hexagram counsels turning away from the confusion of external things, turning back to one’s inner light. There, in the depths of the soul, one sees the Divine, the One. It is indeed only germinal, no more than a beginning, a potentiality, but as such clearly to be distinguished from all objects. To know this One means to know oneself in relation to the cosmic forces. For this One is the ascending force of life in nature and in man."},
+ :line-3
+ {:confucius-legge
+  "Notwithstanding her many returns there will be no error because she aims after righteousness. Wilhelm/Baynes: The danger of repeated return is, in its essential meaning, deliverance from blame. Blofeld: This means that we are in no way to blame for the trouble. Ritsema/ Karcher: Righteous, without fault indeed. Cleary (2): The diligence of repeated return is faultless if right. Wu: The peril of repeatedly losing Return is in principle blameless.",
+  :liu "Frequent returns. Danger. No blame.",
+  :cleary-1 "Repeated return; danger, no fault.",
+  :cleary-2 "Repeated return is diligence. There is no fault.",
+  :legge
+  "Line three is magnetic in the dynamic place at the top of the trigram of Movement. Any evil issue may be prevented by caution and awareness of danger.",
+  :blofeld "Frequent returns -- trouble, but no error!",
+  :notes-and-paraphrases "",
+  :ritsema-karcher "Imminent Returning. Adversity. Without fault.",
+  :wing
+  "This position indicates the type of person who is constantly vacillating because of the imagined advantages of other paths. This kind of experimentation could be dangerous, but is mostly an annoyance to all concerned. It is indicated that the situation will improve nevertheless.",
+  :editor
+  "Implicit here is the idea that there are many lessons to be learned and reinforced when one undertakes the Work, and uncertainty and vacillation are to be expected. Often we expect more of ourselves than we are capable of performing. One doesn't learn how to be a mountain climber by immediately attempting to scale Mt. Everest. The Work is a task of many lifetimes, involving the step by step integration of countless disparate complexes within the psyche. Occasionally we may get off the path, but as long as we remain committed to the Work we must always return -- hopefully having learned something from our temporary detour. This is not a justification for a failure of willpower, but it is a recognition that such failures exist here in the World of the Senses. Blofeld's interpretation of the Confucian commentary can be misleading -- the no blame or no error proviso in the original line derives from our recognition that we have gotten off the path and are determined to return to it, not usually that we are entirely free of culpability. On the other hand, the line can sometimes represent a recurring issue in which personal blame is not an obvious factor: one just has to deal with it until it’s resolved. (For example, a problem which others have not integrated, that they keep pushing on you.) In its most negative interpretation, the line images a chronic condition.",
+  :siu
+  "The man is changeable, departing time after time from the right course because of his uncontrolled desire for apparent advantages and returning to it for seemingly better solutions. No great blame will be attached to him, but there is still some danger.",
+  :commentary "",
+  :wilhelm-baynes "Repeated return. Danger. No blame.",
+  :wu
+  "He who regains Return after repeatedly losing it will be in a perilous position, but blameless. [The person seems to be unable to stay on course, but manages to correct his error every time as soon as he knows it. A combination of vacillation and endeavor to be right earns him a passing grade.]",
+  :shaughnessy "Sequenced return; danger; there is no trouble."},
+ :char \䷗,
+ :other-titles
+ {:titles
+  ("The Turning Point"
+   "The Symbol of Returning"
+   "Revival"
+   "Recovery"
+   "To Repeat"
+   "Renewal"
+   "Restore"
+   "Return to the Way"
+   "Cyclic Repetition"),
+  :quotes
+  ({:author "D.F. Hook",
+    :quote "Return to virtue or happier conditions."})}}
